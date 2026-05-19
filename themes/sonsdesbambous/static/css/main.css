@@ -15,7 +15,7 @@
 }
 
 html { scroll-behavior: smooth; }
-body { background: var(--paper); color: var(--ink); font-family: var(--ff-body); font-size: 18px; line-height: 1.75; min-height: 100vh; }
+body { background: var(--paper); color: var(--ink); font-family: var(--ff-body); font-size: 20px; line-height: 1.75; min-height: 100vh; }
 
 /* ── NAV ── */
 .site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
