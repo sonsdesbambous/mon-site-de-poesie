@@ -3,7 +3,9 @@ title: Đói
 title_fr: La faim
 auteur: Phùng Quán
 annee: 1932–1995
-genre: Humanité
+genre: ""
+tags:
+  - Humanité
 texte_vi: |-
   Trong trăm nghìn nỗi đói
   Tôi nếm trải cả rồi
