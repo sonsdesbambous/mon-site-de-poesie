@@ -1,47 +1,35 @@
 ---
-title: "Thu sơ"
-title_fr: "Automne précoce"
-auteur: "Nguyễn Du"
-annee: "1820"
-genre: "Lục bát · Poème classique"
+title: Lấy chồng chung
+title_fr: Partage de mari
+auteur: Hồ Xuân Hương
+annee: 1772-1822
+genre: Poème classique
 tags:
-  - Automne
-  - Nature
-  - Mélancolie
-extrait: "Ngõ trúc quanh co khách vắng teo, Trước nhà mấy khóm thu đang trổ…"
+  - POLYGAMIE
 texte_vi: |
-  Ngõ trúc quanh co khách vắng teo,
-  Trước nhà mấy khóm thu đang trổ.
-
-  Qua song thấp thoáng bóng trăng vàng,
-  Gió thổi lá vàng rơi lác đác.
-
-  Tiếng trùng rỉ rả, tiếng thu dài,
-  Lòng khách tha hương man mác buồn.
+  Chém cha cái kiếp lấy chồng chung
+  Kẻ đắp chăn bông kẻ lạnh lùng 
+  Năm thì mười họa chăng hay chớ
+  Một tháng đôi lần có cũng không
+  Cố đấm ăn xôi xôi lại hẩm
+  Cầm bằng làm mướn mướn không công
+  Thân này ví biết đường này nhỉ
+  Thà trước thôi đành ở vậy xong
 traductions:
-  - traducteur: "Marie-Hélène Lê"
-    texte_fr: |
-      L'allée de bambous serpente, déserte,
-      Devant la maison, quelques touffes d'automne s'épanouissent.
-
-      Par la fenêtre filtre l'ombre dorée de la lune,
-      Le vent souffle, des feuilles jaunes tombent çà et là.
-
-      Les grillons grésillent, le chant de l'automne s'étire,
-      Le cœur du voyageur loin de chez lui se noie dans une mélancolie diffuse.
-  - traducteur: "Pierre Nguyễn"
-    texte_fr: |
-      Le sentier de bambou tourne, nul visiteur ne passe,
-      Devant la demeure fleurissent les herbes de l'automne.
-
-      À travers la fenêtre, la lune dorée se profile à peine,
-      Le vent disperse les feuilles rousses en silence.
-
-      Les insectes murmurent leur longue complainte d'automne,
-      L'exilé porte au fond du cœur une tristesse sans nom.
+  - texte_fr: |-
+      Maudit soit notre destin de concubines,
+      Si l’une a le duvet chaud, les autres le lit froid.
+      Monsieur ne passe que par pur hasard,
+      À peine deux nuits par mois, presque rien.
+      On encaisse les coups pour un riz qui s’avère rance,
+      Comme un labeur de servante, mais sans la recompense.
+      Si j’avais su que le chemin était ainsi,
+      Il aurait mieux valu rester seule dès le début.
+    traducteur: Sonsdesbambous
 audio: ""
 video_id: ""
 voix: ""
-date: 2025-01-01
+extrait: Chém cha cái kiếp lấy chồng chung Kẻ đắp chăn bông kẻ lạnh lùng…
+date: 2026-05-19
 draft: false
 ---
