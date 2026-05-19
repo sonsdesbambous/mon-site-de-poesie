@@ -2,7 +2,7 @@ backend:
   name: github
   repo: sonsdesbambous/mon-site-de-poesie
   branch: main
-  base_url: https://api.netlify.com
+  base_url: https://cms-oauth.minhphuong.workers.dev
   auth_endpoint: auth
 
 media_folder: static/audio
