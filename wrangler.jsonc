@@ -1,0 +1,7 @@
+{
+  "name": "mon-site-de-poesie",
+  "compatibility_date": "2026-05-19",
+  "assets": {
+    "directory": "./public"
+  }
+}
