@@ -1,6 +1,6 @@
 ---
 title: Lấy chồng chung
-title_fr: Partage de mari
+title_fr: Le mari partagé
 auteur: Hồ Xuân Hương
 annee: 1772-1822
 genre: Poème classique
