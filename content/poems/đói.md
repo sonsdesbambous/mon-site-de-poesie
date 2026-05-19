@@ -12,7 +12,6 @@ texte_vi: |-
 traductions:
   - traducteur: Sonsdesbambous
     texte_fr: |-
-      
       Des mille formes de la faim
       Qu’à ce jour j’ai déjà vécues,
       Celle me terrifiant le plus
