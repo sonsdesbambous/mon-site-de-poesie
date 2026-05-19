@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — Sons des Bambous</title>
+  <meta name="description" content=" · ">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/extra.css">
+</head>
+<body>
+
+  <header class="site-header">
+  <nav class="nav-inner">
+    <a href="/" class="site-logo">Sons des <span>Bambous</span></a>
+    <ul class="nav-links">
+      <li><a href="/" >Poèmes</a></li>
+      <li><a href="/auteur/" >L'auteur</a></li>
+      <li><a href="/a-propos/" >À propos</a></li>
+      <li><a href="/contact/" class="active">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+
+  <main>
+    
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="page-eyebrow">Écrire, proposer, partager</p>
+    <h1 class="page-title">Contact</h1>
+    <p class="page-intro">Une question, une traduction à proposer, un enregistrement à partager — toutes les contributions sont les bienvenues.</p>
+  </div>
+</section>
+
+<div class="page-content">
+  <div class="contact-grid">
+
+    <div>
+      <h2 class="form-heading">Envoyer un message</h2>
+      <p class="form-subtext">Ce formulaire utilise votre messagerie par défaut.</p>
+
+      <form id="contact-form" onsubmit="handleSubmit(event)">
+        <div class="field">
+          <label for="nom">Nom</label>
+          <input type="text" id="nom" name="nom" placeholder="Votre nom" required>
+        </div>
+        <div class="field">
+          <label for="email">Adresse e-mail</label>
+          <input type="email" id="email" name="email" placeholder="votre@email.com" required>
+        </div>
+        <div class="field">
+          <label for="sujet">Sujet</label>
+          <select id="sujet" name="sujet">
+            <option value="question">Question générale</option>
+            <option value="traduction">Proposer une traduction</option>
+            <option value="enregistrement">Partager un enregistrement</option>
+            <option value="erreur">Signaler une erreur</option>
+            <option value="autre">Autre</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" placeholder="Votre message…" required></textarea>
+        </div>
+        <button type="submit" class="btn-submit">Envoyer le message</button>
+      </form>
+      <div class="form-confirm" id="form-confirm" style="display:none">
+        Merci pour votre message. L'auteur vous répondra dans les meilleurs délais.
+      </div>
+    </div>
+
+    <aside class="contact-info">
+      <div class="info-block">
+        <p class="info-block-title">Coordonnées directes</p>
+        <div class="info-item">
+          <span class="info-item-label">E-mail</span>
+          <span class="info-item-val"><a href="mailto:contact@sonsdesbambous.com">contact@sonsdesbambous.com</a></span>
+        </div>
+        <div class="info-item">
+          <span class="info-item-label">Réponse habituelle</span>
+          <span class="info-item-val">Sous 3 à 5 jours</span>
+        </div>
+      </div>
+      <div class="contrib-box">
+        <p class="info-block-title" style="margin-bottom:0.8rem">Vous souhaitez contribuer ?</p>
+        <p>Traducteurs, récitants, musiciens — si vous souhaitez associer votre travail à un poème du site, envoyez un message en précisant le poème concerné.</p>
+      </div>
+    </aside>
+
+  </div>
+</div>
+
+<script>
+function handleSubmit(e) {
+  e.preventDefault();
+  const nom = document.getElementById('nom').value;
+  const email = document.getElementById('email').value;
+  const sujet = document.getElementById('sujet').value;
+  const message = document.getElementById('message').value;
+  const body = encodeURIComponent('Nom : ' + nom + '\nE-mail : ' + email + '\n\n' + message);
+  const subjects = { question: 'Question générale', traduction: 'Proposition de traduction', enregistrement: "Partage d'enregistrement", erreur: "Signalement d'erreur", autre: 'Contact — Sons des Bambous' };
+  window.location.href = 'mailto:contact@sonsdesbambous.com?subject=' + encodeURIComponent(subjects[sujet]) + '&body=' + body;
+  document.getElementById('contact-form').style.opacity = '0.4';
+  document.getElementById('form-confirm').style.display = 'block';
+}
+</script>
+
+  </main>
+
+  <footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-copy">© 2026 Sons des Bambous · sonsdesbambous.com</p>
+    <ul class="footer-links">
+      <li><a href="/a-propos/">À propos</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+  </div>
+</footer>
+
+
+</body>
+</html>

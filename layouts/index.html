@@ -1,0 +1,101 @@
+{{ define "main" }}
+
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <p class="hero-eyebrow">Poésie vietnamienne traduite</p>
+      <h1 class="hero-title">Sons des<br><em>Bambous</em></h1>
+      <p class="hero-subtitle">Thơ Việt · Poésie en deux voix</p>
+      <p class="hero-desc">Une collection de poèmes vietnamiens classiques et contemporains, présentés en version originale et traduits en français — parfois accompagnés d'une voix, d'une musique.</p>
+    </div>
+    {{ $featured := first 1 (where .Site.RegularPages "Section" "poems") }}
+    {{ range $featured }}
+    <div class="hero-featured">
+      <span class="featured-meta">À la une</span>
+      <p class="featured-label">Poème du jour</p>
+      <div class="featured-poem-vi">{{ .Params.extrait | default (substr .Params.texte_vi 0 120) }}</div>
+      <div class="featured-poem-fr">
+        {{ range first 1 .Params.traductions }}{{ substr .texte_fr 0 120 }}{{ end }}
+      </div>
+      <a href="{{ .Permalink }}" class="featured-link">Lire {{ .Title }} — {{ .Params.title_fr }} →</a>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<div class="filters-bar">
+  <div class="filters-inner">
+    <span class="filter-label">Filtrer</span>
+    <button class="filter-btn active" onclick="filterPoems('tous', this)">Tous</button>
+    {{ range .Site.Taxonomies.tags }}
+    <button class="filter-btn" onclick="filterPoems('{{ .Page.Title | urlize }}', this)">{{ .Page.Title }}</button>
+    {{ end }}
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input type="search" class="search-input" placeholder="Rechercher…" oninput="searchPoems(this.value)" aria-label="Rechercher un poème">
+    </div>
+  </div>
+</div>
+
+<section class="poems-section">
+  <p class="poems-count" id="count">{{ len .Site.RegularPages }} poèmes</p>
+  <div class="poems-list" id="poems-list">
+    {{ range where .Site.RegularPages "Section" "poems" }}
+    <a href="{{ .Permalink }}" class="poem-row" data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
+      <div>
+        <div class="row-title-vi">{{ .Title }}</div>
+        <div class="row-title-fr">{{ .Params.title_fr }}</div>
+      </div>
+      <div class="row-excerpt">{{ .Params.extrait | default (substr .Params.texte_vi 0 100) }}</div>
+      <div class="row-tags">
+        {{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}
+      </div>
+      <div class="row-meta">
+        {{ .Params.auteur }}<br>{{ .Params.annee }}
+        <div class="row-media-icons">
+          {{ if .Params.audio }}♪ {{ end }}
+          {{ if .Params.video_id }}▶{{ end }}
+        </div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+  <p class="empty-state" id="empty-state" style="display:none">Aucun poème trouvé.</p>
+</section>
+
+<script>
+  const rows = Array.from(document.querySelectorAll('.poem-row'));
+  let activeFilter = 'tous';
+  let searchQuery = '';
+
+  function applyFilters() {
+    let visible = 0;
+    rows.forEach((row, i) => {
+      const tags = row.dataset.tags || '';
+      const text = row.textContent.toLowerCase();
+      const matchFilter = activeFilter === 'tous' || tags.includes(activeFilter);
+      const matchSearch = searchQuery === '' || text.includes(searchQuery.toLowerCase());
+      const show = matchFilter && matchSearch;
+      row.style.display = show ? '' : 'none';
+      if (show) { visible++; row.style.animationDelay = (visible * 0.05) + 's'; }
+    });
+    document.getElementById('count').textContent = visible + (visible === 1 ? ' poème' : ' poèmes');
+    document.getElementById('empty-state').style.display = visible === 0 ? '' : 'none';
+  }
+
+  function filterPoems(tag, btn) {
+    activeFilter = tag;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    applyFilters();
+  }
+
+  function searchPoems(val) {
+    searchQuery = val;
+    applyFilters();
+  }
+
+  rows.forEach((row, i) => { row.style.animationDelay = (i * 0.06) + 's'; });
+</script>
+
+{{ end }}

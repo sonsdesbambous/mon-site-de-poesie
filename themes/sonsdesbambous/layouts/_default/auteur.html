@@ -1,0 +1,65 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="page-eyebrow">{{ .Params.eyebrow }}</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+</section>
+
+<main class="page-content">
+  <div class="auteur-grid">
+
+    <aside class="auteur-photo-wrap">
+      <div class="auteur-photo">
+        <!-- Remplacer par : <img src="/images/auteur.jpg" alt="Votre nom"> -->
+        <span>Photo de l'auteur</span>
+      </div>
+      <div class="auteur-quick">
+        <div class="quick-item">
+          <span class="quick-label">Nom</span>
+          <span class="quick-value">Votre nom complet</span>
+        </div>
+        <div class="quick-item">
+          <span class="quick-label">Né(e) à</span>
+          <span class="quick-value">Hà Nội, Việt Nam</span>
+        </div>
+        <div class="quick-item">
+          <span class="quick-label">Réside à</span>
+          <span class="quick-value">Paris, France</span>
+        </div>
+        <div class="quick-item">
+          <span class="quick-label">Langue</span>
+          <span class="quick-value">Vietnamien, Français</span>
+        </div>
+      </div>
+    </aside>
+
+    <div class="auteur-bio">
+      <h2>Une voix entre deux rives</h2>
+      <p>Remplacez ce paragraphe par votre biographie. Racontez votre rapport à la poésie vietnamienne — comment vous l'avez rencontrée, ce qu'elle représente pour vous, ce qui vous a poussé à la partager en français.</p>
+      <p>Parlez de votre parcours, de vos influences, des poètes qui vous ont marqué.</p>
+
+      <blockquote class="auteur-quote">
+        « La poésie vietnamienne porte en elle le souffle du vent dans les bambous — une mélancolie douce, une beauté qui ne crie pas. »
+        <cite>— Votre nom</cite>
+      </blockquote>
+
+      <p>Ce site est né du désir de faire entendre ces voix à ceux qui ne lisent pas le vietnamien.</p>
+
+      <hr class="section-divider">
+      <p class="section-label">Quelques poèmes présentés sur ce site</p>
+
+      <div class="poems-by-author">
+        {{ range first 4 (where .Site.RegularPages "Section" "poems") }}
+        <a href="{{ .Permalink }}" class="author-poem-card">
+          <div class="apc-title">{{ .Title }}</div>
+          <div class="apc-subtitle">{{ .Params.title_fr }}</div>
+          <div class="apc-year">{{ .Params.auteur }} · {{ .Params.annee }}</div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+</main>
+{{ end }}

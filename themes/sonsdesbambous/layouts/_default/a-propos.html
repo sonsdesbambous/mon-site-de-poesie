@@ -1,0 +1,54 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="page-eyebrow">{{ .Params.eyebrow }}</p>
+    <p class="hero-quote">Le bambou plie, mais ne <em>rompt</em> pas — et sa musique traverse les siècles.</p>
+  </div>
+</section>
+
+<div class="page-content">
+  <div class="apropos-grid">
+
+    <div class="apropos-body">
+      <h2>Pourquoi « Sons des Bambous » ?</h2>
+      <p>Le bambou est partout dans la poésie vietnamienne. Il borde les chemins de village, il murmure dans le vent du soir, il accompagne les moments de solitude et de méditation. Ses sons — <em>tiếng trúc</em> — sont devenus une métaphore de la voix poétique elle-même : fragile et tenace à la fois, douce et profonde.</p>
+      <p>Ce site porte ce nom parce qu'il cherche à faire entendre ces sons à travers une autre langue. Traduire un poème vietnamien en français, c'est tenter de préserver ce bruissement particulier.</p>
+
+      <div class="bambou-block">
+        <p class="bambou-block-label">Un exemple — Thu sơ, Nguyễn Du</p>
+        <div class="bambou-block-vi">Ngõ trúc quanh co khách vắng teo</div>
+        <div class="bambou-block-fr">L'allée de bambous serpente, déserte…</div>
+      </div>
+
+      <h2>Une poésie entre deux langues</h2>
+      <p>Chaque poème est présenté dans sa version originale en vietnamien, accompagné d'une ou plusieurs traductions en français. Ces traductions ne cherchent pas à être littérales — elles cherchent à être vivantes.</p>
+      <p>Lorsqu'il existe un enregistrement audio d'une récitation ou d'un chant, il est intégré directement à la page. Car la poésie vietnamienne est avant tout une musique.</p>
+
+      <h2>Comment contribuer</h2>
+      <p>Ce site est un projet ouvert. Si vous souhaitez proposer une traduction, signaler une erreur ou partager un enregistrement, n'hésitez pas à <a href="/contact/">prendre contact</a>.</p>
+
+      <a href="/" class="cta-link">Parcourir tous les poèmes →</a>
+    </div>
+
+    <aside class="apropos-sidebar">
+      <div class="sidebar-card">
+        <p class="sidebar-card-title">En quelques chiffres</p>
+        <ul class="stats-list">
+          <li><span class="stat-label">Poèmes</span><span class="stat-value">{{ len (where .Site.RegularPages "Section" "poems") }}</span></li>
+          <li><span class="stat-label">Poètes représentés</span><span class="stat-value">{{ len ($.Site.Taxonomies.tags) }}</span></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-card">
+        <p class="sidebar-card-title">Thèmes principaux</p>
+        <div style="display:flex;flex-wrap:wrap;gap:0.4rem">
+          {{ range $.Site.Taxonomies.tags }}
+          <a href="{{ .Page.Permalink }}" class="tag">{{ .Page.Title }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </aside>
+
+  </div>
+</div>
+{{ end }}
