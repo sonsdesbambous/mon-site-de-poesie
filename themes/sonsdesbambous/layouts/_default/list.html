@@ -1,0 +1,18 @@
+{{ define "main" }}
+<section class="poems-section">
+  <h1 class="page-title" style="font-family:var(--ff-title);font-size:2rem;padding:3rem clamp(1.5rem,5vw,5rem) 2rem">{{ .Title }}</h1>
+  <div class="poems-list" style="padding:0 clamp(1.5rem,5vw,5rem)">
+    {{ range .Pages }}
+    <a href="{{ .Permalink }}" class="poem-row">
+      <div>
+        <div class="row-title-vi">{{ .Title }}</div>
+        <div class="row-title-fr">{{ .Params.title_fr }}</div>
+      </div>
+      <div class="row-excerpt">{{ .Params.extrait }}</div>
+      <div class="row-tags">{{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}</div>
+      <div class="row-meta">{{ .Params.auteur }}<br>{{ .Params.annee }}</div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

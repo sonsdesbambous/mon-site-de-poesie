@@ -2,8 +2,8 @@ baseURL = 'https://sonsdesbambous.com'
 languageCode = 'fr'
 title = 'Sons des Bambous'
 theme = 'sonsdesbambous'
-paginate = 20
-
+[pagination]
+  pagerSize = 20
 [params]
   description = "Poésie vietnamienne traduite en français"
   author = "Sons des Bambous"
