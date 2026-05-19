@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sons des Bambous</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sonsdesbambous.com/tags/</link>
     <description>Recent content in Tags on Sons des Bambous</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sonsdesbambous.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automne</title>
-      <link>http://localhost:1313/tags/automne/</link>
+      <link>https://sonsdesbambous.com/tags/automne/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/automne/</guid>
+      <guid>https://sonsdesbambous.com/tags/automne/</guid>
       <description></description>
     </item>
     <item>
       <title>Mélancolie</title>
-      <link>http://localhost:1313/tags/m%C3%A9lancolie/</link>
+      <link>https://sonsdesbambous.com/tags/m%C3%A9lancolie/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/m%C3%A9lancolie/</guid>
+      <guid>https://sonsdesbambous.com/tags/m%C3%A9lancolie/</guid>
       <description></description>
     </item>
     <item>
       <title>Nature</title>
-      <link>http://localhost:1313/tags/nature/</link>
+      <link>https://sonsdesbambous.com/tags/nature/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nature/</guid>
+      <guid>https://sonsdesbambous.com/tags/nature/</guid>
       <description></description>
     </item>
   </channel>

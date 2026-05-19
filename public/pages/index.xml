@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Sons des Bambous</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://sonsdesbambous.com/pages/</link>
     <description>Recent content in Pages on Sons des Bambous</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sonsdesbambous.com/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
-      <link>http://localhost:1313/a-propos/</link>
+      <link>https://sonsdesbambous.com/a-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/a-propos/</guid>
+      <guid>https://sonsdesbambous.com/a-propos/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://sonsdesbambous.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://sonsdesbambous.com/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>L&#39;auteur</title>
-      <link>http://localhost:1313/auteur/</link>
+      <link>https://sonsdesbambous.com/auteur/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/auteur/</guid>
+      <guid>https://sonsdesbambous.com/auteur/</guid>
       <description></description>
     </item>
   </channel>

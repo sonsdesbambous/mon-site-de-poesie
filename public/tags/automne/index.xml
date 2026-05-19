@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automne on Sons des Bambous</title>
-    <link>http://localhost:1313/tags/automne/</link>
+    <link>https://sonsdesbambous.com/tags/automne/</link>
     <description>Recent content in Automne on Sons des Bambous</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/automne/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sonsdesbambous.com/tags/automne/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thu sơ</title>
-      <link>http://localhost:1313/poems/thu-so/</link>
+      <link>https://sonsdesbambous.com/poems/thu-so/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/poems/thu-so/</guid>
+      <guid>https://sonsdesbambous.com/poems/thu-so/</guid>
       <description></description>
     </item>
   </channel>
