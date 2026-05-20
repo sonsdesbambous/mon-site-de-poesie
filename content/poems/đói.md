@@ -18,7 +18,7 @@ traductions:
       Qu’à ce jour j’ai déjà vécues,
       Celle me terrifiant le plus
       Est la faim d'humanité.
-extrait: ""
+extrait: Des mille formes de la faim Qu’à ce jour j’ai déjà vécues,...
 date: 2026-05-19
 draft: false
 ---
