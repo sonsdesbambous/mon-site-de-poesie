@@ -1,22 +1,22 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
+ 
 :root {
   --ink:       #1a1812;
-  --ink-soft:  #5c5649;
-  --ink-faint: #9c9485;
+  --ink-soft:  #4a4438;
+  --ink-faint: #7a7268;
   --paper:     #faf8f3;
   --paper-mid: #f0ede4;
   --paper-dark:#e6e2d6;
   --accent:    #8b3a2a;
   --rule:      rgba(26,24,18,0.12);
   --ff-title:  'EB Garamond', Georgia, serif;
-  --ff-body:   'Cormorant Garamond', Georgia, serif;
+  --ff-body:   'EB Garamond', Georgia, serif;
   --ff-ui:     'DM Sans', sans-serif;
 }
-
+ 
 html { font-size: 110%; scroll-behavior: smooth; }
 body { background: var(--paper); color: var(--ink); font-family: var(--ff-body); font-size: 18px; line-height: 1.75; min-height: 100vh; }
-
+ 
 /* ── NAV ── */
 .site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1100px; margin: 0 auto; height: 64px; }
@@ -41,71 +41,71 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 }
 .site-logo span { color: var(--accent); font-style: italic; }
 .nav-links { display: flex; gap: 2.2rem; list-style: none; }
-.nav-links a { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 300; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; transition: color 0.2s; }
+.nav-links a { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; transition: color 0.2s; }
 .nav-links a:hover, .nav-links a.active { color: var(--accent); }
-
+ 
 /* ── HERO ACCUEIL ── */
 .hero { padding: clamp(4rem, 8vw, 9rem) clamp(1.5rem, 5vw, 5rem) clamp(3rem, 6vw, 6rem); border-bottom: 1px solid var(--rule); animation: fadeUp 0.65s ease both; }
 .hero-inner { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
-.hero-eyebrow { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.4rem; }
+.hero-eyebrow { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.4rem; }
 .hero-title { font-family: var(--ff-title); font-size: clamp(2.8rem, 5.5vw, 5rem); font-weight: 400; line-height: 1.08; margin-bottom: 0.5rem; }
 .hero-title em { font-style: italic; color: var(--ink-soft); }
 .hero-subtitle { font-family: var(--ff-body); font-size: 1.15rem; font-style: italic; color: var(--ink-soft); margin-bottom: 2rem; }
-.hero-desc { font-family: var(--ff-ui); font-size: 0.85rem; font-weight: 300; color: var(--ink-faint); line-height: 1.8; max-width: 38ch; }
+.hero-desc { font-family: var(--ff-ui); font-size: 0.88rem; font-weight: 400; color: var(--ink-soft); line-height: 1.8; max-width: 38ch; }
 .hero-featured { background: var(--paper-mid); border: 1px solid var(--rule); padding: 2.4rem 2.8rem; border-radius: 2px; position: relative; }
 .featured-label { font-family: var(--ff-ui); font-size: 0.65rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.4rem; }
-.featured-meta { position: absolute; top: 1.4rem; right: 1.8rem; font-family: var(--ff-ui); font-size: 0.65rem; font-weight: 300; color: var(--ink-faint); }
+.featured-meta { position: absolute; top: 1.4rem; right: 1.8rem; font-family: var(--ff-ui); font-size: 0.65rem; font-weight: 400; color: var(--ink-faint); }
 .featured-poem-vi { font-family: var(--ff-title); font-size: 1.3rem; line-height: 1.9; color: var(--ink); border-left: 2px solid var(--accent); padding-left: 1.2rem; margin-bottom: 1.2rem; }
 .featured-poem-fr { font-family: var(--ff-body); font-size: 1rem; font-style: italic; line-height: 1.8; color: var(--ink-soft); border-left: 2px solid var(--rule); padding-left: 1.2rem; margin-bottom: 1.8rem; }
-.featured-link { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--rule); padding-bottom: 0.1rem; transition: color 0.2s, border-color 0.2s; }
+.featured-link { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; border-bottom: 1px solid var(--rule); padding-bottom: 0.1rem; transition: color 0.2s, border-color 0.2s; }
 .featured-link:hover { color: var(--accent); border-color: var(--accent); }
-
+ 
 /* ── FILTRES ── */
 .filters-bar { padding: 1.5rem clamp(1.5rem, 5vw, 5rem); border-bottom: 1px solid var(--rule); background: var(--paper); position: sticky; top: 0; z-index: 10; }
 .filters-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
-.filter-label { font-family: var(--ff-ui); font-size: 0.68rem; font-weight: 300; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); }
-.filter-btn { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); background: none; border: 1px solid var(--rule); padding: 0.35rem 0.9rem; border-radius: 2px; cursor: pointer; transition: all 0.2s; }
+.filter-label { font-family: var(--ff-ui); font-size: 0.68rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faint); }
+.filter-btn { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); background: none; border: 1px solid var(--rule); padding: 0.35rem 0.9rem; border-radius: 2px; cursor: pointer; transition: all 0.2s; }
 .filter-btn:hover { border-color: var(--ink-soft); color: var(--ink); }
 .filter-btn.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .search-wrap { margin-left: auto; position: relative; }
-.search-input { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 300; background: var(--paper-mid); border: 1px solid var(--rule); padding: 0.4rem 1rem 0.4rem 2rem; border-radius: 2px; width: 200px; color: var(--ink); outline: none; transition: border-color 0.2s; }
+.search-input { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 400; background: var(--paper-mid); border: 1px solid var(--rule); padding: 0.4rem 1rem 0.4rem 2rem; border-radius: 2px; width: 200px; color: var(--ink); outline: none; transition: border-color 0.2s; }
 .search-input:focus { border-color: var(--ink-soft); }
 .search-input::placeholder { color: var(--ink-faint); }
 .search-icon { position: absolute; left: 0.65rem; top: 50%; transform: translateY(-50%); color: var(--ink-faint); pointer-events: none; }
-
+ 
 /* ── LISTE POÈMES ── */
 .poems-section { max-width: 1100px; margin: 0 auto; padding: clamp(2.5rem, 5vw, 4rem) clamp(1.5rem, 5vw, 5rem); }
-.poems-count { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.08em; color: var(--ink-faint); margin-bottom: 2rem; }
+.poems-count { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.08em; color: var(--ink-faint); margin-bottom: 2rem; }
 .poems-list { display: flex; flex-direction: column; }
 .poem-row { display: grid; grid-template-columns: 2fr 2fr 1fr auto; gap: 1.5rem; align-items: center; padding: 1.4rem 1rem; border-bottom: 1px solid var(--rule); text-decoration: none; color: inherit; transition: background 0.15s; border-radius: 2px; margin: 0 -1rem; }
 .poem-row:hover { background: var(--paper-mid); }
 .poem-row:hover .row-title-vi { color: var(--accent); }
-.row-title-vi { font-family: var(--ff-title); font-size: 1.15rem; font-weight: 400; color: var(--ink); transition: color 0.2s; line-height: 1.3; }
-.row-title-fr { font-family: var(--ff-body); font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin-top: 0.15rem; }
-.row-excerpt { font-family: var(--ff-body); font-size: 0.95rem; font-style: italic; color: var(--ink-soft); line-height: 1.5; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.row-title-vi { font-family: var(--ff-title); font-size: 1.2rem; font-weight: 500; color: var(--ink); transition: color 0.2s; line-height: 1.3; }
+.row-title-fr { font-family: var(--ff-body); font-size: 0.95rem; font-style: italic; color: var(--ink-soft); margin-top: 0.15rem; }
+.row-excerpt { font-family: var(--ff-body); font-size: 0.95rem; color: var(--ink-soft); line-height: 1.5; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 .row-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; }
-.row-tag { font-family: var(--ff-ui); font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); border: 1px solid var(--rule); padding: 0.2rem 0.55rem; border-radius: 2px; }
-.row-meta { font-family: var(--ff-ui); font-size: 0.68rem; font-weight: 300; color: var(--ink-faint); text-align: right; line-height: 1.7; white-space: nowrap; }
+.row-tag { font-family: var(--ff-ui); font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); border: 1px solid var(--rule); padding: 0.2rem 0.55rem; border-radius: 2px; }
+.row-meta { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-soft); text-align: right; line-height: 1.7; white-space: nowrap; }
 .row-media-icons { font-size: 0.75rem; color: var(--ink-faint); margin-top: 0.2rem; }
 .empty-state { text-align: center; padding: 5rem 0; font-family: var(--ff-body); font-style: italic; color: var(--ink-faint); font-size: 1.1rem; }
-
+ 
 /* ── HERO POÈME ── */
 .poem-hero { border-bottom: 1px solid var(--rule); padding: clamp(3rem, 6vw, 6rem) clamp(1.5rem, 5vw, 5rem) clamp(2.5rem, 5vw, 4rem); animation: fadeUp 0.7s ease both; }
 .poem-hero-inner { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: end; }
-.poem-genre { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.1rem; }
+.poem-genre { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.1rem; }
 .poem-title-vi { font-family: var(--ff-title); font-size: clamp(2.4rem, 5vw, 4rem); font-weight: 400; line-height: 1.15; margin-bottom: 0.4rem; }
 .poem-title-fr { font-family: var(--ff-title); font-size: clamp(1.3rem, 2.5vw, 2rem); font-weight: 400; font-style: italic; color: var(--ink-soft); }
 .poem-tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 1.2rem; }
 .tag { font-family: var(--ff-ui); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); border: 1px solid var(--rule); padding: 0.25rem 0.7rem; border-radius: 2px; text-decoration: none; transition: background 0.2s, color 0.2s; }
 .tag:hover { background: var(--paper-mid); color: var(--accent); }
-.poem-meta { text-align: right; font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 300; color: var(--ink-faint); letter-spacing: 0.04em; line-height: 1.9; }
+.poem-meta { text-align: right; font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 400; color: var(--ink-soft); letter-spacing: 0.04em; line-height: 1.9; }
 .poem-meta strong { display: block; font-family: var(--ff-body); font-weight: 400; font-size: 0.95rem; color: var(--ink-soft); font-style: italic; letter-spacing: 0; }
-
+ 
 /* ── CONTENU POÈME ── */
 .poem-content { max-width: 1100px; margin: 0 auto; padding: clamp(2rem, 5vw, 5rem) clamp(1.5rem, 5vw, 5rem); animation: fadeUp 0.7s ease 0.1s both; }
 .translation-nav { display: flex; gap: 0; margin-bottom: 2.5rem; border-bottom: 1px solid var(--rule); }
-.trans-tab { font-family: var(--ff-ui); font-size: 0.75rem; font-weight: 300; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); padding: 0.6rem 1.2rem; cursor: pointer; border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color 0.2s, border-color 0.2s; }
-.trans-tab:hover { color: var(--ink-soft); }
+.trans-tab { font-family: var(--ff-ui); font-size: 0.75rem; font-weight: 400; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); padding: 0.6rem 1.2rem; cursor: pointer; border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color 0.2s, border-color 0.2s; }
+.trans-tab:hover { color: var(--ink); }
 .trans-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
 .poem-grid { display: grid; grid-template-columns: 2fr 1px 3fr; gap: 0 clamp(2rem, 5vw, 5rem); align-items: start; }
 .poem-divider { background: var(--rule); align-self: stretch; }
@@ -114,11 +114,11 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .stanza { margin-bottom: 1.2em; }
 .translation-panel { display: none; }
 .translation-panel.active { display: block; }
-.translator-credit { margin-top: 2.2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; color: var(--ink-faint); font-style: italic; }
-
+.translator-credit { margin-top: 2.2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-soft); font-style: italic; }
+ 
 /* ── MEDIA ── */
 .media-section { margin-top: 4rem; padding-top: 3rem; border-top: 1px solid var(--rule); }
-.section-heading { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 1.8rem; }
+.section-heading { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 1.8rem; }
 .media-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
 .audio-card { background: var(--paper-mid); border: 1px solid var(--rule); padding: 1.4rem 1.6rem; border-radius: 2px; }
 .audio-card-title { font-family: var(--ff-body); font-size: 0.9rem; font-style: italic; color: var(--ink-soft); margin-bottom: 0.9rem; }
@@ -126,33 +126,33 @@ audio { width: 100%; accent-color: var(--accent); }
 .video-card { background: var(--paper-mid); border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
 .video-embed { position: relative; padding-bottom: 56.25%; height: 0; }
 .video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: none; }
-
+ 
 /* ── NAVIGATION ── */
 .poem-navigation { margin-top: 5rem; padding-top: 2rem; border-top: 1px solid var(--rule); display: flex; justify-content: space-between; gap: 1rem; }
 .nav-poem-link { font-family: var(--ff-body); font-size: 0.95rem; color: var(--ink-soft); text-decoration: none; display: flex; flex-direction: column; gap: 0.2rem; max-width: 42%; transition: color 0.2s; }
 .nav-poem-link:hover { color: var(--accent); }
 .nav-direction { font-family: var(--ff-ui); font-size: 0.65rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-faint); }
 .nav-poem-link.next { text-align: right; }
-
+ 
 /* ── FOOTER ── */
 .site-footer { margin-top: 6rem; border-top: 1px solid var(--rule); padding: 2.5rem clamp(1.5rem, 5vw, 5rem); }
 .footer-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
-.footer-copy { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; color: var(--ink-faint); }
+.footer-copy { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-faint); }
 .footer-links { display: flex; gap: 1.8rem; list-style: none; }
-.footer-links a { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; color: var(--ink-faint); text-decoration: none; transition: color 0.2s; }
+.footer-links a { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-faint); text-decoration: none; transition: color 0.2s; }
 .footer-links a:hover { color: var(--accent); }
-
+ 
 /* ── PAGE HERO (auteur, à propos, contact) ── */
 .page-hero { border-bottom: 1px solid var(--rule); padding: clamp(3rem, 6vw, 6rem) clamp(1.5rem, 5vw, 5rem) clamp(2rem, 4vw, 4rem); animation: fadeUp 0.65s ease both; }
 .page-hero-inner { max-width: 1100px; margin: 0 auto; }
-.page-eyebrow { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 300; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; }
+.page-eyebrow { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1rem; }
 .page-title { font-family: var(--ff-title); font-size: clamp(2.4rem, 5vw, 4rem); font-weight: 400; line-height: 1.1; }
 .page-content { max-width: 1100px; margin: 0 auto; padding: clamp(3rem, 5vw, 5rem) clamp(1.5rem, 5vw, 5rem); animation: fadeUp 0.65s ease 0.1s both; }
-
+ 
 /* ── ANIMATION ── */
 @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
 .poem-row { opacity: 0; animation: fadeUp 0.5s ease both; }
-
+ 
 /* ── RESPONSIVE ── */
 @media (max-width: 800px) {
   .hero-inner { grid-template-columns: 1fr; gap: 2.5rem; }
