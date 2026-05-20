@@ -21,11 +21,11 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1100px; margin: 0 auto; height: 64px; }
 
-/* Khối logo chứa ảnh và chữ */
+/* ĐÃ SỬA: Tăng khoảng cách gap từ 0.6rem lên 0.9rem để đẩy chữ Sons ra xa logo hơn */
 .site-logo { 
   display: inline-flex; 
   align-items: center; 
-  gap: 0.6rem; 
+  gap: 0.9rem; /* <── Đã sửa: Giúp khoảng cách giữa ảnh và chữ thông thoáng, cân đối */
   font-family: var(--ff-title); 
   font-size: 1.4rem; 
   font-weight: 400; 
@@ -34,19 +34,20 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   letter-spacing: 0.02em; 
 }
 
-/* Ép tăng tỉ lệ scale và đổi mã màu xanh rêu đậm chuẩn */
+/* ĐÃ THAY ĐỔI CHIẾN THUẬT: Dùng box-shadow nội hàm để xóa sạch viền trắng và chỉnh màu lá mạ tươi */
 .logo-icon {
   width: 1.45em;
   height: 1.45em; 
-  object-fit: cover; 
+  object-fit: contain; /* Quay về contain để bảo toàn tỷ lệ và độ nét gốc của khóm tre */
   border-radius: 50%;
   
-  /* Đổi sang màu xanh rêu sẫm sang trọng, tiệp với màu lá tre */
-  border: 1.5px solid #3B4C3E; 
-  padding: 0; 
+  /* 1. Đổi đường viền ngoài sang màu xanh lá mạ tươi sáng hơn (#5B7553) */
+  border: 1.5px solid #5B7553; 
   
-  /* Tăng scale lên 1.28 để ép toàn bộ viền trắng biến mất tuyệt đối */
-  transform: scale(1.28); 
+  /* 2. MẸO CỐT LÕI: Đổ bóng hướng vào trong (inset) để nhuộm xanh và nuốt chửng hoàn toàn vòng viền trắng */
+  box-shadow: inset 0 0 0 3px #5B7553; 
+  
+  padding: 0;
   background-color: transparent; 
 }
 
