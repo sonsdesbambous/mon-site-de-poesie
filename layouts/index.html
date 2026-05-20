@@ -46,7 +46,7 @@
         <div class="row-title-vi">{{ .Title }}</div>
         <div class="row-title-fr">{{ .Params.title_fr }}</div>
       </div>
-      <div class="row-excerpt">{{ .Params.extrait | default (substr .Params.texte_vi 0 100) }}</div>
+      <div class="row-excerpt">{{ range first 1 .Params.traductions }}{{ .texte_fr | truncate 150 }}{{ end }}</div>
       <div class="row-tags">
         {{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}
       </div>
