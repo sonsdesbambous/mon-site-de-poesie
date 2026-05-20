@@ -46,6 +46,6 @@ tags:
   - Amour
   - Musique
   - Hanoï
-extrait: Et puis la bougie s’allume Et puis les lèvres frémissent...
+extrait: ""
 date: 2026-05-20
 ---
