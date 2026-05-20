@@ -61,9 +61,11 @@
       <div class="row-excerpt">
   {{ range first 1 .Params.traductions }}
     {{ $lines_fr := split .texte_fr "\n" }}
-    {{ $two_lines_fr := first 2 $lines_fr }}
-    {{ $text_fr := delimit $two_lines_fr " " }}
-    {{ strings.TrimRight ".,;:" $text_fr }}...
+    {{ $line1 := index $lines_fr 0 }}
+    {{ $line2 := index $lines_fr 1 }}
+    
+    {{ $line1 }}<br>
+    {{ strings.TrimRight ".,;:" $line2 }}...
   {{ end }}
 </div>
       <div class="row-tags">
