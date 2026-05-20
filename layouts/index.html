@@ -15,7 +15,7 @@
       <p class="featured-label">Poème du jour</p>
       <div class="featured-poem-vi">{{ .Params.texte_vi | truncate 120 }}</div>
       <div class="featured-poem-fr">
-        {{ range first 1 .Params.traductions }}{{ .texte_fr | truncate 140 }}{{ end }}
+        {{ range first 1 .Params.traductions }}{{ .texte_fr | truncate 150 }}{{ end }}
       </div>
       <a href="{{ .Permalink }}" class="featured-link">Lire {{ .Title }} — {{ .Params.title_fr }} →</a>
     </div>
