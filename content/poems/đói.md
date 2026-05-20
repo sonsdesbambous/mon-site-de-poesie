@@ -18,7 +18,7 @@ traductions:
       Qu’à ce jour j’ai déjà vécues,
       Celle me terrifiant le plus
       Est la faim d'humanité.
-extrait: Trong trăm nghìn nỗi đói, tôi nếm trải cả rồi…
+extrait: ""
 date: 2026-05-19
 draft: false
 ---
