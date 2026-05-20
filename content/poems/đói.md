@@ -1,7 +1,7 @@
 ---
 title: Đói
 title_fr: La faim
-auteur: Phùng Văn Quán
+auteur: Phùng Quán
 annee: 1932–1995
 genre: ""
 tags:
