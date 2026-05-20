@@ -1,6 +1,9 @@
 <header class="site-header">
   <nav class="nav-inner">
-    <a href="/" class="site-logo">Sons des <span>Bambous</span></a>
+    <a href="/" class="site-logo">
+      <img src="{{ "favicon.ico" | relURL }}" alt="Logo Sons des Bambous" class="logo-icon">
+      Sons des <span>Bambous</span>
+    </a>
     <ul class="nav-links">
       <li><a href="/" {{ if .IsHome }}class="active"{{ end }}>Poèmes</a></li>
       <li><a href="/auteur/" {{ if eq .RelPermalink "/auteur/" }}class="active"{{ end }}>L'auteur</a></li>
