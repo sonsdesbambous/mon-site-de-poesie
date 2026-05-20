@@ -57,8 +57,7 @@ traductions:
       Nous ne retrouvons plus le vieux lettré d’antan.
       Ô vous autres, protagonistes de jadis,
       Où errent-elles vos âmes en ce moment ?
-extrait: Chaque année, lors de la floraison des pêchers, Nous retrouvions avec
-  plaisir le vieux lettré...
+extrait: ""
 date: 2026-02-06
 draft: false
 ---
