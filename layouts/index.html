@@ -13,10 +13,16 @@
     <div class="hero-featured">
       <span class="featured-meta">À la une</span>
       <p class="featured-label">Poème du jour</p>
-      <div class="featured-poem-vi">{{ .Params.texte_vi | truncate 120 }}</div>
-      <div class="featured-poem-fr">
-        {{ range first 1 .Params.traductions }}{{ .texte_fr | truncate 150 }}{{ end }}
-      </div>
+<div class="featured-poem-vi">
+  {{ $lines_vi := split .Params.texte_vi "\n" }}
+  {{ range first 4 $lines_vi }}{{ . }} {{ end }}...
+</div>
+<div class="featured-poem-fr">
+  {{ range first 1 .Params.traductions }}
+    {{ $lines_fr := split .texte_fr "\n" }}
+    {{ range first 4 $lines_fr }}{{ . }} {{ end }}...
+  {{ end }}
+</div>
       <a href="{{ .Permalink }}" class="featured-link">Lire {{ .Title }} — {{ .Params.title_fr }} →</a>
     </div>
     {{ end }}
@@ -46,7 +52,14 @@
         <div class="row-title-vi">{{ .Title }}</div>
         <div class="row-title-fr">{{ .Params.title_fr }}</div>
       </div>
-      <div class="row-excerpt">{{ range first 1 .Params.traductions }}{{ .texte_fr | truncate 150 }}{{ end }}</div>
+      <div class="row-excerpt">
+  {{ range first 1 .Params.traductions }}
+    {{ $lines := split .texte_fr "\n" }}
+    {{ range first 2 $lines }}
+      {{ . }}<br>
+    {{ end }}...
+  {{ end }}
+</div>
       <div class="row-tags">
         {{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}
       </div>
