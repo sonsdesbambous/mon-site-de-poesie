@@ -26,8 +26,7 @@ traductions:
       Comme un labeur de servante, mais sans la recompense.
       Si j’avais su que le chemin était ainsi,
       Il aurait mieux valu rester seule dès le début.
-extrait: Maudit soit notre destin de concubines, Si l’une a le duvet chaud, les
-  autres le lit froid...
+extrait: ""
 date: 2026-05-19
 draft: false
 ---
