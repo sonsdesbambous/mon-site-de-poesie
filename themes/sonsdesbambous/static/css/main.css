@@ -21,7 +21,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1100px; margin: 0 auto; height: 64px; }
 
-/* Biến logo thành hộp Flexbox và tăng cỡ chữ lên 1.4rem */
+/* Biến logo thành hộp Flexbox và giữ cỡ chữ 1.4rem */
 .site-logo { 
   display: inline-flex; 
   align-items: center; 
@@ -34,14 +34,19 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   letter-spacing: 0.02em; 
 }
 
-/* Bo tròn xóa góc vuông trắng, tạo viền màu xanh tre và tự động co giãn theo cỡ chữ */
+/* Ép ảnh phóng to lõi để triệt tiêu hoàn toàn viền trắng bên trong */
 .logo-icon {
   width: 1.45em;
   height: 1.45em; 
-  object-fit: contain;
+  
+  /* Chuyển sang 'cover' để ảnh lấp đầy khung hình */
+  object-fit: cover; 
   border-radius: 50%;
-  border: 1.5px solid var(--accent); /* Sử dụng màu xanh chủ đạo của trang web để làm viền tròn */
-  padding: 2px;
+  border: 1.5px solid #4A5D4E; /* Đường viền màu xanh tre duy nhất */
+  
+  /* Đưa padding về 0 và dùng scale để kích ảnh tự tràn viền xóa màu trắng */
+  padding: 0; 
+  transform: scale(1.15); /* Phóng đại lõi ảnh thêm 15% để đẩy phần viền trắng biến mất */
   background-color: transparent; 
 }
 
