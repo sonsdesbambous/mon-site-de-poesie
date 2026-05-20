@@ -10,3 +10,5 @@ theme = 'sonsdesbambous'
 
 [taxonomies]
   tag = "tags"
+[permalinks]
+  poems = "/poemes/:slug/"
