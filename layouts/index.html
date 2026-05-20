@@ -47,7 +47,7 @@
         <div class="row-title-fr">{{ .Params.title_fr }}</div>
       </div>
       <div class="row-excerpt">{{ .Params.extrait | default (substr .Params.texte_vi 0 100) }}</div>
-      <div class="row-tags">
+      <div class="row-tags" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 6px;">
         {{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}
       </div>
       <div class="row-meta">
