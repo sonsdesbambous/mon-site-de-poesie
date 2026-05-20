@@ -37,7 +37,18 @@
         <p class="sidebar-card-title">En quelques chiffres</p>
         <ul class="stats-list">
           <li><span class="stat-label">Poèmes</span><span class="stat-value">{{ len (where .Site.RegularPages "Section" "poems") }}</span></li>
-          <li><span class="stat-label">Poètes représentés</span><span class="stat-value">{{ len ($.Site.Taxonomies.tags) }}</span></li>
+          <li>
+  <span class="stat-label">Poètes représentés</span>
+  <span class="stat-value">
+    {{ $activeAuthors := slice }}
+    {{ range where .Site.RegularPages "Section" "poems" }}
+      {{ if .Params.auteur }}
+        {{ $activeAuthors = $activeAuthors | append .Params.auteur }}
+      {{ end }}
+    {{ end }}
+    {{ len ($activeAuthors | uniq) }}
+  </span>
+</li>
         </ul>
       </div>
 
