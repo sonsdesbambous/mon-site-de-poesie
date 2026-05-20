@@ -13,7 +13,7 @@
     <div class="hero-featured">
       <span class="featured-meta">À la une</span>
       <p class="featured-label">Poème du jour</p>
-      <div class="featured-poem-vi">{{ substr .Params.texte_vi 0 120) }}</div>
+      <div class="featured-poem-vi">{{ substr .Params.texte_vi 0 120 }}</div>
       <div class="featured-poem-fr">
         {{ range first 1 .Params.traductions }}{{ substr .texte_fr 0 120 }}{{ end }}
       </div>
