@@ -38,7 +38,7 @@
 </div>
 
 <section class="poems-section">
-  <p class="poems-count" id="count">{{ len .Site.RegularPages }} poèmes</p>
+  <p class="poems-count" id="count">{{ len (where .Site.RegularPages "Section" "poems") }} poèmes</p>
   <div class="poems-list" id="poems-list">
     {{ range where .Site.RegularPages "Section" "poems" }}
     <a href="{{ .Permalink }}" class="poem-row" data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
