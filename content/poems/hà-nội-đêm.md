@@ -4,6 +4,7 @@ title_fr: Hanoï nocturne
 auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poésie contemporaine
+featured: true
 texte_vi: |-
   Thế rồi ngọn nến cháy
   Thế rồi đôi môi run
