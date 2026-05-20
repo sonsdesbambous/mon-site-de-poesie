@@ -36,7 +36,6 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   height: 1.75em;
   object-fit: contain;
   border-radius: 50%;
-  border: 1.5px solid #556B2F;
   mix-blend-mode: multiply;
 }
 .site-logo span { color: var(--accent); font-style: italic; }
