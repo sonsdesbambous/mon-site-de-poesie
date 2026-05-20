@@ -8,7 +8,7 @@
       <p class="hero-subtitle">Quand les bambous murmurent en français</p>
       <p class="hero-desc">Une collection de poèmes vietnamiens classiques et contemporains, présentés en version originale et traduits en français — parfois accompagnés d'une voix, d'une musique.</p>
     </div>
-    {{ $featured := first 1 (where (where .Site.RegularPages "Section" "poems") "Params.featured" true) }}
+    {{ $featured := first 1 (where .Site.RegularPages "Params.featured" true) }}
     {{ range $featured }}
     <div class="hero-featured">
       <span class="featured-meta">À la une</span>
