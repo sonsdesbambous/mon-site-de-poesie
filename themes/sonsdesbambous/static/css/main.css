@@ -32,8 +32,8 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   letter-spacing: 0.02em;
 }
 .logo-icon {
-  width: 1.85em;
-  height: 1.85em;
+  width: 2em;
+  height: 2em;
   object-fit: contain;
   border-radius: 50%;
   mix-blend-mode: multiply;
