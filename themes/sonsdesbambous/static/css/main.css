@@ -41,8 +41,8 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   object-fit: contain; 
   border-radius: 50%;
   
-  border: 1.5px solid 556B2F; /* Giữ màu viền lá mạ tươi */
-  box-shadow: inset 0 0 0 3px 556B2F; /* Giữ lớp lót nuốt trọn viền trắng */
+  border: 1.5px solid #556B2F; /* Giữ màu viền lá mạ tươi */
+  box-shadow: inset 0 0 0 3px #556B2F; /* Giữ lớp lót nuốt trọn viền trắng */
   
   padding: 0;
   background-color: transparent; 
