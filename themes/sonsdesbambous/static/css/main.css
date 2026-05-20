@@ -21,7 +21,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1100px; margin: 0 auto; height: 64px; }
 
-/* Biến logo thành hộp Flexbox và giữ cỡ chữ 1.4rem */
+/* Khối logo chứa ảnh và chữ */
 .site-logo { 
   display: inline-flex; 
   align-items: center; 
@@ -34,19 +34,19 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
   letter-spacing: 0.02em; 
 }
 
-/* Ép ảnh phóng to lõi để triệt tiêu hoàn toàn viền trắng bên trong */
+/* Ép tăng tỉ lệ scale và đổi mã màu xanh rêu đậm chuẩn */
 .logo-icon {
   width: 1.45em;
   height: 1.45em; 
-  
-  /* Chuyển sang 'cover' để ảnh lấp đầy khung hình */
   object-fit: cover; 
   border-radius: 50%;
-  border: 1.5px solid #4A5D4E; /* Đường viền màu xanh tre duy nhất */
   
-  /* Đưa padding về 0 và dùng scale để kích ảnh tự tràn viền xóa màu trắng */
+  /* Đổi sang màu xanh rêu sẫm sang trọng, tiệp với màu lá tre */
+  border: 1.5px solid #3B4C3E; 
   padding: 0; 
-  transform: scale(1.15); /* Phóng đại lõi ảnh thêm 15% để đẩy phần viền trắng biến mất */
+  
+  /* Tăng scale lên 1.28 để ép toàn bộ viền trắng biến mất tuyệt đối */
+  transform: scale(1.28); 
   background-color: transparent; 
 }
 
