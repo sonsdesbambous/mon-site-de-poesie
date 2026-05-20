@@ -26,7 +26,8 @@ traductions:
       Comme un labeur de servante, mais sans la recompense.
       Si j’avais su que le chemin était ainsi,
       Il aurait mieux valu rester seule dès le début.
-extrait: Chém cha cái kiếp lấy chồng chung, kẻ đắp chăn bông kẻ lạnh lùng…
+extrait: Maudit soit notre destin de concubines, Si l’une a le duvet chaud, les
+  autres le lit froid...
 date: 2026-05-19
 draft: false
 ---
