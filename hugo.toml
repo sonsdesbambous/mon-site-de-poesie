@@ -5,7 +5,7 @@ theme = 'sonsdesbambous'
 [pagination]
   pagerSize = 20
 [params]
-  description = "Poésie vietnamienne traduite en français"
+  description = "Poésie vietnamienne en résonance française"
   author = "Sons des Bambous"
 
 [taxonomies]
