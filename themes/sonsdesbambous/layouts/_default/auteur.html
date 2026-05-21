@@ -55,7 +55,7 @@
         <a href="{{ .Permalink }}" class="author-poem-card">
           <div class="apc-title">{{ .Title }}</div>
           <div class="apc-subtitle">{{ .Params.title_fr }}</div>
-          <div class="apc-year">{{ .Params.auteur }} · {{ .Params.annee }}</div>
+          <div class="apc-year">{{ .Params.auteur }}{{ if .Params.annee }} · {{ .Params.annee }}{{ end }}</div>
         </a>
         {{ end }}
       </div>
