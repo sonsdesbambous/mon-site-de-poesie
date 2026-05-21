@@ -1,6 +1,6 @@
 ---
-title: Hà Nội đêm
-title_fr: Hanoï nocturne
+title_vi: Hà Nội đêm
+title: Hanoï nocturne
 auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poésie contemporaine
