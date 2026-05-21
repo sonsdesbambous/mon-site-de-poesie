@@ -1,6 +1,6 @@
 ---
-title: Đi dạo
-title_fr: Errance
+title_vi: Đi dạo
+title: Errance
 auteur: Xuân Diệu
 tags:
   - Romantisme
