@@ -46,6 +46,6 @@ tags:
   - Amour
   - Musique
   - Hanoï
-extrait: ""
+extrait: Et puis les lèvres frémissent
 date: 2026-05-20
 ---
