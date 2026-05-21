@@ -58,9 +58,9 @@
       </div>
       <div class="row-excerpt">
   {{ if .Params.extrait }}
-    {{ $lines := split .Params.extrait "\n" }}
-    {{ index $lines 0 }}<br>
-    {{ if gt (len $lines) 1 }}{{ strings.TrimRight " .,;:!?" (index $lines 1) }}{{ end }}…
+    {{ $lines := split .Params.extrait "|" }}
+    {{ strings.TrimRight " " (index $lines 0) }}<br>
+    {{ if gt (len $lines) 1 }}{{ strings.TrimRight " .,;:!?" (strings.TrimLeft " " (index $lines 1)) }}{{ end }}…
   {{ else }}
     {{ range first 1 .Params.traductions }}
       {{ $lines := split .texte_fr "\n" }}
