@@ -14,9 +14,15 @@
     </div>
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
-      {{ $auteurPage := site.GetPage (printf "auteurs/%s" (urlize .Params.auteur)) }}
-      {{ if $auteurPage }}
-    <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+      {{ $auteur := .Params.auteur }}
+{{ $auteurPage := "" }}
+{{ range site.Pages }}
+  {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
+    {{ $auteurPage = . }}
+  {{ end }}
+{{ end }}
+{{ if $auteurPage }}
+<p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
       {{ end }}
       {{ .Params.annee }}
       {{ if .Params.traductions }}
