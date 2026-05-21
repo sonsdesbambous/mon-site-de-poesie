@@ -2,7 +2,6 @@ baseURL = 'https://sonsdesbambous.com'
 languageCode = 'fr'
 title = 'Sons des Bambous'
 theme = 'sonsdesbambous'
-removePathAccents = true
 [pagination]
   pagerSize = 20
 [params]
