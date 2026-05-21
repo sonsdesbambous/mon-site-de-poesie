@@ -1,6 +1,6 @@
 ---
-title: Hoa ngọc trâm
-title_fr: Les eucharis
+title_vi: Hoa ngọc trâm
+title: Les eucharis
 auteur: Xuân Diệu
 tags:
   - Amour
