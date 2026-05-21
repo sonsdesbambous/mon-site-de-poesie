@@ -110,7 +110,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .poem-divider { background: var(--rule); align-self: stretch; }
 .poem-column-label { font-family: var(--ff-ui); font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 1.8rem; }
 .poem-text { font-family: var(--ff-body); font-size: 1.15rem; line-height: 1.2; color: var(--ink); white-space: pre-line; }
-.stanza { margin-bottom: 0.35em; }
+.stanza { margin-bottom: 0.2em; }
 .translation-panel { display: none; }
 .translation-panel.active { display: block; }
 .translator-credit { margin-top: 2.2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-soft); font-style: italic; }
