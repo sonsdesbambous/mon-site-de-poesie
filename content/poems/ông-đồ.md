@@ -1,6 +1,6 @@
 ---
-title: Ông Đồ
-title_fr: Le vieux lettré
+title_vi: Ông Đồ
+title: Le vieux lettré
 auteur: Vũ Đình Liên
 annee: "1936"
 tags:
