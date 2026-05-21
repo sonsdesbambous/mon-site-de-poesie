@@ -57,12 +57,14 @@
         <div class="row-title-fr">{{ .Params.title_fr }}</div>
       </div>
       <div class="row-excerpt">
-  {{ range first 1 .Params.traductions }}
-    {{ $lines := split .texte_fr "\n" }}
-    {{ $lines = where $lines "." "ne" "" }}
-    {{ $start := default 0 $.Params.extrait_index }}
-    {{ index $lines $start }}…<br>
-    {{ if lt (add $start 1) (len $lines) }}{{ index $lines (add $start 1) }}{{ end }}
+  {{ if .Params.extrait }}
+    {{ .Params.extrait }}…
+  {{ else }}
+    {{ range first 1 .Params.traductions }}
+      {{ $lines := split .texte_fr "\n" }}
+      {{ $lines = where $lines "." "ne" "" }}
+      {{ index $lines 0 }} {{ index $lines 1 }}…
+    {{ end }}
   {{ end }}
 </div>
       <div class="row-tags">
