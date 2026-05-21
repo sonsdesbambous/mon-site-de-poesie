@@ -1,6 +1,6 @@
 ---
-title: Đóa quỳnh mùa xuân
-title_fr: Fleur d’épiphyllum du printemps
+title_vi: Đóa quỳnh mùa xuân
+title: Fleur d’épiphyllum du printemps
 auteur: Sonsdesbambous
 annee: "2010"
 tags:
