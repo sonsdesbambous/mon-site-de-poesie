@@ -58,36 +58,70 @@
       </div>
       <div class="row-excerpt">
   {{ range first 1 .Params.traductions }}
-    
+
     {{ if .excerpt }}
       {{ $lines_fr := split .texte_fr "\n" }}
       {{ $custom_excerpt := .excerpt }}
-      {{ $found_index := -1 }}
-      
+
+      {{/* Tìm vị trí của câu excerpt */}}
+      {{ $.Scratch.Set "found_index" -1 }}
+
       {{ range $index, $line := $lines_fr }}
         {{ if eq (trim $line " \r\n.,;:") (trim $custom_excerpt " \r\n.,;:") }}
-          {{ $found_index = $index }}
+          {{ $.Scratch.Set "found_index" $index }}
         {{ end }}
       {{ end }}
-      
-      {{ strings.TrimRight " .,;:" $custom_excerpt }}<br>
-      
-      {{ $next_index := add $found_index 1 }}
-      {{ if and (ge $found_index 0) (lt $next_index (len $lines_fr)) }}
-        {{ $next_line := index $lines_fr $next_index }}
-        {{ strings.TrimRight " \r\n.,;:" $next_line }}...
+
+      {{ $found_index := $.Scratch.Get "found_index" }}
+
+      {{/* Nếu tìm thấy excerpt trong texte_fr */}}
+      {{ if ge $found_index 0 }}
+
+        {{/* Hiển thị chính câu excerpt */}}
+        {{ $current_line := index $lines_fr $found_index }}
+        {{ strings.TrimRight " \r\n.,;:" $current_line }}<br>
+
+        {{/* Hiển thị câu tiếp theo nếu có */}}
+        {{ $next_index := add $found_index 1 }}
+        {{ if lt $next_index (len $lines_fr) }}
+          {{ $next_line := index $lines_fr $next_index }}
+          {{ strings.TrimRight " \r\n.,;:" $next_line }}...
+        {{ else }}
+          ...
+        {{ end }}
+
       {{ else }}
-        {{ $backup_line := index $lines_fr 0 }}
-        {{ strings.TrimRight " \r\n.,;:" $backup_line }}...
+
+        {{/* Nếu không tìm thấy excerpt thì quay về 2 câu đầu */}}
+        {{ $line1 := index $lines_fr 0 }}
+        {{ strings.TrimRight " \r\n.,;:" $line1 }}<br>
+
+        {{ if gt (len $lines_fr) 1 }}
+          {{ $line2 := index $lines_fr 1 }}
+          {{ strings.TrimRight " \r\n.,;:" $line2 }}...
+        {{ else }}
+          ...
+        {{ end }}
+
       {{ end }}
-      
+
     {{ else }}
+
+      {{/* Không có excerpt thì mặc định hiển thị 2 câu đầu */}}
       {{ $lines_fr := split .texte_fr "\n" }}
-      {{ $line1 := index $lines_fr 0 }}
-      {{ $line2 := index $lines_fr 1 }}
-      
-      {{ strings.TrimRight " \r\n.,;:" $line1 }}<br>
-      {{ strings.TrimRight " \r\n.,;:" $line2 }}...
+
+      {{ if gt (len $lines_fr) 0 }}
+        {{ $line1 := index $lines_fr 0 }}
+        {{ strings.TrimRight " \r\n.,;:" $line1 }}<br>
+      {{ end }}
+
+      {{ if gt (len $lines_fr) 1 }}
+        {{ $line2 := index $lines_fr 1 }}
+        {{ strings.TrimRight " \r\n.,;:" $line2 }}...
+      {{ else }}
+        ...
+      {{ end }}
+
     {{ end }}
 
   {{ end }}
