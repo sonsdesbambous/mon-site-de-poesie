@@ -6,11 +6,6 @@
     </a>
     <ul class="nav-links">
       <li><a href="/" {{ if .IsHome }}class="active"{{ end }}>Poèmes</a></li>
-      <li>
-        <a href="/auteurs/" {{ if or (eq .RelPermalink "/auteurs/") (eq .Section "auteurs") }}class="active"{{ end }}>
-          Auteurs
-        </a>
-      </li>
       <li><a href="/auteur/" {{ if eq .RelPermalink "/auteur/" }}class="active"{{ end }}>L'auteur</a></li>
       <li><a href="/a-propos/" {{ if eq .RelPermalink "/a-propos/" }}class="active"{{ end }}>À propos</a></li>
       <li><a href="/contact/" {{ if eq .RelPermalink "/contact/" }}class="active"{{ end }}>Contact</a></li>
