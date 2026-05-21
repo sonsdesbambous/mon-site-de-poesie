@@ -37,9 +37,8 @@ traductions:
       Le tien est telle une navette de tisserande
       Changeant moult fois de canettes sans s’érailler.
     traducteur: Sonsdesbambous
-extrait: |-
-  Le tien est pareil à une feuille de taro,
-  Autant l’eau y tombe, autant elle s’en déverse.
+extrait: Le tien est pareil à une feuille de taro, | Autant l’eau y tombe,
+  autant elle s’en déverse
 date: 2026-05-21
 draft: false
 ---
