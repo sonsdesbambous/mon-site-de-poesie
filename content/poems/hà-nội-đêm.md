@@ -45,7 +45,7 @@ traductions:
       S’épuise pour que la voix chantante
       Tombe sereinement
 extrait: Et puis les lèvres frémissent | Et puis les doigts glissent sur les
-  touches du piano;
+  touches du piano
 featured: true
 date: 2026-05-20
 draft: false
