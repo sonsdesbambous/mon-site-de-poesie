@@ -2,18 +2,18 @@
  
 <section class="poem-hero">
   <div class="poem-hero-inner">
-    
+ 
     <div>
       <p class="poem-genre">{{ .Params.genre }}</p>
       <h1 class="poem-title-vi">{{ .Title }}</h1>
       <p class="poem-title-fr">{{ .Params.title_fr }}</p>
-      
+ 
       {{ if .Params.annee }}
-<p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 1rem; color: var(--ink-faint); margin-top: 0.3rem; margin-bottom: 0.8rem; font-style: italic;">
-  {{ .Params.annee }}
-</p>
-{{ end }}
-
+      <p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 1rem; color: var(--ink-faint); margin-top: 0.3rem; margin-bottom: 0.8rem; font-style: italic;">
+        {{ .Params.annee }}
+      </p>
+      {{ end }}
+ 
       <div class="poem-tags">
         {{ range .Params.tags }}
         <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
@@ -23,7 +23,7 @@
  
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
-      
+ 
       {{ $auteur := .Params.auteur }}
       {{ $auteurPage := "" }}
       {{ range site.Pages }}
@@ -31,17 +31,23 @@
           {{ $auteurPage = . }}
         {{ end }}
       {{ end }}
-      
+ 
       {{ if and $auteurPage $auteurPage.Params.dates }}
       <p class="poem-auteur-dates" style="font-family: var(--ff-body); font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin-top: 0.2rem; margin-bottom: 0.4rem;">
         ({{ $auteurPage.Params.dates }})
       </p>
       {{ end }}
-
+ 
       {{ if $auteurPage }}
-      <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+      <p class="poem-auteur-bio">
+        {{ $auteurPage.Params.bio_courte }}
+        {{ if $auteurPage.Params.bio }}
+        <br><a href="#" class="auteur-more-link" onclick="toggleBio(this); return false;">En savoir plus →</a>
+        <span class="auteur-bio-full" style="display:none; margin-top: 0.6rem; font-family: var(--ff-body); font-size: 0.88rem; font-style: normal; color: var(--ink-soft); line-height: 1.7;">{{ $auteurPage.Params.bio }}</span>
+        {{ end }}
+      </p>
       {{ end }}
-      
+ 
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
       {{ end }}
@@ -159,6 +165,17 @@
     document.querySelectorAll('.trans-tab').forEach(b => b.classList.remove('active'));
     document.getElementById('panel-' + id).classList.add('active');
     btn.classList.add('active');
+  }
+ 
+  function toggleBio(link) {
+    const full = link.nextElementSibling;
+    if (full.style.display === 'none') {
+      full.style.display = 'block';
+      link.textContent = 'Réduire ↑';
+    } else {
+      full.style.display = 'none';
+      link.textContent = 'En savoir plus →';
+    }
   }
 </script>
  
