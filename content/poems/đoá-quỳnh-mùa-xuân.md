@@ -1,10 +1,11 @@
 ---
-title: Đoá quỳnh mùa xuân
+title: Đóa quỳnh mùa xuân
 title_fr: Fleur d’épiphyllum du printemps
 auteur: Sonsdesbambous
 annee: "2010"
 tags:
   - Hommage
+  - Xuân Quỳnh
 texte_vi: |-
   Thu ấy ai ươm một nhánh quỳnh
   Góc vườn nho nhỏ đón cây xinh
