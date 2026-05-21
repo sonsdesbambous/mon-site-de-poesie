@@ -14,6 +14,10 @@
     </div>
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
+      {{ $auteurPage := site.GetPage (printf "auteurs/%s" (urlize .Params.auteur)) }}
+      {{ if $auteurPage }}
+    <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+      {{ end }}
       {{ .Params.annee }}
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
