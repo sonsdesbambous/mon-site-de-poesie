@@ -13,22 +13,20 @@
     <div class="hero-featured">
       <span class="featured-meta">À la une</span>
       <p class="featured-label">Poème du jour</p>
-<div class="featured-poem-vi">
-  {{ $lines_vi := split .Params.texte_vi "\n" }}
-  {{ $lines_vi = where $lines_vi "." "ne" "" }}
-  {{ $four_lines_vi := first 4 $lines_vi }}
-  {{ $text_vi := delimit $four_lines_vi "<br>" }}
-  {{ strings.TrimRight " .,;:" $text_vi | safeHTML }}…
-</div>
-<div class="featured-poem-fr">
-  {{ range first 1 .Params.traductions }}
-  {{ $lines_fr := split .texte_fr "\n" }}
-  {{ $lines_fr = where $lines_fr "." "ne" "" }}
-  {{ $four_lines_fr := first 4 $lines_fr }}
-  {{ $text_fr := delimit $four_lines_fr "<br>" }}
-  {{ strings.TrimRight " .,;:" $text_fr | safeHTML }}…
-  {{ end }}
-</div>
+    <div class="featured-poem-vi">
+    {{ $lines_vi := split .Params.texte_vi "\n" }}
+    {{ $four_lines_vi := first 4 $lines_vi }}
+    {{ $text_vi := delimit $four_lines_vi " " }}
+    {{ strings.TrimRight ".,;:" $text_vi }}...
+    </div>
+    <div class="featured-poem-fr">
+    {{ range first 1 .Params.traductions }}
+    {{ $lines_fr := split .texte_fr "\n" }}
+    {{ $four_lines_fr := first 4 $lines_fr }}
+    {{ $text_fr := delimit $four_lines_fr " " }}
+    {{ strings.TrimRight ".,;:" $text_fr }}...
+    {{ end }}
+    </div>
       <a href="{{ .Permalink }}" class="featured-link">Lire {{ .Title }} — {{ .Params.title_fr }} →</a>
     </div>
     {{ end }}
