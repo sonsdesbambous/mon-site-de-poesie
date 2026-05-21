@@ -46,6 +46,7 @@ tags:
   - Amour
   - Musique
   - Hanoï
-extrait: Et puis les lèvres frémissent
+extrait: Et puis les lèvres frémissent Et puis les doigts glissent sur les
+  touches du piano
 date: 2026-05-20
 ---
