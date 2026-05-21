@@ -13,22 +13,20 @@
     <div class="hero-featured">
       <span class="featured-meta">À la une</span>
       <p class="featured-label">Poème du jour</p>
-
-<div class="featured-poem-vi">
-  {{ $lines_vi := split .Params.texte_vi "\n" }}
-  {{ $four_lines_vi := first 4 $lines_vi }}
-  {{ $text_vi := delimit $four_lines_vi " " }}
-  {{ strings.TrimRight ".,;:" $text_vi }}...
-</div>
-
-<div class="featured-poem-fr">
-  {{ range first 1 .Params.traductions }}
+    <div class="featured-poem-vi">
+    {{ $lines_vi := split .Params.texte_vi "\n" }}
+    {{ $four_lines_vi := first 4 $lines_vi }}
+    {{ $text_vi := delimit $four_lines_vi " " }}
+    {{ strings.TrimRight ".,;:" $text_vi }}...
+    </div>
+    <div class="featured-poem-fr">
+    {{ range first 1 .Params.traductions }}
     {{ $lines_fr := split .texte_fr "\n" }}
     {{ $four_lines_fr := first 4 $lines_fr }}
     {{ $text_fr := delimit $four_lines_fr " " }}
     {{ strings.TrimRight ".,;:" $text_fr }}...
-  {{ end }}
-</div>
+    {{ end }}
+    </div>
       <a href="{{ .Permalink }}" class="featured-link">Lire {{ .Title }} — {{ .Params.title_fr }} →</a>
     </div>
     {{ end }}
@@ -60,12 +58,38 @@
       </div>
       <div class="row-excerpt">
   {{ range first 1 .Params.traductions }}
-    {{ $lines_fr := split .texte_fr "\n" }}
-    {{ $line1 := index $lines_fr 0 }}
-    {{ $line2 := index $lines_fr 1 }}
     
-    {{ $line1 }}<br>
-    {{ strings.TrimRight ".,;:" $line2 }}...
+    {{ if .excerpt }}
+      {{ $lines_fr := split .texte_fr "\n" }}
+      {{ $custom_excerpt := .excerpt }}
+      {{ $found_index := -1 }}
+      
+      {{ range $index, $line := $lines_fr }}
+        {{ if eq (trim $line " .,;:") (trim $custom_excerpt " .,;:") }}
+          {{ $found_index = $index }}
+        {{ end }}
+      {{ end }}
+      
+      {{ strings.TrimRight " .,;:" $custom_excerpt }}<br>
+      
+      {{ $next_index := add $found_index 1 }}
+      {{ if and (ge $found_index 0) (lt $next_index (len $lines_fr)) }}
+        {{ $next_line := index $lines_fr $next_index }}
+        {{ strings.TrimRight " .,;:" $next_line }}...
+      {{ else }}
+        {{ $backup_line := index $lines_fr 0 }}
+        {{ strings.TrimRight " .,;:" $backup_line }}...
+      {{ end }}
+      
+    {{ else }}
+      {{ $lines_fr := split .texte_fr "\n" }}
+      {{ $line1 := index $lines_fr 0 }}
+      {{ $line2 := index $lines_fr 1 }}
+      
+      {{ strings.TrimRight " .,;:" $line1 }}<br>
+      {{ strings.TrimRight " .,;:" $line2 }}...
+    {{ end }}
+
   {{ end }}
 </div>
       <div class="row-tags">
