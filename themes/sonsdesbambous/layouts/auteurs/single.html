@@ -3,9 +3,15 @@
   <div class="page-hero-inner">
     <p class="page-eyebrow">Auteur</p>
     <h1 class="page-title">{{ .Title }}</h1>
-    {{ if .Params.dates }}<p class="page-intro">{{ .Params.dates }}</p>{{ end }}
+    
+    {{ if .Params.dates }}
+      <p class="page-intro" style="font-family: var(--ff-body); font-size: 1rem; font-style: italic; color: var(--ink-faint);">
+        ({{ .Params.dates }})
+      </p>
+    {{ end }}
   </div>
 </section>
+
 <div class="page-content">
   {{ if .Params.bio_courte }}<p><em>{{ .Params.bio_courte }}</em></p>{{ end }}
   {{ if .Params.bio }}<p>{{ .Params.bio }}</p>{{ end }}
