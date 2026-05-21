@@ -65,7 +65,7 @@
       {{ $found_index := -1 }}
       
       {{ range $index, $line := $lines_fr }}
-        {{ if eq (trim $line " .,;:") (trim $custom_excerpt " .,;:") }}
+        {{ if eq (trim $line " \r\n.,;:") (trim $custom_excerpt " \r\n.,;:") }}
           {{ $found_index = $index }}
         {{ end }}
       {{ end }}
@@ -75,10 +75,10 @@
       {{ $next_index := add $found_index 1 }}
       {{ if and (ge $found_index 0) (lt $next_index (len $lines_fr)) }}
         {{ $next_line := index $lines_fr $next_index }}
-        {{ strings.TrimRight " .,;:" $next_line }}...
+        {{ strings.TrimRight " \r\n.,;:" $next_line }}...
       {{ else }}
         {{ $backup_line := index $lines_fr 0 }}
-        {{ strings.TrimRight " .,;:" $backup_line }}...
+        {{ strings.TrimRight " \r\n.,;:" $backup_line }}...
       {{ end }}
       
     {{ else }}
@@ -86,8 +86,8 @@
       {{ $line1 := index $lines_fr 0 }}
       {{ $line2 := index $lines_fr 1 }}
       
-      {{ strings.TrimRight " .,;:" $line1 }}<br>
-      {{ strings.TrimRight " .,;:" $line2 }}...
+      {{ strings.TrimRight " \r\n.,;:" $line1 }}<br>
+      {{ strings.TrimRight " \r\n.,;:" $line2 }}...
     {{ end }}
 
   {{ end }}
