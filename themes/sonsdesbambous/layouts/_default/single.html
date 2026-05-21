@@ -2,10 +2,18 @@
  
 <section class="poem-hero">
   <div class="poem-hero-inner">
+    
     <div>
       <p class="poem-genre">{{ .Params.genre }}</p>
       <h1 class="poem-title-vi">{{ .Title }}</h1>
       <p class="poem-title-fr">{{ .Params.title_fr }}</p>
+      
+      {{ if .Params.annee }}
+      <p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 0.95rem; color: var(--ink-faint); margin-bottom: 0.8rem;">
+        Année de composition : {{ .Params.annee }}
+      </p>
+      {{ end }}
+
       <div class="poem-tags">
         {{ range .Params.tags }}
         <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
@@ -15,17 +23,25 @@
  
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
+      
       {{ $auteur := .Params.auteur }}
       {{ $auteurPage := "" }}
       {{ range site.Pages }}
-          {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
+        {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
           {{ $auteurPage = . }}
         {{ end }}
       {{ end }}
+      
+      {{ if and $auteurPage $auteurPage.Params.dates }}
+      <p class="poem-auteur-dates" style="font-family: var(--ff-body); font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin-top: 0.2rem; margin-bottom: 0.4rem;">
+        ({{ $auteurPage.Params.dates }})
+      </p>
+      {{ end }}
+
       {{ if $auteurPage }}
       <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
       {{ end }}
-      {{ .Params.annee }}
+      
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
       {{ end }}
