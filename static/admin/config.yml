@@ -97,10 +97,10 @@ collections:
         hint: "Ex : Trần Thị Lan (affiché sous le lecteur audio)"
 
       - label: "Extrait (affiché sur la page d'accueil)"
-        name: "extrait_index"
-        widget: "number"
-        default: 0
-        hint: "0 = câu đầu, 1 = câu thứ 2..."
+        name: "extrait"
+        widget: "text"
+        required: false
+        hint: "Điền 2 câu muốn hiển thị. Để trống sẽ tự lấy 2 câu đầu bản dịch."
 
       - label: "Date de publication sur le site"
         name: "date"
