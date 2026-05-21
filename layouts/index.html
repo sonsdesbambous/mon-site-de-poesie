@@ -72,7 +72,8 @@
     {{- strings.TrimRight " \r\n" (index $lines 0) -}}<br>
     
     {{- if gt (len $lines) 1 -}}
-      {{- $line2 := strings.TrimRight " \r\n.,;:!?" (strings.TrimLeft " " (index $lines 1)) -}}
+      {{- $cleanedLine2 := trim (index $lines 1) " \r\n" -}}
+      {{- $line2 := strings.TrimRight ".,;:!?" $cleanedLine2 -}}
       {{- printf "%s…" $line2 -}}
     {{- else -}}
       …
@@ -86,7 +87,8 @@
       {{- index $lines 0 -}}<br>
       
       {{- if gt (len $lines) 1 -}}
-        {{- $line2 := strings.TrimRight " \r\n.,;:!?" (index $lines 1) -}}
+        {{- $cleanedLine2 := trim (index $lines 1) " \r\n" -}}
+        {{- $line2 := strings.TrimRight ".,;:!?" $cleanedLine2 -}}
         {{- printf "%s…" $line2 -}}
       {{- else -}}
         …
