@@ -14,17 +14,33 @@
     </div>
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
+      
       {{ $auteur := .Params.auteur }}
-{{ $auteurPage := "" }}
-{{ range site.Pages }}
-  {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
-    {{ $auteurPage = . }}
-  {{ end }}
-{{ end }}
-{{ if $auteurPage }}
-<p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+      {{ $auteurPage := "" }}
+      {{ range site.Pages }}
+        {{ if eq .Section "auteurs" }}
+          {{ if eq (.Title | urlize) ($auteur | urlize) }}
+            {{ $auteurPage = . }}
+          {{ end }}
+        {{ end }}
       {{ end }}
-      {{ .Params.annee }}
+
+      {{ if $auteurPage }}
+        {{ if $auteurPage.Params.bio_courte }}
+        <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+        {{ end }}
+      {{ end }}
+      
+      <p class="poem-date-meta">
+        {{ if .Params.annee }}
+          {{ .Params.annee }}
+        {{ else if and $auteurPage $auteurPage.Params.dates }}
+          {{ $auteurPage.Params.dates }}
+        {{ else }}
+          <span style="color: var(--ink-faint);">—</span>
+        {{ end }}
+      </p>
+      
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
       {{ end }}
