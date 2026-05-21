@@ -2,7 +2,7 @@
 title: Lấy chồng chung
 title_fr: Le mari partagé
 auteur: Hồ Xuân Hương
-annee: 18xx
+annee: ""
 genre: Poème classique
 tags:
   - POLYGAMIE
