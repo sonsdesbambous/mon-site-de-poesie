@@ -151,6 +151,15 @@ audio { width: 100%; accent-color: var(--accent); }
 /* ── ANIMATION ── */
 @keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
 .poem-row { opacity: 0; animation: fadeUp 0.5s ease both; }
+
+.poem-auteur-bio {
+  font-family: var(--ff-body);
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--ink-faint);
+  margin-top: 0.4rem;
+  max-width: 480px;
+}
  
 /* ── RESPONSIVE ── */
 @media (max-width: 800px) {
