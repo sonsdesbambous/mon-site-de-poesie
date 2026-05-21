@@ -90,6 +90,12 @@ collections:
         widget: "text"
         required: false
         hint: "Điền 2 câu muốn hiển thị. Để trống sẽ tự lấy 2 câu đầu bản dịch."
+      - label: "Mettre à la une (Bài thơ của ngày)"
+        name: "featured"
+        widget: "boolean"
+        required: false
+        default: false
+        hint: "Bật nút này nếu muốn bài thơ xuất hiện ở mục tiêu điểm trên trang chủ"
       - label: "Date de publication sur le site"
         name: "date"
         widget: "datetime"
