@@ -20,11 +20,11 @@ collections:
     preview_path: "poems/{{slug}}"
     fields:
       - label: "Titre vietnamien"
-        name: "title"
+        name: "title_vi"
         widget: "string"
         hint: "Ex : Thu sơ"
       - label: "Titre français"
-        name: "title_fr"
+        name: "title"
         widget: "string"
         hint: "Ex : Automne précoce"
       - label: "Auteur"
