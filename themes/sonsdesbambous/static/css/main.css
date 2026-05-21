@@ -106,11 +106,11 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .trans-tab { font-family: var(--ff-ui); font-size: 0.75rem; font-weight: 400; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-soft); padding: 0.6rem 1.2rem; cursor: pointer; border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color 0.2s, border-color 0.2s; }
 .trans-tab:hover { color: var(--ink); }
 .trans-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
-.poem-grid { display: grid; grid-template-columns: 2fr 1px 3fr; gap: 0 clamp(2rem, 5vw, 5rem); align-items: start; }
+.poem-grid { display: grid; grid-template-columns: 9fr 1px 11fr; gap: 0 clamp(2rem, 5vw, 5rem); align-items: start; }
 .poem-divider { background: var(--rule); align-self: stretch; }
 .poem-column-label { font-family: var(--ff-ui); font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-faint); margin-bottom: 1.8rem; }
 .poem-text { font-family: var(--ff-body); font-size: 1.15rem; line-height: 1.2; color: var(--ink); white-space: pre-line; }
-.stanza { margin-bottom: 0.8em; }
+.stanza { margin-bottom: 0.5em; }
 .translation-panel { display: none; }
 .translation-panel.active { display: block; }
 .translator-credit { margin-top: 2.2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-soft); font-style: italic; }
