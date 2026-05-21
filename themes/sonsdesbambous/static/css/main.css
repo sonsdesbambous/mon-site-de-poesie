@@ -18,7 +18,7 @@ html { font-size: 110%; scroll-behavior: smooth; }
 body { background: var(--paper); color: var(--ink); font-family: var(--ff-body); font-size: 18px; line-height: 1.75; min-height: 100vh; }
  
 /* ── NAV ── */
-.site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); }
+.site-header { border-bottom: 1px solid var(--rule); padding: 0 clamp(1.5rem, 5vw, 5rem); position: sticky; top: 0; z-index: 20; background: var(--paper); }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1100px; margin: 0 auto; height: 64px; }
 .site-logo {
   display: inline-flex;
