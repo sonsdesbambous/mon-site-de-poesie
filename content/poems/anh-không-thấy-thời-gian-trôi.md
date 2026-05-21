@@ -1,5 +1,5 @@
 ---
-title: Anh không thấy thời gian trôi
+title: Anh không
 title_fr: Je ne vois pas le temps passer
 auteur: Trương Đăng Dung
 annee: "1997"
