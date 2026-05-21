@@ -4,6 +4,10 @@ title_fr: Hanoï nocturne
 auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poésie contemporaine
+tags:
+  - Amour
+  - Musique
+  - Hanoï
 texte_vi: |-
   Thế rồi ngọn nến cháy
   Thế rồi đôi môi run
@@ -40,12 +44,9 @@ traductions:
       La bougie
       S’épuise pour que la voix chantante
       Tombe sereinement
-draft: false
-tags:
-  - Amour
-  - Musique
-  - Hanoï
 extrait: Et puis les lèvres frémissent | Et puis les doigts glissent sur les
-  touches du piano
+  touches du piano;
+featured: true
 date: 2026-05-20
+draft: false
 ---
