@@ -15,14 +15,10 @@
  
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
-      <!-- DEBUG auteur: "{{ .Params.auteur }}" -->
       {{ $auteur := .Params.auteur }}
       {{ $auteurPage := "" }}
       {{ range site.Pages }}
-        {{ if eq .Section "auteurs" }}
-        <!-- AUTEUR FOUND: "{{ .Title }}" -->
-        {{ end }}
-        {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
+          {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
           {{ $auteurPage = . }}
         {{ end }}
       {{ end }}
