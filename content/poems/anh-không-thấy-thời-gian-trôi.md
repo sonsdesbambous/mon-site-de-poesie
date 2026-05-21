@@ -60,7 +60,7 @@ traductions:
       dans ton allure penchée comme pour tracer sur la terre
       des écrits sur la courte vie humaine.
 extrait: Je ne vois pas le temps passer, | seulement des écharpes de nuages couler,
-featured: true
-date: 2026-05-22
+featured: false
+date: 2026-05-21
 draft: false
 ---
