@@ -19,34 +19,28 @@ collections:
     slug: "{{slug}}"
     preview_path: "poems/{{slug}}"
     fields:
-
       - label: "Titre vietnamien"
         name: "title"
         widget: "string"
         hint: "Ex : Thu sơ"
-
       - label: "Titre français"
         name: "title_fr"
         widget: "string"
         hint: "Ex : Automne précoce"
-
       - label: "Auteur"
         name: "auteur"
         widget: "string"
         hint: "Ex : Nguyễn Du"
-
       - label: "Année"
         name: "annee"
         widget: "string"
         required: false
         hint: "Ex : 1820 ou XVIIIe s."
-
       - label: "Genre / forme"
         name: "genre"
         widget: "string"
         required: false
         hint: "Ex : Lục bát · Poème classique"
-
       - label: "Étiquettes (tags)"
         name: "tags"
         widget: "list"
@@ -55,12 +49,10 @@ collections:
           name: "tag"
           widget: "string"
         hint: "Ex : Automne, Nature, Mélancolie"
-
       - label: "Texte original (vietnamien)"
         name: "texte_vi"
         widget: "text"
         hint: "Collez le poème original. Laissez une ligne vide entre chaque strophe."
-
       - label: "Traductions"
         name: "traductions"
         widget: "list"
@@ -75,7 +67,6 @@ collections:
             name: "texte_fr"
             widget: "text"
             hint: "Laissez une ligne vide entre chaque strophe."
-
       - label: "Fichier audio (ngâm thơ)"
         name: "audio"
         widget: "file"
@@ -84,34 +75,55 @@ collections:
           config:
             multiple: false
         hint: "Format MP3 recommandé. Le fichier sera stocké dans /static/audio/"
-
       - label: "Vidéo YouTube (ID seulement)"
         name: "video_id"
         widget: "string"
         required: false
         hint: "Copiez uniquement l'ID, ex : dQw4w9WgXcQ (pas l'URL entière)"
-
       - label: "Voix de la récitation"
         name: "voix"
         widget: "string"
         required: false
         hint: "Ex : Trần Thị Lan (affiché sous le lecteur audio)"
-
       - label: "Extrait (affiché sur la page d'accueil)"
         name: "extrait"
         widget: "text"
         required: false
         hint: "Điền 2 câu muốn hiển thị. Để trống sẽ tự lấy 2 câu đầu bản dịch."
-
       - label: "Date de publication sur le site"
         name: "date"
         widget: "datetime"
         default: ""
         date_format: "YYYY-MM-DD"
         time_format: false
-
       - label: "Publié"
         name: "draft"
         widget: "boolean"
         default: false
         hint: "Décochez pour mettre en brouillon"
+
+  - name: "auteurs"
+    label: "Auteurs"
+    label_singular: "Auteur"
+    folder: "content/auteurs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Nom"
+        name: "title"
+        widget: "string"
+        hint: "Ex : Hồ Xuân Hương"
+      - label: "Dates"
+        name: "dates"
+        widget: "string"
+        required: false
+        hint: "Ex : 1772–1822"
+      - label: "Présentation courte"
+        name: "bio_courte"
+        widget: "text"
+        required: false
+        hint: "1-2 phrases affichées sous le nom sur la page du poème"
+      - label: "Biographie complète"
+        name: "bio"
+        widget: "text"
+        required: false
