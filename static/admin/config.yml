@@ -38,6 +38,7 @@ collections:
       - label: "Année"
         name: "annee"
         widget: "string"
+        required: false
         hint: "Ex : 1820 ou XVIIIe s."
 
       - label: "Genre / forme"
