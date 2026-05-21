@@ -1,6 +1,6 @@
 ---
-title: Đây mùa thu tới
-title_fr: Voici l’automne arrivé
+title_vi: Đây mùa thu tới
+title: Voici l’automne arrivé
 auteur: Xuân Diệu
 tags:
   - Nature
