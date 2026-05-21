@@ -41,7 +41,6 @@ traductions:
       S’épuise pour que la voix chantante
       Tombe sereinement
 draft: false
-featured: true
 tags:
   - Amour
   - Musique
