@@ -67,6 +67,6 @@ traductions:
 extrait: À la première, la lune éclaire doucement, | Vers la cinquième,
   passionnée, elle se retourne...
 featured: true
-date: 2026-05-22
+date: 2026-05-15
 draft: false
 ---
