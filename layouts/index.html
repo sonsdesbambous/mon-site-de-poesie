@@ -62,8 +62,8 @@
     {{ range where .Site.RegularPages "Section" "poems" }}
     <a href="{{ .Permalink }}" class="poem-row" data-tags="{{ range .Params.tags }}{{ . | urlize }} {{ end }}">
       <div>
-        <div class="row-title-vi">{{ .Title }}</div>
-        <div class="row-title-fr">{{ .Params.title_fr }}</div>
+        <div class="row-title-vi">{{ .Params.title_vi }}</div>
+        <div class="row-title-fr">{{ .Title }}</div>
       </div>
       <div class="row-excerpt">
   {{- if .Params.extrait -}}
