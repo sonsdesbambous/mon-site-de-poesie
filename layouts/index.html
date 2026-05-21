@@ -60,17 +60,9 @@
   {{ range first 1 .Params.traductions }}
     {{ $lines := split .texte_fr "\n" }}
     {{ $lines = where $lines "." "ne" "" }}
-    {{ if $.Params.extrait }}
-      {{ range $i, $line := $lines }}
-        {{ if eq (strings.TrimRight " .,;:" $line) (strings.TrimRight " .,;:" $.Params.extrait) }}
-          {{ $line }}…<br>
-          {{ if lt (add $i 1) (len $lines) }}{{ index $lines (add $i 1) }}{{ end }}
-        {{ end }}
-      {{ end }}
-    {{ else }}
-      {{ index $lines 0 }}…<br>
-      {{ index $lines 1 }}
-    {{ end }}
+    {{ $start := default 0 $.Params.extrait_index }}
+    {{ index $lines $start }}…<br>
+    {{ if lt (add $start 1) (len $lines) }}{{ index $lines (add $start 1) }}{{ end }}
   {{ end }}
 </div>
       <div class="row-tags">
