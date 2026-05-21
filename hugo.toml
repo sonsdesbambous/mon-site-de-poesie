@@ -3,6 +3,8 @@ languageCode = 'fr'
 title = 'Sons des Bambous'
 theme = 'sonsdesbambous'
 removePathAccents = true
+[frontmatter]
+  slug = { truncate = false, wheels = false }
 [pagination]
   pagerSize = 20
 [params]
