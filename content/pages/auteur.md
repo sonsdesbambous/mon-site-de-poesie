@@ -1,6 +1,6 @@
 ---
 title: "La traductrice"
-url: "/auteur/"
+url: "/traductrice/"
 layout: "auteur"
-eyebrow: "Qui écrit ces poèmes"
+eyebrow: "Qui traduit ces poèmes"
 ---
