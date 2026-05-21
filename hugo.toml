@@ -12,4 +12,4 @@ removePathAccents = true
 [taxonomies]
   tag = "tags"
 [permalinks]
-  poems = "/poemes/:title_fr/"
+  poems = "/poemes/:title/"
