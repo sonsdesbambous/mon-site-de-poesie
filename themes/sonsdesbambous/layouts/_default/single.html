@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+ 
 <section class="poem-hero">
   <div class="poem-hero-inner">
     <div>
@@ -12,44 +12,34 @@
         {{ end }}
       </div>
     </div>
+ 
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
-      
+      <!-- DEBUG auteur: "{{ .Params.auteur }}" -->
       {{ $auteur := .Params.auteur }}
       {{ $auteurPage := "" }}
       {{ range site.Pages }}
         {{ if eq .Section "auteurs" }}
-          {{ if eq (.Title | urlize) ($auteur | urlize) }}
-            {{ $auteurPage = . }}
-          {{ end }}
+        <!-- AUTEUR FOUND: "{{ .Title }}" -->
+        {{ end }}
+        {{ if and (eq .Section "auteurs") (eq .Title $auteur) }}
+          {{ $auteurPage = . }}
         {{ end }}
       {{ end }}
-
       {{ if $auteurPage }}
-        {{ if $auteurPage.Params.bio_courte }}
-        <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
-        {{ end }}
+      <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
       {{ end }}
-      
-      <p class="poem-date-meta">
-        {{ if .Params.annee }}
-          {{ .Params.annee }}
-        {{ else if and $auteurPage $auteurPage.Params.dates }}
-          {{ $auteurPage.Params.dates }}
-        {{ else }}
-          <span style="color: var(--ink-faint);">—</span>
-        {{ end }}
-      </p>
-      
+      {{ .Params.annee }}
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
       {{ end }}
     </div>
+ 
   </div>
 </section>
-
+ 
 <div class="poem-content">
-
+ 
   {{ if gt (len .Params.traductions) 1 }}
   <nav class="translation-nav" aria-label="Versions de traduction">
     {{ range $i, $t := .Params.traductions }}
@@ -60,9 +50,9 @@
     {{ end }}
   </nav>
   {{ end }}
-
+ 
   <div class="poem-grid">
-
+ 
     <div class="poem-column">
       <p class="poem-column-label">Original · Tiếng Việt</p>
       <div class="poem-text">
@@ -71,9 +61,9 @@
         {{ end }}
       </div>
     </div>
-
+ 
     <div class="poem-divider" aria-hidden="true"></div>
-
+ 
     <div class="poem-column">
       <p class="poem-column-label">Traduction · Français</p>
       {{ range $i, $t := .Params.traductions }}
@@ -89,14 +79,14 @@
       </div>
       {{ end }}
     </div>
-
+ 
   </div>
-
+ 
   {{ if or .Params.audio .Params.video_id }}
   <div class="media-section">
     <p class="section-heading">Écouter &amp; Regarder</p>
     <div class="media-grid">
-
+ 
       {{ if .Params.audio }}
       <div class="audio-card">
         <p class="audio-card-title">
@@ -108,7 +98,7 @@
         </audio>
       </div>
       {{ end }}
-
+ 
       {{ if .Params.video_id }}
       <div class="video-card">
         <div class="video-embed">
@@ -121,11 +111,11 @@
         </div>
       </div>
       {{ end }}
-
+ 
     </div>
   </div>
   {{ end }}
-
+ 
   {{ $poems := where .Site.RegularPages "Section" "poems" }}
   {{ $current := . }}
   {{ range $i, $p := $poems }}
@@ -148,9 +138,9 @@
       </nav>
     {{ end }}
   {{ end }}
-
+ 
 </div>
-
+ 
 <script>
   function showTab(id, btn) {
     document.querySelectorAll('.translation-panel').forEach(p => p.classList.remove('active'));
@@ -159,5 +149,5 @@
     btn.classList.add('active');
   }
 </script>
-
+ 
 {{ end }}
