@@ -9,10 +9,10 @@
       <p class="poem-title-fr">{{ .Params.title_fr }}</p>
       
       {{ if .Params.annee }}
-      <p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 0.95rem; color: var(--ink-faint); margin-bottom: 0.8rem;">
-        Année de composition : {{ .Params.annee }}
-      </p>
-      {{ end }}
+<p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 1rem; color: var(--ink-faint); margin-top: 0.3rem; margin-bottom: 0.8rem; font-style: italic;">
+  {{ .Params.annee }}
+</p>
+{{ end }}
 
       <div class="poem-tags">
         {{ range .Params.tags }}
