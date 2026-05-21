@@ -3,7 +3,8 @@ title: Anh không thấy thời gian trôi
 title_fr: Je ne vois pas le temps passer
 auteur: Trương Đăng Dung
 annee: "1997"
-tags: []
+tags:
+  - Existentialisme
 texte_vi: |-
   Anh không thấy thời gian trôi
   chỉ thấy những đám mây di chuyển
