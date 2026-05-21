@@ -46,7 +46,7 @@ traductions:
       Tombe sereinement
 extrait: Et puis les lèvres frémissent | Et puis les doigts glissent sur les
   touches du piano
-featured: true
+featured: false
 date: 2026-05-20
 draft: false
 ---
