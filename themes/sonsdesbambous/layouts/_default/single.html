@@ -2,18 +2,18 @@
  
 <section class="poem-hero">
   <div class="poem-hero-inner">
- 
+    
     <div>
       <p class="poem-genre">{{ .Params.genre }}</p>
       <h1 class="poem-title-vi">{{ .Title }}</h1>
       <p class="poem-title-fr">{{ .Params.title_fr }}</p>
- 
+      
       {{ if .Params.annee }}
       <p class="poem-annee-creation" style="font-family: var(--ff-body); font-size: 1rem; color: var(--ink-faint); margin-top: 0.3rem; margin-bottom: 0.8rem; font-style: italic;">
         {{ .Params.annee }}
       </p>
       {{ end }}
- 
+
       <div class="poem-tags">
         {{ range .Params.tags }}
         <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
@@ -23,7 +23,7 @@
  
     <div class="poem-meta">
       <strong>{{ .Params.auteur }}</strong>
- 
+      
       {{ $auteur := .Params.auteur }}
       {{ $auteurPage := "" }}
       {{ range site.Pages }}
@@ -31,23 +31,27 @@
           {{ $auteurPage = . }}
         {{ end }}
       {{ end }}
- 
+      
       {{ if and $auteurPage $auteurPage.Params.dates }}
       <p class="poem-auteur-dates" style="font-family: var(--ff-body); font-size: 0.9rem; font-style: italic; color: var(--ink-faint); margin-top: 0.2rem; margin-bottom: 0.4rem;">
         ({{ $auteurPage.Params.dates }})
       </p>
       {{ end }}
- 
+
       {{ if $auteurPage }}
-      <p class="poem-auteur-bio">
-        {{ $auteurPage.Params.bio_courte }}
+        <p class="poem-auteur-bio">{{ $auteurPage.Params.bio_courte }}</p>
+        
         {{ if $auteurPage.Params.bio }}
-        <br><a href="#" class="auteur-more-link" onclick="toggleBio(this); return false;">En savoir plus →</a>
-        <span class="auteur-bio-full" style="display:none; margin-top: 0.6rem; font-family: var(--ff-body); font-size: 0.88rem; font-style: normal; color: var(--ink-soft); line-height: 1.7;">{{ $auteurPage.Params.bio }}</span>
+        <div id="author-full-bio" style="display: none; margin-top: 0.8rem; font-size: 0.9rem; color: var(--ink-main); line-height: 1.5;">
+          {{ $auteurPage.Params.bio | markdownify }}
+        </div>
+        
+        <button id="toggle-bio-btn" onclick="toggleAuthorBio()" style="background: none; border: none; padding: 0; font-family: var(--ff-body); font-size: 0.85rem; font-style: italic; color: var(--ink-faint); text-decoration: underline; cursor: pointer; margin-top: 0.3rem; display: inline-block;">
+          En savoir plus ↓
+        </button>
         {{ end }}
-      </p>
       {{ end }}
- 
+      
       {{ if .Params.traductions }}
       <br>{{ len .Params.traductions }} traduction{{ if gt (len .Params.traductions) 1 }}s{{ end }}
       {{ end }}
@@ -160,21 +164,25 @@
 </div>
  
 <script>
+  // Hàm đổi bản dịch cũ của bạn
   function showTab(id, btn) {
     document.querySelectorAll('.translation-panel').forEach(p => p.classList.remove('active'));
     document.querySelectorAll('.trans-tab').forEach(b => b.classList.remove('active'));
     document.getElementById('panel-' + id).classList.add('active');
     btn.classList.add('active');
   }
- 
-  function toggleBio(link) {
-    const full = link.nextElementSibling;
-    if (full.style.display === 'none') {
-      full.style.display = 'block';
-      link.textContent = 'Réduire ↑';
+
+  // Hàm mới: Đóng/Mở rộng tiểu sử dài tại chỗ
+  function toggleAuthorBio() {
+    var bioDiv = document.getElementById('author-full-bio');
+    var btn = document.getElementById('toggle-bio-btn');
+    
+    if (bioDiv.style.display === 'none') {
+      bioDiv.style.display = 'block';
+      btn.innerText = 'Réduire ↑';
     } else {
-      full.style.display = 'none';
-      link.textContent = 'En savoir plus →';
+      bioDiv.style.display = 'none';
+      btn.innerText = 'En savoir plus ↓';
     }
   }
 </script>
