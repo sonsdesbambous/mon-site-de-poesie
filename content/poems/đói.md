@@ -1,6 +1,6 @@
 ---
-title: Đói
-title_fr: La faim
+title_vi: Đói
+title: La faim
 auteur: Phùng Quán
 annee: ""
 genre: ""
