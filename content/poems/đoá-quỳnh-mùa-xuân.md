@@ -36,7 +36,7 @@ traductions:
     traducteur: Sonsdesbambous
 extrait: Aurait-elle pressenti la fin prochaine de la nuit | Qu’elle s’épuise
   ainsi à exhaler son parfum exquis ʔ
-featured: true
+featured: false
 date: 2026-05-02
 draft: false
 ---
