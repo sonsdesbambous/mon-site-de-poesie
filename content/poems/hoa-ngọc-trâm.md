@@ -66,7 +66,7 @@ traductions:
       Dans la tradition vietnamienne, la nuit se divise en cinq veilles, appelées « canh », chacune durant environ deux heures (NDT).
 extrait: À la première, la lune éclaire doucement, | Vers la cinquième,
   passionnée, elle se retourne...
-featured: true
-date: 2026-05-15
+featured: false
+date: 2026-05-21
 draft: false
 ---
