@@ -3,7 +3,10 @@ title_vi: Hôn
 title: Les baisers
 auteur: Phùng Quán
 annee: "1956"
-tags: []
+tags:
+  - Amour
+  - Guerre
+  - Dignité
 texte_vi: |-
   Trời đã sinh ra em 
   Ðể mà xinh mà đẹp 
@@ -30,7 +33,7 @@ texte_vi: |-
   Hôn em bằng đôi môi 
   Của một người nô lệ.
 traductions:
-  - traducteur: Sonsdesbambous
+  - traducteur: Sons des Bambous
     texte_fr: |-
       Le Ciel t’a créée, ma chérie,
       Pour être belle et gracieuse ;
