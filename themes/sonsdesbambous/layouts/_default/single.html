@@ -91,9 +91,7 @@
           <div class="stanza">{{ . }}</div>
           {{ end }}
         </div>
-        {{ if $t.traducteur }}
-        <p class="translator-credit">Traduit par {{ $t.traducteur }}</p>
-        {{ end }}
+        <p class="translator-credit">Traduit par {{ if $t.traducteur }}{{ $t.traducteur }}{{ else }}Sons des Bambous{{ end }}</p>
       </div>
       {{ end }}
     </div>
