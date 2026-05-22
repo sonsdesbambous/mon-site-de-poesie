@@ -26,7 +26,7 @@ texte_vi: |-
   Ít nhiều thiếu nữ buồn không nói
   Tựa cửa nhìn xa, nghĩ ngợi gì. 
 traductions:
-  - traducteur: Sonsdesbambous
+  - traducteur: ""
     texte_fr: |-
       Les saules pleureurs se penchent tristement en deuil,
       De leurs cheveux ruissellent des milliers de larmes.
