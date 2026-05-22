@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="page-eyebrow">Auteurs</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+</section>
+<div class="page-content">
+  {{ range .Pages }}
+  <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+  {{ end }}
+</div>
+{{ end }}
