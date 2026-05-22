@@ -27,7 +27,7 @@
     {{- else -}}
       …
     {{- end -}}
-  {{- else -}}
+  {{- else if .Params.traductions -}}
     {{- range first 1 .Params.traductions -}}
       {{- $lines := split .texte_fr "\n" -}}
       {{- $lines = where $lines "." "ne" "" -}}
