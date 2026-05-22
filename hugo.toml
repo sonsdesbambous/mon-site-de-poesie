@@ -13,3 +13,7 @@ removePathAccents = true
   tag = "tags"
 [permalinks]
   poems = "/poemes/:slug/"
+[slugify]
+  [slugify.replacements]
+    "œ" = "oe"
+    "Œ" = "oe"
