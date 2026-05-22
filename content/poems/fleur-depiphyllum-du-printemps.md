@@ -1,7 +1,7 @@
 ---
 title_vi: Đóa quỳnh mùa xuân
 title: Fleur d’épiphyllum du printemps
-auteur: Sonsdesbambous
+auteur: Sons des Bambous
 annee: "2010"
 tags:
   - Hommage
@@ -33,7 +33,7 @@ traductions:
 
       Aurait-elle pressenti la fin prochaine de la nuit
       Qu’elle s’épuise ainsi à exhaler son parfum exquis ?
-    traducteur: Sonsdesbambous
+    traducteur: ""
 extrait: Aurait-elle pressenti la fin prochaine de la nuit | Qu’elle s’épuise
   ainsi à exhaler son parfum exquis ʔ
 featured: false
