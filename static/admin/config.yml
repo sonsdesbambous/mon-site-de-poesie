@@ -62,6 +62,7 @@ collections:
           - label: "Traducteur / traductrice"
             name: "traducteur"
             widget: "string"
+            required: false
             hint: "Ex : Marie-Hélène Lê"
           - label: "Texte traduit (français)"
             name: "texte_fr"
