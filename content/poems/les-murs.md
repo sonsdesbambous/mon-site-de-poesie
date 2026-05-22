@@ -77,7 +77,7 @@ traductions:
       La nuit, je continue d’entendre des corbeaux
       rire et bavarder de tout et de rien sur ces murs.
 extrait: les murs qui ne sont pas faits de nos mains, | les murs que nous ne
-  pouvons abattre…
+  pouvons abattre
 featured: false
 date: 2026-05-22
 draft: false
