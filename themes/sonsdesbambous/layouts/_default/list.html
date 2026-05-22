@@ -1,18 +1,60 @@
 {{ define "main" }}
+ 
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="page-eyebrow">Tag</p>
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+</section>
+ 
 <section class="poems-section">
-  <h1 class="page-title" style="font-family:var(--ff-title);font-size:2rem;padding:3rem clamp(1.5rem,5vw,5rem) 2rem">{{ .Title }}</h1>
-  <div class="poems-list" style="padding:0 clamp(1.5rem,5vw,5rem)">
+  <p class="poems-count" id="count">{{ len .Pages }} poème{{ if gt (len .Pages) 1 }}s{{ end }}</p>
+  <div class="poems-list">
     {{ range .Pages }}
     <a href="{{ .Permalink }}" class="poem-row">
       <div>
-        <div class="row-title-vi">{{ .Title }}</div>
-        <div class="row-title-fr">{{ .Params.title_fr }}</div>
+        <div class="row-title-vi">{{ .Params.title_vi }}</div>
+        <div class="row-title-fr">{{ .Title }}</div>
       </div>
-      <div class="row-excerpt">{{ .Params.extrait }}</div>
-      <div class="row-tags">{{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}</div>
-      <div class="row-meta">{{ .Params.auteur }}<br>{{ .Params.annee }}</div>
+      <div class="row-excerpt">
+  {{- if .Params.extrait -}}
+    {{- $lines := split .Params.extrait "|" -}}
+    {{- strings.TrimRight " \r\n" (index $lines 0) -}}<br>
+    {{- if gt (len $lines) 1 -}}
+      {{- $cleanedLine2 := trim (index $lines 1) " \r\n" -}}
+      {{- $line2 := strings.TrimRight ".,;:!?" $cleanedLine2 -}}
+      {{- printf "%s…" $line2 -}}
+    {{- else -}}
+      …
+    {{- end -}}
+  {{- else -}}
+    {{- range first 1 .Params.traductions -}}
+      {{- $lines := split .texte_fr "\n" -}}
+      {{- $lines = where $lines "." "ne" "" -}}
+      {{- index $lines 0 -}}<br>
+      {{- if gt (len $lines) 1 -}}
+        {{- $cleanedLine2 := trim (index $lines 1) " \r\n" -}}
+        {{- $line2 := strings.TrimRight ".,;:!?" $cleanedLine2 -}}
+        {{- printf "%s…" $line2 -}}
+      {{- else -}}
+        …
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+</div>
+      <div class="row-tags">
+        {{ range .Params.tags }}<span class="row-tag">{{ . }}</span>{{ end }}
+      </div>
+      <div class="row-meta">
+        {{ .Params.auteur }}<br>{{ .Params.annee }}
+        <div class="row-media-icons">
+          {{ if .Params.audio }}♪ {{ end }}
+          {{ if .Params.video_id }}▶{{ end }}
+        </div>
+      </div>
     </a>
     {{ end }}
   </div>
 </section>
+ 
 {{ end }}
