@@ -1,6 +1,7 @@
 ---
 title_vi: Em với anh
 title: Ton cœur et le mien
+slug: "ton-coeur-et-le-mien"
 auteur: Nguyễn Bính
 genre: Poème classique
 tags:
