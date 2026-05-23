@@ -37,22 +37,22 @@ traductions:
       la tortue d’or envoie aux nuées sa silhouette,
       le vieux banian incline vers l’eau ses branchettes,
       le pont The Huc s’incurve en un sourcil pourpré.
-       
+
       Ta longue chevelure trahissant le vent,
       ta tunique révèle ton corps élégant,
       ton cœur est profond comme la vieille cité
       aux toitures moussues, aux banians surannés.
-       
+
       Tes pas gracieux circulent dans l’ancien quartier
       portes à maints battants et vieux murs effrités ;
       je rôde alentour comme un voleur indécis
       qui craint toujours d’être pris en flagrant délit…
-       
+
       Hésitant, j’ai raté la chance de ma vie
       m’étant trop retenu, j'ai perdu mon amour ;
       et me voilà orphelin de toi pour toujours,
       dans la brume s’est noyée mon âme étourdie.
-       
+
       Fenêtre fermée… point ne vois ta silhouette ;
       les chevaux d’hier cèdent aux motocyclettes ;
       de retour sous le vieux banian, j’écris ces vers
