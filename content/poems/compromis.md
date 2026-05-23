@@ -4,6 +4,8 @@ title: Compromis
 auteur: Trương Đăng Dung
 annee: "2010"
 genre: Poème philosophique
+tags:
+  - Philosophique
 texte_vi: |-
   Ngôi nhà muốn bay
   con đường muốn trôi
