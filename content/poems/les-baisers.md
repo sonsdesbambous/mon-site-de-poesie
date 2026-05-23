@@ -59,8 +59,8 @@ traductions:
       T’aimant, chérie, je ne peux pas
       Avec les lèvres d’un esclave
       Te donner des baisers d’amour.
-extrait: Il se pourrait bien que je meure | Par une balle au champ d’honneur |
-  Sans que mes lèvres déchirées | Jamais ne goûtent un baiser.
+extrait: Il se pourrait bien que je meure | Sans que mes lèvres déchirées |
+  Jamais ne goûtent un baiser.
 featured: false
 date: 2026-05-22
 draft: false
