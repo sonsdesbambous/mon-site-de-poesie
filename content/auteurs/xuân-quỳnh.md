@@ -12,6 +12,4 @@ bio: >-
   tension constante entre désir d’attachement et peur de la perte.
 
   Son style, d’une grande simplicité apparente, repose sur des images claires et une musicalité naturelle qui rendent ses poèmes immédiatement accessibles tout en conservant une profondeur émotionnelle durable. Elle a également écrit sur la maternité et la vie quotidienne, toujours avec une sensibilité aiguë aux émotions ordinaires mais essentielles.
-
-  Elle est décédée en 1988 dans un accident de la route, laissant derrière elle une œuvre qui continue d’être largement lue et admirée, notamment pour sa capacité à dire l’amour comme une expérience à la fois fragile, persistante et universelle.
 ---
