@@ -162,7 +162,11 @@ audio { width: 100%; accent-color: var(--accent); }
   margin-top: 0.4rem;
   max-width: 480px;
 }
- 
+
+.filters-tags-wrap { display: flex; align-items: center; flex: 1; gap: 0.3rem; }
+.filters-arrow { background: none; border: 1px solid var(--rule); color: var(--ink-soft); font-size: 1.2rem; width: 28px; height: 28px; border-radius: 2px; cursor: pointer; flex-shrink: 0; display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
+.filters-arrow:hover { border-color: var(--ink-soft); color: var(--ink); }
+
 /* ── RESPONSIVE ── */
 @media (max-width: 800px) {
   .hero-inner { grid-template-columns: 1fr; gap: 2.5rem; }
