@@ -6,8 +6,6 @@ annee: ""
 genre: ""
 tags:
   - Humanité
-  - Faim
-  - Condition humaine
 texte_vi: |-
   Trong trăm nghìn nỗi đói
   Tôi nếm trải cả rồi
