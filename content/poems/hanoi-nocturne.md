@@ -44,8 +44,8 @@ traductions:
       La bougie
       S’épuise pour que la voix chantante
       Tombe sereinement
-extrait: Et puis les lèvres frémissent | Et puis les doigts glissent sur les
-  touches du piano
+extrait: Et puis la bougie s’allume | Et puis les lèvres frémissent | Et puis
+  les doigts glissent sur les touches du piano
 featured: false
 date: 2026-05-20
 draft: false
