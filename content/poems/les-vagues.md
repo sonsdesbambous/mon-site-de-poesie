@@ -80,8 +80,8 @@ traductions:
       Ô vagues en surface des flots
       Qui, songeant au rivage éloigné,
       Restent jours et nuits éveillées !
-      Mon âme, de toi languissante,
-      Même en rêve passe des nuits blanches.
+      Mon âme, languissante de toi,
+      Même en rêve ne dort pas.
 
       Que je monte vers le Nord
       Ou que je descende vers le Sud,
