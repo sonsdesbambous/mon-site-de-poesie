@@ -10,27 +10,27 @@ texte_vi: |-
   Nứa anh đem phơi nắng 
   Chính ửng mặt trời hồng 
   Nứa anh đem hong bếp 
-  Óng ánh màu mật ong. 
+  Óng ánh màu mật ong.
 
   Anh bắc qua năm tháng 
   Chiếc cầu phao âm thanh 
   Đời hai đầu mưa nắng 
-  Đàn mắc võng tâm tình 
+  Đàn mắc võng tâm tình
 
   Mỗi câu em đậm đà 
   Mỗi tiếng lòng anh dội 
   Câu trầm bổng thiết tha 
-  Võng ru lời rừng suối 
+  Võng ru lời rừng suối
 
   Em cùng anh ta nối 
   Qua trăm núi nghìn đèo 
   Tiếng quê hương vời vợi 
-  Như dậy rừng nứa reo 
+  Như dậy rừng nứa reo
 
   Tiếng đá lồng tiếng nứa 
   Cung bậc hồn cha ông 
   Bậc cao như đỉnh núi 
-  Bậc trầm hơn đáy sông 
+  Bậc trầm hơn đáy sông
 
   Đàn nói lòng Đam San 
   Đàn nói tình Xinh Nhã 
