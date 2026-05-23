@@ -2,6 +2,7 @@
 title_vi: Với bàn tay ấy…
 title: Avec ces mains-là…
 auteur: Xuân Diệu
+annee: "1938"
 tags:
   - amour
   - mélancolie
@@ -49,7 +50,7 @@ traductions:
       La moindre empreinte de ces mains-là sur les miennes.
 extrait: Au clair de la lune enjouée, je cherche en vain | La moindre empreinte
   de ces mains-là | sur les miennes.
-featured: true
+featured: false
 date: 2026-05-22
 draft: false
 ---
