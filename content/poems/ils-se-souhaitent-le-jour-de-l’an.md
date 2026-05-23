@@ -4,6 +4,8 @@ title: Ils se souhaitent le jour de l’An
 auteur: Tú Xương
 annee: ""
 genre: Poème classique
+tags:
+  - satire
 texte_vi: |-
   Lẳng lặng mà nghe nó chúc nhau:
   Chúc nhau trăm tuổi bạc đầu râu
