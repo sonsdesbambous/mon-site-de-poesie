@@ -2,7 +2,7 @@
 title_vi: Năm mới chúc nhau
 title: Ils se souhaitent le jour de l’An
 auteur: Tú Xương
-annee: 1870-1907
+annee: ""
 genre: Poème classique
 texte_vi: |-
   Lẳng lặng mà nghe nó chúc nhau:
