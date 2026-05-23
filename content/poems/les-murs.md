@@ -55,7 +55,7 @@ traductions:
 
       Dans chaque serrement de mains,
       il existe un mur,
-      entre moi et l’être vu dans le miroir
+      entre toi et l’être vu dans le miroir
       il existe un mur,
       entre deux oreillers mis côte à côte
       il existe un mur.
