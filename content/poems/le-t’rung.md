@@ -3,6 +3,9 @@ title_vi: Đàn Tơ-rưng
 title: Le T’rung
 auteur: Huy Cận
 annee: ""
+tags:
+  - musique
+  - patrie
 texte_vi: |-
   Nứa anh đem phơi nắng 
   Chính ửng mặt trời hồng 
