@@ -2,6 +2,10 @@
 title_vi: Với bàn tay ấy…
 title: Avec ces mains-là…
 auteur: Xuân Diệu
+tags:
+  - amour
+  - mélancolie
+  - souvenir
 texte_vi: |-
   Với bàn tay ấy ở trong tay,
   Tôi đã nguôi quên hận tháng ngày,
