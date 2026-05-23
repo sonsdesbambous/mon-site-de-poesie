@@ -46,12 +46,14 @@
   <div class="filters-inner">
     <span class="filter-label">Filtrer</span>
     <button class="filter-btn active" onclick="filterPoems('tous', this)">Tous</button>
-    {{ range .Site.Taxonomies.tags }}
-    <button class="filter-btn" onclick="filterPoems('{{ .Page.Title | urlize }}', this)">{{ .Page.Title }}</button>
-    {{ end }}
+    <div class="filters-tags">
+      {{ range .Site.Taxonomies.tags }}
+      <button class="filter-btn" onclick="filterPoems('{{ .Page.Title | urlize }}', this)">{{ .Page.Title }}</button>
+      {{ end }}
+    </div>
     <div class="search-wrap">
       <span class="search-icon">⌕</span>
-      <input type="search" class="search-input" placeholder="Rechercher…" oninput="searchPoems(this.value)" aria-label="Rechercher un poème">
+      <input type="search" class="search-input" placeholder="Rechercher…" oninput="searchPoems(this.value)" aria-label="Rechercher">
     </div>
   </div>
 </div>
