@@ -55,7 +55,7 @@ traductions:
       Du monde hétérogène
       flottent et balancent
       des interprétations compromises.
-extrait: Du monde hétérogène flottent et balancent | des interprétations compromises.
+extrait: Du monde hétérogène | flottent et balancent | des interprétations compromises
 featured: false
 date: 2026-05-22
 draft: false
