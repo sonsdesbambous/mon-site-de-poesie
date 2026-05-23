@@ -4,7 +4,6 @@ title: Les vagues
 auteur: Xuân Quỳnh
 annee: "1967"
 tags:
-  - vagues
   - amour
   - océan
   - lyrisme
@@ -104,7 +103,7 @@ traductions:
       Au milieu de l’océan d’amour
       Pour clapoter à jamais sur le rivage.
 extrait: Puissé-je me briser un jour | En une centaine de petites vagues
-featured: true
+featured: false
 date: 2026-05-23
 draft: false
 ---
