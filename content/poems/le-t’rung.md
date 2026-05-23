@@ -2,7 +2,7 @@
 title_vi: Đàn Tơ-rưng
 title: Le T’rung
 auteur: Huy Cận
-annee: 1919-2005
+annee: ""
 texte_vi: |-
   Nứa anh đem phơi nắng 
   Chính ửng mặt trời hồng 
