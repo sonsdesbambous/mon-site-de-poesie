@@ -43,11 +43,21 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .nav-links a { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; transition: color 0.2s; }
 .nav-links a:hover, .nav-links a.active { color: var(--accent); }
 
-.profile-logo-wrap .profile-logo {
-  width: 5.5rem !important;  
+/* 1. Định hình lại khung chứa logo */
+.profile-logo-wrap {
+  display: block !important;
+  width: 5.5rem !important;
   height: 5.5rem !important;
-  margin-bottom: 2.2rem;
-  }
+  margin-bottom: 2.2rem !important;
+}
+
+/* 2. Ép ảnh logo bung hết cỡ theo khung chứa */
+.profile-logo-wrap .profile-logo {
+  display: block !important;
+  width: 100% !important;  
+  height: 100% !important;
+  object-fit: contain !important; /* Giữ nguyên tỷ lệ ảnh không bị móp */
+}
  
 /* ── HERO ACCUEIL ── */
 .hero { padding: clamp(4rem, 8vw, 9rem) clamp(1.5rem, 5vw, 5rem) clamp(3rem, 6vw, 6rem); border-bottom: 1px solid var(--rule); animation: fadeUp 0.65s ease both; }
