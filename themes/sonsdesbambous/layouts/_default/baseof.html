@@ -13,14 +13,15 @@
   <link rel="stylesheet" href="/css/extra.css">
 </head>
 <body>
-
   {{ partial "header.html" . }}
-
   <main>
     {{ block "main" . }}{{ end }}
   </main>
-
   {{ partial "footer.html" . }}
-
+  <script>
+  function toggleMenu() {
+    document.getElementById('nav-mobile').classList.toggle('open');
+  }
+  </script>
 </body>
 </html>
