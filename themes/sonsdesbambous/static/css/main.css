@@ -181,4 +181,6 @@ audio { width: 100%; accent-color: var(--accent); }
   .poem-meta { text-align: left; }
   .poem-grid { grid-template-columns: 1fr; }
   .poem-divider { display: none; }
+  .filters-tags-wrap { flex: 1; min-width: 0; }
+  .filters-tags { min-width: 0; }
 }
