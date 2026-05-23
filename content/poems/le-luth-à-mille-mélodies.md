@@ -2,6 +2,9 @@
 title_vi: Cây đàn muôn điệu
 title: Le luth à mille mélodies
 auteur: Thế Lữ
+tags:
+  - luth
+  - muse
 texte_vi: |-
   Tôi là người bộ hành phiêu lãng
   Đường trần gian xuôi ngược để vui chơi:
@@ -56,7 +59,7 @@ traductions:
       Quand je ne suis qu’un voyageur de passion,
       Amoureux de la beauté aux mille apparences ?
       Luth à mille mélodies, pinceau emprunté
-      À la belle Ly-tao1, je dessine et je chante
+      À la belle Ly-tao, je dessine et je chante
       La beauté placide, aguicheuse ou innocente,
       La beauté majestueuse ainsi qu’éthérée
       Du pays, des belles-lettres et des pensées.
