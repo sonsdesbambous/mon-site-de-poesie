@@ -3,6 +3,11 @@ title_vi: Sóng
 title: Les vagues
 auteur: Xuân Quỳnh
 annee: "1967"
+tags:
+  - vagues
+  - amour
+  - océan
+  - lyrisme
 texte_vi: |-
   Dữ dội và dịu êm
   Ồn ào và lặng lẽ
