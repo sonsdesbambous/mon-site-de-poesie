@@ -3,6 +3,10 @@ title_vi: Lòng mẹ
 title: Un cœur de mère
 auteur: Nguyễn Bính
 annee: "1936"
+genre: ""
+tags:
+  - amour
+  - famille
 texte_vi: |-
   Gái lớn ai không phải lấy chồng
   Can gì mà khóc, nín đi không !
