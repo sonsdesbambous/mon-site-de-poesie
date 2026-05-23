@@ -2,6 +2,9 @@
 title_vi: Gửi hương cho gió
 title: Parfum offert au vent
 auteur: Xuân Diệu
+tags:
+  - amour
+  - philosophie
 texte_vi: |-
   Biết bao hoa đẹp trong rừng thẳm
   Đem gửi hương cho gió phũ phàng!
