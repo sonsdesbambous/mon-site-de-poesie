@@ -3,7 +3,7 @@ title_vi: Thỏa thuận
 title: Compromis
 auteur: Trương Đăng Dung
 annee: "2010"
-genre: Poème philosophique
+genre: Poème philosophie
 tags:
   - Philosophique
 texte_vi: |-
