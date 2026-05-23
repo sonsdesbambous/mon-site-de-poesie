@@ -3,7 +3,7 @@ title_vi: Cây đàn muôn điệu
 title: Le luth à mille mélodies
 auteur: Thế Lữ
 tags:
-  - luth
+  - art
   - muse
 texte_vi: |-
   Tôi là người bộ hành phiêu lãng
