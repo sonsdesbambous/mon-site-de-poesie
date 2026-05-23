@@ -42,6 +42,12 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .nav-links { display: flex; gap: 2.2rem; list-style: none; }
 .nav-links a { font-family: var(--ff-ui); font-size: 0.78rem; font-weight: 400; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-soft); text-decoration: none; transition: color 0.2s; }
 .nav-links a:hover, .nav-links a.active { color: var(--accent); }
+
+.profile-logo-wrap .profile-logo {
+  width: 5.5rem !important;  
+  height: 5.5rem !important;
+  margin-bottom: 2.2rem;
+  }
  
 /* ── HERO ACCUEIL ── */
 .hero { padding: clamp(4rem, 8vw, 9rem) clamp(1.5rem, 5vw, 5rem) clamp(3rem, 6vw, 6rem); border-bottom: 1px solid var(--rule); animation: fadeUp 0.65s ease both; }
