@@ -17,6 +17,7 @@ collections:
     folder: "content/poems"
     create: true
     slug: "{{slug}}"
+    summary: "{{title}} — {{fields.auteur}}"
     preview_path: "poems/{{slug}}"
     fields:
       - label: "Titre vietnamien"
