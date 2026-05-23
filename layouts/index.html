@@ -46,10 +46,14 @@
   <div class="filters-inner">
     <span class="filter-label">Filtrer</span>
     <button class="filter-btn active" onclick="filterPoems('tous', this)">Tous</button>
-    <div class="filters-tags">
-      {{ range .Site.Taxonomies.tags }}
-      <button class="filter-btn" onclick="filterPoems('{{ .Page.Title | urlize }}', this)">{{ .Page.Title }}</button>
-      {{ end }}
+    <div class="filters-tags-wrap">
+      <button class="filters-arrow filters-arrow-left" onclick="scrollTags(-1)">‹</button>
+      <div class="filters-tags" id="filters-tags">
+        {{ range .Site.Taxonomies.tags }}
+        <button class="filter-btn" onclick="filterPoems('{{ .Page.Title | urlize }}', this)">{{ .Page.Title }}</button>
+        {{ end }}
+      </div>
+      <button class="filters-arrow filters-arrow-right" onclick="scrollTags(1)">›</button>
     </div>
     <div class="search-wrap">
       <span class="search-icon">⌕</span>
