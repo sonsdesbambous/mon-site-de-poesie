@@ -44,7 +44,7 @@ traductions:
       Au clair de la lune enjouée, je cherche en vain 
       La moindre empreinte de ces mains-là sur les miennes.
 extrait: Au clair de la lune enjouée, je cherche en vain | La moindre empreinte
-  de ces mains-là sur les miennes.
+  de ces mains-là | sur les miennes.
 featured: true
 date: 2026-05-22
 draft: false
