@@ -59,7 +59,8 @@ traductions:
       T’aimant, chérie, je ne peux pas
       Avec les lèvres d’un esclave
       Te donner des baisers d’amour.
-extrait: Mais je ne veux pas, à mon tour, | Dans l’amertume t’embrasser.
+extrait: Il se pourrait bien que je meure | Par une balle au champ d’honneur |
+  Sans que mes lèvres déchirées | Jamais ne goûtent un baiser.
 featured: false
 date: 2026-05-22
 draft: false
