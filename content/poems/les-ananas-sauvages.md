@@ -3,6 +3,9 @@ title_vi: Những cây dứa dại
 title: Les ananas sauvages
 auteur: Xuân Quỳnh
 annee: "1963"
+tags:
+  - Philosophique
+  - Nature
 texte_vi: |-
   Ở đảo này cũng như những đảo xa
   Dứa dại mọc men theo bờ cát
