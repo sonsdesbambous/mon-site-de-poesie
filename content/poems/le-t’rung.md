@@ -10,7 +10,7 @@ texte_vi: |-
   Nứa anh đem phơi nắng 
   Chính ửng mặt trời hồng 
   Nứa anh đem hong bếp 
-  Óng ánh màu mật ong.
+  Óng ánh màu mật ong
 
   Anh bắc qua năm tháng 
   Chiếc cầu phao âm thanh 
@@ -30,12 +30,12 @@ texte_vi: |-
   Tiếng đá lồng tiếng nứa 
   Cung bậc hồn cha ông 
   Bậc cao như đỉnh núi 
-  Bậc trầm hơn đáy sông
+  Bậc trầm hơn đáy song
 
   Đàn nói lòng Đam San 
   Đàn nói tình Xinh Nhã 
   Nói ân tình đôi ta 
-  Tựa lửa bền trong đá.
+  Tựa lửa bền trong đá
 traductions:
   - texte_fr: |-
       Je fais sécher du bambou
