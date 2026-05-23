@@ -3,9 +3,9 @@ title_vi: Thỏa thuận
 title: Compromis
 auteur: Trương Đăng Dung
 annee: "2010"
-genre: Poème philosophie
+genre: Poème philosophique
 tags:
-  - Philosophique
+  - Philosophie
 texte_vi: |-
   Ngôi nhà muốn bay
   con đường muốn trôi
