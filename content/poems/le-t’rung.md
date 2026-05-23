@@ -42,27 +42,27 @@ traductions:
       Aux rayons du soleil rouge ;
       J’en fais sécher sur le foyer
       Aux doux reflets de miel ambré.
-       
+
       Je jette à travers le temps
       Ce pont sonore et flottant ;
       Comme un hamac, le T’rung relie,
       Pluie et soleil, les deux bouts d’une vie.
-       
+
       Chaque voix de ton âme est une saveur,
       Chaque son de mon cœur produit un écho,
       Aigu ou grave, toujours avec ardeur,
       Berceuse des forêt et des ruisseaux.
-       
+
       Ensemble toi et moi, nous faisons s’envoler,
       Au delà et des montagnes et des goulets,
       La voix résonnante de notre terre,
       Comme le chœur des bambous dans nos forêts.
-       
+
       Leurs voix se fondent, bambou et pierre,
       Quand s’épanchent les notes de l’âme de nos aïeux,
       Les unes s’élèvent jusqu’au sommet montagneux,
       Les autres descendent au fond de la rivière.
-       
+
       Le T’rung exprime l’âme de Dam San,
       Le T’rung exprime le cœur de Xinh Nha,
       Exprime nos sentiments, toi et moi,
