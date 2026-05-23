@@ -33,8 +33,6 @@ texte_vi: |-
   Sao được cho ra cái giống người.
 traductions:
   - texte_fr: |-
-      Ils se souhaitent le jour de l’An
-
       Écoutons-les se souhaiter longévité :
       Toucher leur centenaire, barbe toute blanche.
       On fera du commerce de petits mortiers,
