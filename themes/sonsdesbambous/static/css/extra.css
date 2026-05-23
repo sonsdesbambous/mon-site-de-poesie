@@ -2,7 +2,7 @@
 /* ── AUTEUR ── */
 .auteur-grid { display: grid; grid-template-columns: 280px 1fr; gap: clamp(3rem, 6vw, 6rem); align-items: start; }
 .auteur-photo-wrap { position: sticky; top: 2rem; }
-.auteur-photo { width: 100%; aspect-ratio: 1/1; background: var(--paper-dark); border-radius: 50%; font-family: var(--ff-body); font-style: italic; font-size: 0.9rem; color: var(--ink-faint); margin-bottom: 1.4rem; overflow: hidden; }
+.auteur-photo { width: 100%; aspect-ratio: 1/1; max-width: 220px; background: var(--paper-dark); border-radius: 50%; font-family: var(--ff-body); font-style: italic; font-size: 0.9rem; color: var(--ink-faint); margin-bottom: 1.4rem; overflow: hidden; }
 .auteur-photo img { width: 100%; height: 100%; object-fit: cover; }
 .auteur-quick { margin-top: 1rem; }
 .quick-item { padding: 0.7rem 0; border-bottom: 1px solid var(--rule); display: flex; flex-direction: column; gap: 0.1rem; }
