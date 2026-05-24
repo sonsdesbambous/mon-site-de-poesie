@@ -194,5 +194,6 @@ audio { width: 100%; accent-color: var(--accent); }
   .filter-label { display: none; }
   .filter-btn { padding: 0.35rem 0.35rem; }
   .search-input { width: 80px; }
-  .search-wrap { margin-left: 0; }
+  .search-input { text-align: left; padding-left: 0.5rem; }
+  .search-icon { display: none; }
 }
