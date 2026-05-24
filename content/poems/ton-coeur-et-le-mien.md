@@ -1,7 +1,6 @@
 ---
 title_vi: Em với anh
 title: Ton cœur et le mien
-slug: "ton-coeur-et-le-mien"
 auteur: Nguyễn Bính
 genre: Poème classique
 tags:
@@ -23,8 +22,8 @@ texte_vi: |-
   Thay bao nhiêu suốt mà thoi vẫn lành.
 traductions:
   - texte_fr: |-
-      Ton cœur ne diffère point du tout d’un bar
-      Qui s’apprête à recevoir même les passants ;
+      Ton cœur ressemble à une échoppe de village
+      Qui s’ouvre de bonne grâce à tous les passants ;
       Le mien est similaire à un radeau de bois
       Qui flotte vers un seul quai, sur un seul courant.
 
@@ -42,4 +41,5 @@ extrait: Le tien est pareil à une feuille de taro, | Autant l’eau y tombe,
   autant elle s’en déverse
 date: 2026-05-21
 draft: false
+slug: ton-coeur-et-le-mien
 ---
