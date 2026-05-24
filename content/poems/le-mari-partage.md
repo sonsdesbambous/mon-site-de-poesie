@@ -16,11 +16,11 @@ texte_vi: |-
   Thân này ví biết đường này nhỉ
   Thà trước thôi đành ở vậy xong
 traductions:
-  - traducteur: Sonsdesbambous
+  - traducteur: ""
     texte_fr: |-
       Maudit soit notre destin de concubines,
       Si l’une a la ouate chaude, les autres le lit froid.
-      L'homme ne passe que par pur hasard,
+      L’homme ne passe que par pur hasard,
       À peine deux nuits par mois, presque rien.
       On encaisse les coups pour un riz qui s’avère rance,
       Comme un labeur de servante, mais sans la recompense.
