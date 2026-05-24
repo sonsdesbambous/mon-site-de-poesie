@@ -27,7 +27,7 @@ traductions:
       Le mien est similaire à un radeau de bois
       Qui flotte vers un seul quai, sur un seul courant.
 
-      Mon cœur est comme à une mer aux vastes flots
+      Mon cœur est comme une mer aux vastes flots
       Qui recueille l’eau de mille fleuves et rivières ;
       Le tien est pareil à une feuille de taro,
       Autant l’eau y tombe, autant elle s’en déverse.
@@ -36,7 +36,7 @@ traductions:
       Qui s’oriente toujours vers l’astre solaire
       Le tien est telle une navette de tisserande
       Changeant moult fois de canettes sans s’érailler.
-    traducteur: Sonsdesbambous
+    traducteur: ""
 extrait: Le tien est pareil à une feuille de taro, | Autant l’eau y tombe,
   autant elle s’en déverse
 date: 2026-05-21
