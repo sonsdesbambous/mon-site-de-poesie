@@ -78,7 +78,7 @@ traductions:
       rire et bavarder de tout et de rien sur ces murs.
 extrait: Les murs qui ne sont pas faits de nos mains, | Les murs que nous ne
   pouvons abattre
-featured: false
+featured: true
 date: 2026-05-22
 draft: false
 ---
