@@ -30,7 +30,7 @@ texte_vi: |-
   Tiếng đá lồng tiếng nứa 
   Cung bậc hồn cha ông 
   Bậc cao như đỉnh núi 
-  Bậc trầm hơn đáy song
+  Bậc trầm hơn đáy sông
 
   Đàn nói lòng Đam San 
   Đàn nói tình Xinh Nhã 
