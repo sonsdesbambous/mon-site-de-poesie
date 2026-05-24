@@ -19,8 +19,8 @@ traductions:
   - traducteur: Sonsdesbambous
     texte_fr: |-
       Maudit soit notre destin de concubines,
-      Si l’une a le duvet chaud, les autres le lit froid.
-      Monsieur ne passe que par pur hasard,
+      Si l’une a la ouate chaude, les autres le lit froid.
+      L'homme ne passe que par pur hasard,
       À peine deux nuits par mois, presque rien.
       On encaisse les coups pour un riz qui s’avère rance,
       Comme un labeur de servante, mais sans la recompense.
