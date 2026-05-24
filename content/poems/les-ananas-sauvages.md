@@ -35,24 +35,24 @@ traductions:
       Leur écorce est rugueuse, et leurs troncs ronds
       S’enlacent comme des anneaux de python,
       Et leurs feuilles s’élancent comme des lames de scie.
-      Je me demandai pourquoi on ne les avait pas abattus.
+      Je me demandais pourquoi on ne les avait pas abattus.
 
       Les myrtes violets peuvent évoquer la nostalgie,
       Les bananiers désaltèrent ceux qui de loin sont venus,
       Mais les ananas sauvages ne font que blesser la chair
       De ceux qui par mégarde les heurtent du pied.
-      Je me demandai pourquoi on ne les avait pas abattus.
+      Je me demandais pourquoi on ne les avait pas abattus.
 
-      Cette nuit, sur l’île une tempête s’est levée.
+      La nuit dernière, sur l’île une tempête s’est levée.
       Les vagues se sont cabrées, cherchant à tout noyer.
-      Le vent furieux jetait les arbres à terre, 
-      Battait les myrtes, déchirait les bananiers. 
-      Seuls restaient debout, les ananas sauvages,
+      Le vent furieux a jeté les arbres à terre, 
+      A battu les myrtes, déchiré les bananiers. 
+      Seuls sont restés debout, les ananas sauvages,
       Défiant l’ouragan et les flots en rage,
-      Qui protégeaient les maisons à travers la nuit.
+      Qui ont protégé les maisons à travers la nuit.
       J’ai compris pourquoi on ne les avait pas abattus.
-extrait: Seuls restaient debout, les ananas sauvages, | Défiant l’ouragan et les
-  flots en rage,
+extrait: Seuls sont restés debout, les ananas sauvages, | Défiant l’ouragan et
+  les flots en rage,
 featured: false
 date: 2026-05-22
 draft: false
