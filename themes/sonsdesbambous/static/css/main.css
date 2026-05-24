@@ -192,6 +192,6 @@ audio { width: 100%; accent-color: var(--accent); }
   .filters-tags-wrap { flex: 1; min-width: 0; overflow: hidden; }
   .filters-tags { flex: 1; min-width: 0; }
   .filter-label { display: none; }
-  .filter-btn { padding: 0.25rem 0.6rem; font-size: 0.65rem; }
+  .filter-btn { padding: 0.35rem 0.4rem; }
   .search-input { width: 80px; }
 }
