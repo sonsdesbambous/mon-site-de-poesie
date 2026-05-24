@@ -2,11 +2,11 @@
 title: Hồ Xuân Hương
 dates: 1772-1822
 bio_courte: Poétesse vietnamienne, surnommée « reine de la poésie Nôm », célèbre
-  pour ses vers à double sens et sa liberté d'esprit face à la société
+  pour ses vers à double sens et sa liberté d’esprit face à la société
   confucéenne.
 bio: >-
-  Hồ Xuân Hương naquit vers 1772, fille d'un lettré, et grandit à Hanoï près du
-  lac de l'Ouest. Deux fois concubine — statut qu'elle vécut comme une
+  Hồ Xuân Hương naquit vers 1772, fille d’un lettré, et grandit à Hanoï près du
+  lac de l’Ouest. Deux fois concubine — statut qu’elle vécut comme une
   humiliation —, elle finit sa vie seule et financièrement indépendante,
   recevant poètes et lettrés dans sa maison. Elle écrivit ses poèmes en chữ nôm,
   la langue du peuple, non en chinois classique — un choix à la fois littéraire
