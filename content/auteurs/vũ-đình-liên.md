@@ -12,5 +12,5 @@ bio: >-
   œuvre poétique soit concise, son poème Ông Đồ (1936) a suffi à l'inscrire
   parmi les plus grands noms de la littérature vietnamienne moderne.
 
-  Pour lui, la poésie n'était pas seulement des mots, elle dictait sa façon de vivre : humble, généreuse et profondément tournée vers les plus démunis. Esprit curieux và amoureux des lettres occidentales, il fut également un passeur culturel remarquable. Sa passion infinie pour l'œuvre de Charles Baudelaire, qu'il a grandement traduite, lui a valu d'être surnommé affectueusement par ses pairs "le Baudelaire vietnamien".
+  Pour lui, la poésie n'était pas seulement des mots, elle dictait sa façon de vivre : humble, généreuse et profondément tournée vers les plus démunis. Esprit curieux et amoureux des lettres occidentales, il fut également un passeur culturel remarquable. Sa passion infinie pour l'œuvre de Charles Baudelaire, qu'il a grandement traduite, lui a valu d'être surnommé affectueusement par ses pairs "le Baudelaire vietnamien".
 ---
