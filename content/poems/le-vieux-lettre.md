@@ -31,14 +31,14 @@ texte_vi: |-
   Những người muôn năm cũ
   Hồn ở đâu bây giờ?
 traductions:
-  - traducteur: Sonsdesbambous
+  - traducteur: ""
     texte_fr: |-
       Chaque année, lors de la floraison des pêchers,
       Nous retrouvions avec plaisir le vieux lettré
       Étalant, sur ce trottoir souvent fréquenté,
       Son encre de Chine et ses papiers empourprés.
 
-      Les clients étaient nombreux à s’extasier :
+      Les clients étaient si nombreux à s’extasier :
       “Incroyable, quel talent vous avez, ô maître,
       Pour pouvoir esquisser de tels traits, dirait-on,
       La danse du phénix, l’envol du dragon !”
@@ -46,16 +46,16 @@ traductions:
       Au fil du temps, le lieu est devenu désert,
       Où sont-ils partis tous ces clients de naguère ?
       Les papiers s’attristent à perdre tout éclat,
-      L’encre se sèche elle-même dans l’écritoire.
+      L’encre se fige sombrement dans l’écritoire.
 
       Le vieux lettré s’assoit toujours sur ce trottoir,
-      Sans être percu par les passants familiers.
+      Sans être perçu par les passants du quartier.
       Les feuilles jaunes descendent sur ses papiers,
       Un crachin infime voltige dans l’air froid.
 
       Cette année, de nouveau les pêchers fleurissent,
       Nous ne retrouvons plus le vieux lettré d’antan.
-      Ô vous autres, protagonistes de jadis,
+      Ô vous autres, tous ces visages de jadis,
       Où errent-elles vos âmes en ce moment ?
 extrait: ""
 date: 2026-02-06
