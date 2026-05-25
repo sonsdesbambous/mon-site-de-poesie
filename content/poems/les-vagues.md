@@ -58,12 +58,12 @@ traductions:
   - texte_fr: |-
       Tantôt violentes, tantôt tendres,
       Parfois calmes, parfois agitées,
-      Perplexes sur elles-mêmes, à la mer
+      Perplexes sur elles-mêmes, vers la mer
       Les vagues cherchent à se rendre.
 
       Ô vagues d’hier, vagues de demain,
       Mais qui ne se distingueront point :
-      L’aspiration à l’amour bouillonnant
+      L’aspiration à l’amour frémissant
       Dans les poitrines des jeunes gens !
 
       Devant l’immensité des vagues,
@@ -93,7 +93,7 @@ traductions:
       Elles vont toutes atteindre le rivage
       Malgré l’infinité des obstacles. 
 
-      La vie s’avère certes longue,
+      La vie s’avère bien longue,
       Pourtant les mois, les années passent.
       De même, l’océan est bien vaste,
       Les nuages volent toujours à l’horizon.
