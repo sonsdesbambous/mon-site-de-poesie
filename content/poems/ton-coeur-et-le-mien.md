@@ -33,7 +33,7 @@ traductions:
       Autant l’eau y tombe, autant elle s’en déverse.
 
       Mon cœur ressemble à une fleur d’hélianthe
-      Qui s’oriente toujours vers l’astre solaire
+      Qui s’oriente toujours vers l’astre solaire ;
       Le tien est comme une navette de tisserande
       Changeant moult fois de canettes sans s’érailler.
     traducteur: ""
