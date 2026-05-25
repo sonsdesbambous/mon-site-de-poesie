@@ -33,7 +33,7 @@ texte_vi: |-
   Hôn em bằng đôi môi 
   Của một người nô lệ.
 traductions:
-  - traducteur: Sons des Bambous
+  - traducteur: ""
     texte_fr: |-
       Le Ciel t’a créée, ma chérie,
       Pour être belle et gracieuse ;
@@ -41,11 +41,11 @@ traductions:
       Pour que je t’aime avec ferveur.
 
       Les autres qui sont amoureux
-      Se font des baisers langoureux ;
+      S’échangent des baisers fougueux ;
       Or moi, je t’aime avec passion,
       Et me dois de partir au front.
 
-      Qui ne voudrait pas tous les jours
+      Qui ne voudrait pas, en amour,
       Rester ensemble à s’enlacer ; 
       Mais je ne veux pas, à mon tour,
       Dans l’amertume t’embrasser.
