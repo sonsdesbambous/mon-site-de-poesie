@@ -93,13 +93,13 @@ traductions:
       Elles vont toutes atteindre le rivage
       Malgré l’infinité des obstacles. 
 
-      La vie s’avère bien longue,
-      Pourtant les mois, les années passent.
-      De même, l’océan est bien vaste,
-      Les nuages volent toujours à l’horizon.
+      Même si la vie paraît longue,
+      Les mois, et puis les années passent.
+      Quoique l’océan soit bien vaste,
+      Les nuages dérivent à l’horizon.
 
       Puissé-je me briser un jour
-      En une centaine de petites vagues
+      En centaines de petites vagues
       Au milieu de l’océan d’amour
       Pour clapoter à jamais sur le rivage.
 extrait: Puissé-je me briser un jour | En une centaine de petites vagues
