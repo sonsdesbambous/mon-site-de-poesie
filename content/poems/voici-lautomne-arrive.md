@@ -43,10 +43,10 @@ traductions:
       Du froid se glisse déjà dans le vent humide…
       Ces barques ont de moins en moins de passagers…
 
-      Les nuages naviguent, les oiseaux s’éloignent,
+      Les nuages dérivent, les oiseaux s’éloignent,
       L’atmosphère s’alourdit au moment d’adieu.
-      Quelques jeunes filles s’appuient à la porte, en silence,
-      Plongeant le regard au loin, l’air triste et songeur.
+      Quelques jeunes filles, adossées à la porte,
+      Plongent le regard au loin, l’air triste et songeur.
 extrait: Les saules pleureurs se penchent tristement en deuil, | De leurs
   cheveux ruissellent des milliers de larmes. | Voici l’automne arrivé - le
   voilà au seuil
