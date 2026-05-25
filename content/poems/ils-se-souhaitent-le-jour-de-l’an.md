@@ -41,17 +41,17 @@ traductions:
       Écoutons-les se souhaiter plein de richesse :
       Gagner des milliers d’argent sans savoir où mettre.
       Leurs volailles se nourriront de ces lingots
-      Qui en tomberont, certes, pas mal sur nos têtes.
+      Qui en tomberont, elles-mêmes, sur nos têtes.
 
       Écoutons-les se souhaiter beaucoup d’honneur :
       Obtenir, par argent, soit titres soit pouvoirs.
       On fera du commerce de dais dans ce cas
-      Qui se vendront à merveille quoique l’on fasse !
+      Qui se vendront seuls malgré toute houspillade !
 
       Écoutons-les se souhaiter des nouveaux-nés :
       Jusqu’à cinq, même sept, tout en bonne santé.
-      La ville sera surpeuplée et, avec ces enfants,
-      Ils partiront ensemble s’installer aux monts !
+      La ville sera surpeuplée, ils partiront
+      Ensemble avec ces petits s’installer aux monts !
 
       Par imitation, je formule un souhait :
       Je souhaite que tous les hommes sur la terre,
