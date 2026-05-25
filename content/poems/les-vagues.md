@@ -102,7 +102,7 @@ traductions:
       En centaines de petites vagues
       Au milieu de l’océan d’amour
       Pour clapoter à jamais sur le rivage.
-extrait: Puissé-je me briser un jour | En une centaine de petites vagues
+extrait: Puissé-je me briser un jour | En centaines de petites vagues
 featured: false
 date: 2026-05-23
 draft: false
