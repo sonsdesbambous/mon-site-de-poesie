@@ -38,12 +38,12 @@ traductions:
       On fera du commerce de petits mortiers,
       Ces vieux s’en serviront pour piler leur bétel !
 
-      Écoutons-les se souhaiter d’immenses richesses :
+      Écoutons-les se souhaiter tant de richesses :
       Gagner des tas d’argent sans savoir où les mettre.
       Leurs volailles se nourriront de ces lingots
       Qui en tomberont, elles-mêmes, sur nos têtes.
 
-      Écoutons-les se souhaiter de grands honneurs :
+      Écoutons-les se souhaiter beaucoup d’honneurs :
       Obtenir, par argent, soit titres soit pouvoirs.
       On fera du commerce de dais dans ce cas
       Qui se vendront seuls malgré toute houspillade !
