@@ -36,7 +36,7 @@ traductions:
   - traducteur: ""
     texte_fr: |-
       Le Ciel t’a créée, ma chérie,
-      Pour être belle et gracieuse ;
+      Pour être belle et radieuse ;
       Et le Ciel m’a donné la vie
       Pour que je t’aime avec ferveur.
 
