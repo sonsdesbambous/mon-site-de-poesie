@@ -56,10 +56,10 @@ traductions:
       Par imitation, je formule un souhait :
       Je souhaite que tous les hommes sur la terre,
       Roi, mandarins, lettrés, ignares de tout coin,
-      Parviennent à se comporter en être humain !
-extrait: >
-  Écoutons-les se souhaiter plein de richesse : | Gagner des milliers d’argent
-  sans savoir où mettre
+      Parviennent à se conduire en vrais êtres humains !
+extrait: Je souhaite que tous les hommes sur la terre, | Roi, mandarins,
+  lettrés, ignares de tout coin, | Parviennent à se conduire en vrais êtres
+  humains !
 featured: false
 date: 2026-05-02
 draft: false
