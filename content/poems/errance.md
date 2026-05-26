@@ -54,9 +54,9 @@ traductions:
 
       Mon âme s’attache à ce pur sentiment,
       Comme un oiseau tient à sa fleur rosée.
-      Je suis un amant des Muses... errant,
+      Je suis un amant des Muses... errant
       À ramasser parmi les cailloux des vers tombés.
-    traducteur: Sonsdesbambous
+    traducteur: ""
 extrait: Parfois, je me repose en plein vent et je bois | De mes mains en coupe
   des gorgées de ciel
 featured: false
