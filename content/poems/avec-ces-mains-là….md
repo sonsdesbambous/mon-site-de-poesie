@@ -39,7 +39,7 @@ traductions:
       La fleur s’incline gracieusement sur l’herbe
       Qui, à son tour, se courbe sur la mousse verte.
 
-      Des mots mystérieux décollent vers la lune,
+      Des mots mystérieux s’élèvent vers la lune,
       Des pensées immenses retombent sur la terre,
       Des murmures d’amour s’échangent dans les airs,
       La fleur s’adresse au vent et le vent à la fleur.
