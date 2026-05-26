@@ -59,7 +59,7 @@ traductions:
       se cache au coin de nos yeux, sur nos lèvres,
       dans ton allure penchée comme pour tracer sur la terre
       des écrits sur la courte vie humaine.
-extrait: dans ton allure penchée | comme pour tracer sur la terre | des écrits
+extrait: Dans ton allure penchée comme pour tracer | sur la terre | des écrits
   sur la courte vie humaine.
 featured: false
 date: 2026-05-21
