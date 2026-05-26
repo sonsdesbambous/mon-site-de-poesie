@@ -32,7 +32,7 @@ texte_vi: |-
   trong dáng em đi nghiêng nghiêng như đang viết lên mặt đất thành lời
   về kiếp người ngắn ngủi.
 traductions:
-  - traducteur: Sonsdesbambous
+  - traducteur: ""
     texte_fr: |-
       Je ne vois pas le temps passer,
       seulement des écharpes de nuages couler,
@@ -59,7 +59,8 @@ traductions:
       se cache au coin de nos yeux, sur nos lèvres,
       dans ton allure penchée comme pour tracer sur la terre
       des écrits sur la courte vie humaine.
-extrait: Je ne vois pas le temps passer, | seulement des écharpes de nuages couler,
+extrait: dans ton allure penchée | comme pour tracer sur la terre | des écrits
+  sur la courte vie humaine.
 featured: false
 date: 2026-05-21
 draft: false
