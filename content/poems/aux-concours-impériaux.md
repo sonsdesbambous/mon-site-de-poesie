@@ -16,15 +16,15 @@ texte_vi: |-
   Ú ớ u ơ ngọn bút chì!
 traductions:
   - texte_fr: |-
-      À voir les autres partir, tente et natte sur le dos,
+      À voir les autres partir, avec tente et natte au dos,
       Je leur emboîte le pas aux concours impériaux.
       Faisant la conduite, la dame a perdu deux piastres ;
       Se tâtant le ventre, le maître n’y trouve mot, hélas !
-      Comme faveur du pays, j’espère quelque rang en plus ;
+      Généreux le pays, j’espère quelque rang en plus ;
       Heureuse la famille, me voilà quitte des examens.
       Trois concours accomplis, et puis un autre inventé :
-      Ba...foui...llant... tout au bout d’un crayon peu familier !
-extrait: À voir les autres partir, tente et natte sur le dos, | Je leur emboîte
+      Ba...foui...llant... au bout d’un crayon peu familier !
+extrait: À voir les autres partir, avec tente et natte au dos, | Je leur emboîte
   le pas aux concours impériaux
 featured: false
 date: 2026-05-31
