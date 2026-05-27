@@ -34,9 +34,9 @@ traductions:
 
       De son corps mince et élancé
       Cette chandelle-là éclaire ;
-      Voulant offrir quelque lumière,
+      Par désir d’offrir quelque lumière,
       Elle choisit de se brûler.
-extrait: Voulant offrir quelque lumière, | Elle choisit de se brûler.
+extrait: Par désir d’offrir quelque lumière, | Elle choisit de se brûler.
 featured: false
 date: 2026-05-26
 draft: false
