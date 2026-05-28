@@ -6,7 +6,8 @@ annee: "2005"
 genre: Poème contemporaine
 tags:
   - philosophie
-  - nature
+  - méditation
+  - lyrisme
 texte_vi: |-
   Ban mai thuộc về tôi
   Con chim sẻ xù lông trên gờ tường rêu ướt
