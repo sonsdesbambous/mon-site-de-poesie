@@ -37,7 +37,7 @@ traductions:
       Cette chandelle-là éclaire ;
       Par désir d’offrir quelque lumière,
       Elle se doit de se brûler.
-extrait: Par désir d’offrir quelque lumière, | Elle choisit de se brûler.
+extrait: Par désir d’offrir quelque lumière, | Elle se doit de se brûler.
 featured: false
 date: 2026-05-26
 draft: false
