@@ -36,7 +36,7 @@ traductions:
       De son corps mince et élancé
       Cette chandelle-là éclaire ;
       Par désir d’offrir quelque lumière,
-      Elle choisit de se brûler.
+      Elle se doit de se brûler.
 extrait: Par désir d’offrir quelque lumière, | Elle choisit de se brûler.
 featured: false
 date: 2026-05-26
