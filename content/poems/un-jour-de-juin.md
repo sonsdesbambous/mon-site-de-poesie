@@ -42,7 +42,7 @@ traductions:
       Quitte à accueillir cette part d’élancement
       et de vacillation.
       Le doux murmure de ce ruisseau-là
-      N’est plus qu’une illusion ;
+      Ne demeure qu’une illusion ;
       Dans la paix, sans savoir vivre en paix.
 
       Mon cœur, cheval sauvage d’entêtement
