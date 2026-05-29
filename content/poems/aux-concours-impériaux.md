@@ -27,6 +27,6 @@ traductions:
 extrait: À voir les autres partir, avec tente et natte au dos, | Je leur emboîte
   le pas aux concours impériaux
 featured: false
-date: 2026-05-31
-draft: true
+date: 2026-05-29
+draft: false
 ---
