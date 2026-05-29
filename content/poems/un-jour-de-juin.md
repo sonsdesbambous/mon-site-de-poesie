@@ -39,8 +39,8 @@ traductions:
 
       Vers où foncer par ces chemins désespérés ?
       Quitte à se jeter dans l’ouragan,
-      Quitte à accueillir en soi la morsure
-      chancelante.
+      Quitte à accueillir cette part d’élancement
+      et de vacillation.
       Le doux murmure de ce ruisseau-là
       N’est plus qu’une illusion ;
       Dans la paix, sans savoir vivre en paix.
