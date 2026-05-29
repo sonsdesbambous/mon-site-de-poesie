@@ -52,8 +52,9 @@ traductions:
       Moi, faible cocher, privé de sommeil,
       Recroquevillé de tristesse,
       Lâche les rênes.
-extrait: Vers où foncer par ces chemins désespérés ? | Quitte à se jeter dans l’ouragan
+extrait: Mon cœur est un cheval indomptable, | Galopant à grandes foulées sur
+  les prairies
 featured: false
-date: 2026-06-02
-draft: true
+date: 2026-05-29
+draft: false
 ---
