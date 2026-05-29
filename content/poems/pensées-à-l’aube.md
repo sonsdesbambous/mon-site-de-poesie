@@ -36,7 +36,7 @@ traductions:
       Je comprends ce que j’aspirais dans la nuit.
       L’herbe verdit de tout son être,
       D’une ardeur sans réserve reste le chrysanthème sauvage.
-      L’entrelacement des fils de cuscute
+      L’enchevêtrement des fils de cuscute
       Ne cesse de m’absorber.
 
       Je veux l’enfance en chaque regard,
