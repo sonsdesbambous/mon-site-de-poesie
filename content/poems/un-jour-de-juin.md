@@ -55,6 +55,6 @@ traductions:
 extrait: Mon cœur est un cheval indomptable, | Galopant à grandes foulées sur
   les prairies
 featured: false
-date: 2026-05-29
+date: 2026-05-30
 draft: false
 ---
