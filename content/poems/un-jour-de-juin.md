@@ -39,14 +39,14 @@ traductions:
 
       Vers où foncer par ces chemins désespérés ?
       Quitte à se jeter dans l’ouragan,
-      Quitte à accueillir cette part d’élancement
-      et de vacillation.
+      Quitte à accueillir cette part de lancinement,
+      et de vacillement.
       Le doux murmure de ce ruisseau-là
       Ne demeure qu’une illusion ;
       Dans la paix, sans savoir vivre en paix.
 
-      Mon cœur, cheval sauvage d’entêtement
-      et de mélancolie,
+      Mon cœur, cheval sauvage d’entêtement,
+      et de tourment,
       Erre encore parmi les décombres de la mémoire. 
       Soleil… pluie… vagues réminiscences...
       Moi, faible cocher, privé de sommeil,
