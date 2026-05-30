@@ -44,7 +44,7 @@ traductions:
       J’aimerais que vous ne pensiez à nul être,
       Que vous n’embrassiez pas même une rose fraîche,
       Que nul traversin ne soit la nuit dans vos bras,
-      Quand la plage est bondée que vous n’y veniez pas.
+      Que, quand la plage est bondée, vous n’y veniez pas.
 
       J’aimerais que les effluves de ce parfum,
       Dont vous vous servez, ne s’envolent jamais loin ;
