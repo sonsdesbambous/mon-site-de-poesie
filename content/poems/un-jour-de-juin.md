@@ -40,13 +40,13 @@ traductions:
       Vers où foncer par ces chemins désespérés ?
       Quitte à se jeter dans l’ouragan,
       Quitte à accueillir cette part de lancinement,
-      de vacillement.
+      et de vacillement.
       Le doux murmure de ce ruisseau-là
       ne demeure qu’une illusion ;
       Dans la paix, sans savoir vivre en paix.
 
       Mon cœur, cheval sauvage d’entêtement,
-      de tourment,
+      et de tourment,
       Erre encore parmi les décombres de la mémoire. 
       Soleil… pluie… vagues réminiscences...
       Moi, faible cocher, privé de sommeil,
