@@ -3,7 +3,7 @@ title_vi: Ý nghĩ ban mai
 title: Pensées à l’aube
 auteur: Đinh Thị Như Thúy
 annee: "2005"
-genre: Poème contemporaine
+genre: Poème contemporain
 tags:
   - philosophie
   - méditation
