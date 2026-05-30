@@ -60,6 +60,6 @@ traductions:
 extrait: Le vieux banian incline vers l’eau ses branchettes, | Le pont The Huc
   s’incurve en un sourcil pourpré
 featured: false
-date: 2026-05-18
+date: 2026-05-20
 draft: false
 ---
