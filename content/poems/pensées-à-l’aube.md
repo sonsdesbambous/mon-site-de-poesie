@@ -45,6 +45,6 @@ traductions:
       Les doigts du brouillard glacé me mordent.
 extrait: Je veux l’enfance en chaque regard, | Je veux l’enfance en chaque émoi.
 featured: false
-date: 2026-05-28
+date: 2026-05-26
 draft: false
 ---
