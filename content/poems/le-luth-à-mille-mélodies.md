@@ -83,6 +83,6 @@ traductions:
       Je désire être un artiste magique dont les œuvres 
       Se créent sur des sons et des couleurs d’ici-bas.
 featured: false
-date: 2026-05-15
+date: 2026-05-20
 draft: false
 ---
