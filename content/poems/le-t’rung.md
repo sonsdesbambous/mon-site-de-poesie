@@ -69,6 +69,6 @@ traductions:
       Comme le feu de la pierre triomphe du temps. 
 extrait: Comme un hamac, le T’rung relie, | Pluie et soleil, les deux bouts d’une vie
 featured: false
-date: 2026-05-12
+date: 2026-05-20
 draft: false
 ---
