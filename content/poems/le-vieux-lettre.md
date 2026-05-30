@@ -58,6 +58,6 @@ traductions:
       Ô vous autres, tous ces visages de jadis,
       Où errent-elles vos âmes en ce moment ?
 extrait: ""
-date: 2026-02-06
+date: 2026-05-20
 draft: false
 ---
