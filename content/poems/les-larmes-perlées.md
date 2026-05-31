@@ -30,16 +30,16 @@ traductions:
       Et mon cœur se durcira comme la résine ?
 
       Elle est partie sans qu’on puisse l’empêcher,
-      Restent inassouvis mon amour, ma tendresse
+      Restent inassouvis mon amour, ma tendresse...
       Elle s’en va, une moitié de moi se perd,
-      Et l’autre moitié devient soudain insensée.
+      Et l’autre moitié devient soudain hébétée.
 
       Suis-je encore ici, ou suis-je ailleurs ?
       Qui sous ces cieux profonds m’a ainsi jeté ?
       Pourquoi le flamboyant fleurit-il couleur de sang,
-      Gouttant dans mon cœur des larmes perlées ?
+      Instillant dans mon cœur des larmes perlées ?
 extrait: Elle s’en va, une moitié de moi se perd, | Et l’autre moitié devient
-  soudain insensée.
+  soudain hébétée.
 featured: false
 date: 2026-05-31
 draft: false
