@@ -29,8 +29,8 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Voici que l’instant sacré a commencé : 
-      Le ciel rêve dans un réel étrangement onirique ! 
-      La lune et les étoiles, éperdues dans la brume légère,
+      Le ciel rêve dans un réel vaguement onirique ! 
+      Lune et étoiles, éperdues dans la brume légère,
       Semblent accueillir de loin un souffle poétique. 
 
       Que chacun fasse silence, sans un mot de trop, 
@@ -43,9 +43,9 @@ traductions:
       Comment distinguer le réel de l’irréel ? 
       La Voie Lactée surgit de la nuit lointaine. 
 
-      Tout le ciel grisé se teinte de lueurs lunaires, 
-      Et tout mon cœur se tait dans ce grand mystère. 
-      Aucun son ne vient troubler cet instant, 
+      Tout le ciel s’enivre à se teinter de lueurs lunaires, 
+      Et tout mon cœur se tait dans ce profond mystère. 
+      Aucun son ne vient effleurer cet instant, 
       Ne serait-ce que le frisson d’une étoile filante...
 extrait: Comment distinguer le réel de l’irréel ? | La Voie Lactée surgit de la
   nuit lointaine
