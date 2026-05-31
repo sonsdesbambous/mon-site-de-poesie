@@ -3,6 +3,10 @@ title_vi: Những giọt lệ
 title: Les larmes perlées
 auteur: Hàn Mặc Tử
 annee: "1937"
+tags:
+  - amour
+  - lyrisme
+  - Crise existentielle
 texte_vi: |-
   Trời hỡi, bao giờ tôi chết đi?
   Bao giờ tôi hết được yêu vì,
