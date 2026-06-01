@@ -34,7 +34,7 @@ traductions:
       Révélant son corps d’or au fond du ruisseau…
 
       Par mégarde, je laisse le vent baiser ma joue,
-      Mais, au cœur de la nuit, quelle timidité !
+      Mais... au cœur de la nuit... quelle timidité !
       Je crains qu’un jour ne le sache mon époux
       Et qu’il ne vienne à douter de ma pureté…
 extrait: Oh, vois ! La lune se baigne là toute nue, | Révélant son corps d’or au
