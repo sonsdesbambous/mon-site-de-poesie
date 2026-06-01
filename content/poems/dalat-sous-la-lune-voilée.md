@@ -43,7 +43,7 @@ traductions:
       Comment distinguer le réel de l’irréel ? 
       La Voie Lactée surgit de la nuit lointaine. 
 
-      Tout le ciel s’enivre à se teinter de lueurs lunaires, 
+      Tout le ciel s’enivre d’une couleur lunaire, 
       Et tout mon cœur se tait dans ce profond mystère. 
       Aucun son ne vient effleurer cet instant, 
       Ne serait-ce que le frisson d’une étoile filante...
