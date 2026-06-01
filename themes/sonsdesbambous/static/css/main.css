@@ -146,7 +146,7 @@ audio { width: 100%; accent-color: var(--accent); }
 .footer-links { display: flex; gap: 1.8rem; list-style: none; }
 .footer-links a { font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-faint); text-decoration: none; transition: color 0.2s; }
 .footer-links a:hover { color: var(--accent); }
-.footer-admin { color: var(--paper); }
+.footer-admin { color: var(--paper); opacity: 0; transition: opacity 0.2s ease; }
 .footer-admin:hover { color: var(--ink-faint); }
  
 /* ── PAGE HERO (auteur, à propos, contact) ── */
