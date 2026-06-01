@@ -26,7 +26,7 @@ traductions:
       La lune s’étale, tout alanguie, sur le saule,
       Attendant le vent d’est pour se faire caresser...
       La flore, saisie d’émoi, ne bouge plus ;
-      Comme mon cœur palpite, ô astre de la nuit !
+      Combien mon cœur palpite, ô astre de la nuit !
 
       Des bruissements persistent dans les roseaux :
       Est-ce la voix d’un cœur ? Pourquoi s’est-elle tue ?
