@@ -27,7 +27,7 @@ traductions:
       Ô Ciel, quand est-ce que je mourrai ?
       Quand est-ce que je serai délivré d’aimer ?
       Quand le soleil en sang se fondra-t-il,
-      Et mon cœur se durcira comme la résine ?
+      Et mon cœur se durcira-t-il comme la résine ?
 
       Elle est partie sans qu’on puisse l’empêcher,
       Restent inassouvis mon amour, ma tendresse...
