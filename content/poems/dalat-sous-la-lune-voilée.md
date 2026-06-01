@@ -28,7 +28,7 @@ texte_vi: |-
   Dẫu là tiếng vỡ của sao băng...
 traductions:
   - texte_fr: |-
-      Voici que l’instant sacré a commencé : 
+      Voici venu finalement l’instant sacré : 
       Le ciel rêve dans un réel vaguement onirique ! 
       Lune et étoiles, éperdues dans la brume légère,
       Semblent accueillir de loin un souffle poétique. 
