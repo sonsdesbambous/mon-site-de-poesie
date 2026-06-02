@@ -3,6 +3,9 @@ title_vi: Tiếng thu
 title: Les sons de l’automne
 auteur: Lưu Trọng Lư
 annee: "1939"
+tags:
+  - nature
+  - mélancolie
 texte_vi: |-
   Em không nghe mùa thu
   dưới trăng mờ thổn thức?
