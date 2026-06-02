@@ -52,6 +52,6 @@ traductions:
 extrait: Comment distinguer le réel de l’irréel ? | La Voie Lactée surgit de la
   nuit lointaine
 featured: false
-date: 2026-05-31
+date: 2026-05-25
 draft: false
 ---
