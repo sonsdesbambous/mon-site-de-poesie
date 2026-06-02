@@ -5,7 +5,9 @@ auteur: Hồ Xuân Hương
 annee: ""
 genre: Poème classique
 tags:
-  - POLYGAMIE
+  - réalisme
+  - souffrance
+  - conditionféminine
 texte_vi: |-
   Chém cha cái kiếp lấy chồng chung
   Kẻ đắp chăn bông kẻ lạnh lùng 
