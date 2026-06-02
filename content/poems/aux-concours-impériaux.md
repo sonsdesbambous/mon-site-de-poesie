@@ -5,6 +5,7 @@ auteur: Tú Xương
 genre: Poème classique
 tags:
   - satire
+  - ironie
 texte_vi: |-
   Tấp tểnh người đi tớ cũng đi,
   Cũng lều cũng chõng cũng đi thi.
