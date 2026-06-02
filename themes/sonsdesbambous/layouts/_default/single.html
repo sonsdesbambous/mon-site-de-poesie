@@ -92,19 +92,19 @@
           {{ end }}
         </div>
         <p class="translator-credit">Traduit par {{ if $t.traducteur }}{{ $t.traducteur }}{{ else }}Sons des Bambous{{ end }}</p>
+        
+        {{ if $t.note_traducteur }}
+        <div class="note-traducteur">
+          <p class="section-heading">Note du traducteur</p>
+          <p>{{ $t.note_traducteur | markdownify }}</p>
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
-    </div>
- 
+    {{ end }}
   </div>
- 
-  {{ if .Params.note_traducteur }}
-  <div class="note-traducteur">
-    <p class="section-heading">Note du traducteur</p>
-    <p>{{ .Params.note_traducteur }}</p>
-  </div>
-  {{ end }}
- 
+
+</div>
+  
   {{ if or .Params.audio .Params.video_id }}
   <div class="media-section">
     <p class="section-heading">Écouter &amp; Regarder</p>
