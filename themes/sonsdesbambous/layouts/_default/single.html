@@ -92,7 +92,7 @@
           {{ end }}
         </div>
         <p class="translator-credit">Traduit par {{ if $t.traducteur }}{{ $t.traducteur }}{{ else }}Sons des Bambous{{ end }}</p>
-        
+         
         {{ if $t.note_traducteur }}
         <div class="note-traducteur">
           <p class="section-heading">Note du traducteur</p>
@@ -100,11 +100,11 @@
         </div>
         {{ end }}
       </div>
-    {{ end }}
+      {{ end }}
+    </div>
+ 
   </div>
-
-</div>
-  
+ 
   {{ if or .Params.audio .Params.video_id }}
   <div class="media-section">
     <p class="section-heading">Écouter &amp; Regarder</p>
