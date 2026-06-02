@@ -69,6 +69,11 @@ collections:
             name: "texte_fr"
             widget: "text"
             hint: "Laissez une ligne vide entre chaque strophe."
+          - label: "Note du traducteur"
+            name: "note_traducteur"
+            widget: "text"
+            required: false
+            hint: "Explications sur les allusions culturelles, références historiques, etc."
       - label: "Fichier audio (ngâm thơ)"
         name: "audio"
         widget: "file"
