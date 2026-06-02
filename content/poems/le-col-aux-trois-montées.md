@@ -4,6 +4,8 @@ title: Le col aux trois montées
 auteur: Hồ Xuân Hương
 genre: Poème classique
 tags:
+  - nature
+  - allégorie
   - érotisme voilé
 texte_vi: |-
   Một đèo một đèo lại một đèo,
