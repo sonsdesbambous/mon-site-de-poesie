@@ -5,9 +5,9 @@ auteur: Lưu Trọng Lư
 annee: "1939"
 tags:
   - nature
+  - lyrisme
   - mélancolie
   - symbolisme
-  - lyrisme
 texte_vi: |-
   Em không nghe mùa thu
   dưới trăng mờ thổn thức?
