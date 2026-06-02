@@ -6,6 +6,8 @@ annee: "1939"
 tags:
   - nature
   - mélancolie
+  - symbolisme
+  - lyrisme
 texte_vi: |-
   Em không nghe mùa thu
   dưới trăng mờ thổn thức?
