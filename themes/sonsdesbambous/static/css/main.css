@@ -119,7 +119,7 @@ body { background: var(--paper); color: var(--ink); font-family: var(--ff-body);
 .translation-panel { display: none; }
 .translation-panel.active { display: block; }
 .translator-credit { margin-top: 2.2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--ff-ui); font-size: 0.72rem; font-weight: 400; color: var(--ink-soft); font-style: italic; }
-.note-traducteur { margin-top: 3; padding-top: 1.2rem; border-top: 1px solid var(--rule); font-family: var(--ff-body); font-size: 0.9rem; color: var(--ink-soft); line-height: 1.4; }
+.note-traducteur { margin-top: 3; padding-top: 2rem; border-top: 1px solid var(--rule); font-family: var(--ff-body); font-size: 0.9rem; color: var(--ink-soft); line-height: 1.4; }
 .note-traducteur .section-heading { margin-bottom: 1.5rem; }
 
 /* ── MEDIA ── */
