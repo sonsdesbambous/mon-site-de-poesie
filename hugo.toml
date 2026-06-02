@@ -1,5 +1,6 @@
 baseURL = 'https://sonsdesbambous.com'
 languageCode = 'fr'
+defaultContentLanguage = 'fr'
 title = 'Sons des Bambous'
 theme = 'sonsdesbambous'
 removePathAccents = true
