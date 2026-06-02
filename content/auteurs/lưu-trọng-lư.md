@@ -2,8 +2,8 @@
 title: Lưu Trọng Lư
 dates: 1911-1991
 bio_courte: Poète profondément lyrique, une des figures importantes du mouvement
-  poétique Nouvelle Poésie au Vietnam, il se distingue par une écriture
-  empreinte de rêverie, de mélancolie douce et de sensibilité intérieure.
+  de la Nouvelle Poésie au Vietnam, il se distingue par une écriture empreinte
+  de rêverie, de mélancolie douce et de sensibilité intérieure.
 bio: Lưu Trọng Lư occupe une place importante dans l’émergence de la poésie
   moderne vietnamienne au début du XXe siècle. Son œuvre se distingue par une
   forte sensibilité lyrique, privilégiant l’expression du monde intérieur, des
