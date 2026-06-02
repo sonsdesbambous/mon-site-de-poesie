@@ -54,7 +54,7 @@
   <span class="stat-label">Dernière traduction</span>
   {{ range first 1 (sort (where .Site.RegularPages "Section" "poems") "Date" "desc") }}
     <span class="stat-label" style="color: var(--ink-soft);">
-      {{ .Date.LanguageTimeFormat "January 2006" }}
+      {{ time.Format "January 2026" .Date }}
     </span>
   {{ end }}
 </li>
