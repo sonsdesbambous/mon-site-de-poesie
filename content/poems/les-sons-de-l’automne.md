@@ -20,17 +20,17 @@ texte_vi: |-
   đạp trên lá vàng khô?
 traductions:
   - texte_fr: |-
-      N’entends-tu pas l’automne
-      Sous la lune voilée sangloter ?
+      N’entends-tu pas l’automne,
+      sous la lune voilée, sangloter ?
 
       N’entends-tu pas remuer
-      L’image d’un époux guerrier
-      Dans le cœur d’une femme esseulée ?
+      l’image d’un époux guerrier
+      dans le cœur d’une femme esseulée ?
 
       N’entends-tu pas la forêt
-      Où bruissent les feuilles d’automne
-      Et le cerf d’or, l’air déconcerté
-      Foulant les sèches feuilles jaunes ?
+      où bruissent les feuilles d’automne ;
+      et le cerf d’or, l’air déconcerté,
+      foulant les sèches feuilles jaunes ?
 featured: false
 date: 2026-06-02
 draft: false
