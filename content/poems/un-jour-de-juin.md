@@ -5,8 +5,8 @@ auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poésie existentielle
 tags:
-  - mélancolie
-  - impuissance
+  - allégorie
+  - crise intérieure
 texte_vi: |-
   Trái tim tôi là con ngựa bất kham
   Sải vó dài trên đồng cỏ
