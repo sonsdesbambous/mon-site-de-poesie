@@ -50,7 +50,14 @@
     {{ len ($activeAuthors | uniq) }}
   </span>
 </li>
-<li style="padding-top: 1.3rem;"><span class="stat-label">Dernière traduction</span><span class="stat-label" style="color: var(--ink-soft);">Mai 2026</span></li>
+<li style="padding-top: 1.3rem;">
+  <span class="stat-label">Dernière traduction</span>
+  {{ range first 1 (sort (where .Site.RegularPages "Section" "poems") "Date" "desc") }}
+    <span class="stat-label" style="color: var(--ink-soft);">
+      {{ .Date.Format "January 2006" }}
+    </span>
+  {{ end }}
+</li>
         </ul>
       </div>
 
