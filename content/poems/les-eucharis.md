@@ -25,45 +25,29 @@ texte_vi: |-
   Mỗi mùa hoa nở trong như tuyết.
   Anh lại tìm thăm hoa ngọc trâm.
 traductions:
-  - traducteur: Sonsdesbambous
-    texte_fr: >-
+  - traducteur: ""
+    texte_fr: |-
       Mon âme sœur, je t’offre ces fleurs d’eucharis,
-
       De purs bourgeons de jade aux éclats de lumière.
-
       Telle une épingle dans ta noire chevelure,
-
       Mon âme sœur, je t’offre ces fleurs d’eucharis.
 
-
       Leurs feuilles tendres, leurs pétales gracieux,
-
       Ondulent légèrement dans tes longs cheveux.
-
       Deux fleurs s’ouvrent jointes sur une seule tige,
-
       Ô cette nuit première où nous sommes unis.
 
-
       Les eucharis m’aident à confier mon amour
-
       Et, pour nous, restent fleuris cinq veilles durant.
-
       À la première, la lune éclaire doucement,
-
       Vers la cinquième, passionnée, elle se retourne...
 
-
       Depuis ce jour-là, j’aime ces fleurs d’eucharis,
-
       Leur absence me laisse le cœur en langueur.
-
       À chaque floraison, elles offrent leur blancheur,
-
       Et moi de revenir à ces fleurs d’eucharis.
-
-
-      Dans la tradition vietnamienne, la nuit se divise en cinq veilles, appelées « canh », chacune durant environ deux heures (NDT).
+    note_traducteur: Dans la tradition vietnamienne, la nuit se divise en cinq
+      veilles, appelées « canh », chacune durant environ deux heures.
 extrait: À la première, la lune éclaire doucement, | Vers la cinquième,
   passionnée, elle se retourne...
 featured: false
