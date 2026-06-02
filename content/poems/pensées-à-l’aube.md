@@ -5,7 +5,6 @@ auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poème contemporain
 tags:
-  - philosophie
   - méditation
   - lyrisme
   - nature
