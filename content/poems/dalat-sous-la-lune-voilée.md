@@ -5,7 +5,9 @@ auteur: Hàn Mặc Tử
 annee: "1937"
 tags:
   - nature
-  - lune
+  - rêverie
+  - symbolisme
+  - cosmique
 texte_vi: |-
   Đây phút thiêng liêng đã khởi đầu:
   Trời mơ trong cảnh thực huyền mơ!
