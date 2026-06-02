@@ -8,6 +8,7 @@ tags:
   - philosophie
   - méditation
   - lyrisme
+  - nature
 texte_vi: |-
   Ban mai thuộc về tôi
   Con chim sẻ xù lông trên gờ tường rêu ướt
