@@ -53,8 +53,11 @@
 <li style="padding-top: 1.3rem;">
   <span class="stat-label">Dernière traduction</span>
   {{ range first 1 (sort (where .Site.RegularPages "Section" "poems") "Date" "desc") }}
+    {{ $months := dict "January" "Janvier" "February" "Février" "March" "Mars" "April" "Avril" "May" "Mai" "June" "Juin" "July" "Juillet" "August" "Août" "September" "Septembre" "October" "Octobre" "November" "Novembre" "December" "Décembre" }}
+    {{ $month := .Date.Format "January" }}
+    {{ $year := .Date.Format "2006" }}
     <span class="stat-label" style="color: var(--ink-soft);">
-      {{ .Date.Format "January 2006" }}
+      {{ index $months $month }} {{ $year }}
     </span>
   {{ end }}
 </li>
