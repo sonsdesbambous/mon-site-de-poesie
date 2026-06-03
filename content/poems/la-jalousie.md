@@ -40,7 +40,7 @@ traductions:
   - texte_fr: |-
       Ô ma petite maîtresse, ma chère amante,
       J’aimerais que vos lèvres rosées ne sourient
-      Qu’en ma présence, et que vos yeux également
+      Qu’en ma présence, et que vos yeux si languissants
       Ne portent que sur moi quand je suis loin parti.
 
       J’aimerais que vous ne pensiez à nul être,
