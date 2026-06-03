@@ -7,7 +7,7 @@ genre: Poème classique
 tags:
   - réalisme
   - souffrance
-  - conditionféminine
+  - condition féminine
 texte_vi: |-
   Chém cha cái kiếp lấy chồng chung
   Kẻ đắp chăn bông kẻ lạnh lùng 
