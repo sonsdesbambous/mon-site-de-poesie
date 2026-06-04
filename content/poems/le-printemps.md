@@ -3,6 +3,9 @@ title_vi: Xuân
 title: Le printemps
 auteur: Chế Lan Viên
 annee: "1937"
+tags:
+  - symbolisme
+  - nostalgie
 texte_vi: |-
   Tôi có chờ đâu, có đợi đâu
   Đem chi xuân lại gợi thêm sầu?
@@ -38,7 +41,7 @@ traductions:
       Qu’il revienne ici barrer la route au printemps !
 
       Qui saurait que mon âme s’enivre d’illusion,
-      Que l’esprit d’automne repousse le printemps ?
+      Que l’esprit d’automne repousse l’élan printanier ?
 
       Il est un pauvre qui ne connaît pas le Têt,
       Tenant à porter son habit de l’automne passé.
