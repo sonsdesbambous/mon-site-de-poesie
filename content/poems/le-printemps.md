@@ -50,7 +50,9 @@ traductions:
       Éclatant soudain de rire sans le vouloir.
 
       Ô combien je languis, ô quelle nostalgie !
-      Un oiseau d’automne égaré aux confins des forêts.
+      Un oiseau d’automne égaré aux confins des forêts...
+extrait: Ô combien je languis, ô quelle nostalgie ! | Un oiseau d’automne égaré
+  aux confins des forêts
 featured: false
 date: 2026-06-04
 draft: false
