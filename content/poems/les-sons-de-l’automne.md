@@ -31,7 +31,7 @@ traductions:
 
       N’entends-tu pas la forêt
       où bruissent les feuilles d’automne ;
-      et le cerf d’or, l’air déconcerté,
+      et le cerf d’or, déconcerté,
       foulant les sèches feuilles jaunes ?
 extrait: N’entends-tu pas l’automne, | sous la lune voilée, sangloter
 featured: false
