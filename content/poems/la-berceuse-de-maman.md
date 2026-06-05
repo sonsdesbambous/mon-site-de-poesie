@@ -80,6 +80,6 @@ traductions:
 extrait: Les femmes sont comme les gouttes de pluie | Les unes tombent dans des
   pavillons somptueux | Et les autres dans des flaques boueuses
 featured: false
-date: 2026-06-30
+date: 2026-05-28
 draft: false
 ---
