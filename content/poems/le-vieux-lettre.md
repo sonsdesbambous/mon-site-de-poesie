@@ -34,7 +34,7 @@ traductions:
   - traducteur: ""
     texte_fr: |-
       Chaque année, lors de la floraison des pêchers,
-      Nous retrouvions avec plaisir le vieux lettré
+      Nous retrouvions comme toujours le vieux lettré
       Étalant, sur ce trottoir souvent fréquenté,
       Son encre de Chine et ses papiers empourprés.
 
