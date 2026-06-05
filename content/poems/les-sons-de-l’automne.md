@@ -33,7 +33,7 @@ traductions:
       où bruissent les feuilles d’automne ;
       et le cerf d’or, déconcerté,
       foulant les sèches feuilles jaunes ?
-extrait: N’entends-tu pas l’automne, | sous la lune voilée, sangloter
+extrait: N’entends-tu pas l’automne, | sous la lune voilée, sangloter ʔ
 featured: false
 date: 2026-06-02
 draft: false
