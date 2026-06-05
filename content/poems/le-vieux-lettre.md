@@ -5,6 +5,8 @@ auteur: Vũ Đình Liên
 annee: "1936"
 tags:
   - Mélancolie
+  - nostalgie
+  - tradition
 texte_vi: |-
   Mỗi năm hoa đào nở
   Lại thấy ông đồ già
