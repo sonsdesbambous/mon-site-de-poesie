@@ -42,6 +42,6 @@ traductions:
 extrait: Oh, vois ! La lune se baigne là toute nue, | Révélant son corps d’or au
   fond du ruisseau
 featured: false
-date: 2026-05-28
+date: 2026-06-05
 draft: false
 ---
