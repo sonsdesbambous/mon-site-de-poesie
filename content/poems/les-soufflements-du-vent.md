@@ -5,8 +5,8 @@ auteur: Xuân Diệu
 annee: "1938"
 tags:
   - allégorie
-  - souffrance
   - humanité
+  - souffrance
 texte_vi: |-
   Có nhiều lúc gió kêu thê thiết quá;
   Như gió đau một nỗi khổ vô hình,
