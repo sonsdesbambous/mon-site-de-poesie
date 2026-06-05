@@ -6,7 +6,7 @@ annee: "1937"
 tags:
   - amour
   - lyrisme
-  - Crise existentielle
+  - Crise intérieure
 texte_vi: |-
   Trời hỡi, bao giờ tôi chết đi?
   Bao giờ tôi hết được yêu vì,
