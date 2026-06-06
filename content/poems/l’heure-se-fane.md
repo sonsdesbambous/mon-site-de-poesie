@@ -56,8 +56,9 @@ traductions:
       La caresse embaumée d’un bouquet souriant.
       Puis le vent du temps souffle sans relâche :
       L’heure se fane comme ces pétales errants...
-    note_traducteur: Le matin se réveille sous une douce atmosphère, | La fenêtre
-      s’ouvre grand à la brise lacustre
+    note_traducteur: ""
+extrait: Le matin se réveille sous une douce atmosphère, | La fenêtre s’ouvre
+  grand à la brise lacustre
 featured: false
 date: 2026-06-05
 draft: false
