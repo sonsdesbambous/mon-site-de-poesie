@@ -51,7 +51,7 @@ traductions:
       mais dans mon cœur bouillonnent des vagues
       vers ces fleurs sauvages
       écloses en silence sur l’herbe mouillée
-      pareilles à des fragments de soleil
+      pareilles à des éclats de soleil
 
       s’enchaîner de plein gré à ce foyer
       à ces corvées sans nom
