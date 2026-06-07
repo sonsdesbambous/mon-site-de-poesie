@@ -43,7 +43,7 @@ traductions:
       Mais le soir pesant semble déjà près de s’abattre,
       Les fleurs légères voient leurs pétales tomber... tomber...
 
-      La fumée des foyers glisse vers les champs de riz,
+      La fumée des foyers flotte sur les champs de riz,
       Quelques astres s’allument dans le ciel azur.
       La Mort se glisse gracieusement dans l’ombre flétrie,
       Se mettant en chemin pour cueillir des âmes pures.
