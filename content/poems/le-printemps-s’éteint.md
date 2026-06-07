@@ -41,14 +41,14 @@ traductions:
       Le vent vespéral commence à peine à susurrer,
       La rosée se garde encore d’épancher ses larmes,
       Mais le soir pesant semble déjà près de s’abattre,
-      Et les fleurs légères voient leurs pétales tomber... tomber...
+      Les fleurs légères voient leurs pétales tomber... tomber...
 
       La fumée des foyers glisse vers les champs de riz,
       Quelques astres s’allument dans le ciel azur.
-      La Mort étire gracieusement son ombre flétrie,
+      La Mort se glisse gracieusement dans l’ombre flétrie,
       Se mettant en chemin pour cueillir des âmes pures.
-extrait: Mais le soir pesant semble déjà près de s’abattre, | Et les fleurs
-  légères voient leurs pétales tomber… tomber
+extrait: Mais le soir pesant semble déjà près de s’abattre, | Les fleurs légères
+  voient leurs pétales tomber… tomber
 featured: false
 date: 2026-06-07
 draft: true
