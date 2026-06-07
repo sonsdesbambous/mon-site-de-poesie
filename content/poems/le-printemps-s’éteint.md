@@ -49,7 +49,7 @@ traductions:
       Se mettant en chemin pour cueillir des âmes pures.
 extrait: Le soir pesant semble pourtant près de s’abattre, | Les fleurs légères
   voient leurs pétales tomber… tomber
-featured: true
+featured: false
 date: 2026-06-07
-draft: false
+draft: true
 ---
