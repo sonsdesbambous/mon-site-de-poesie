@@ -42,7 +42,7 @@ texte_vi: |-
                                   ẩm...
 traductions:
   - texte_fr: |-
-      Prendre un bain dans la verdure
+      Se baigner dans la verdure
       comme se baigner dans la poésie au matin
       apaise mon âme
 
