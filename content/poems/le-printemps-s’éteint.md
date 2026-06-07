@@ -41,7 +41,7 @@ traductions:
       Le vent vespéral commence à peine à susurrer,
       La rosée se garde encore d’épancher ses larmes,
       Mais le soir pesant semble près de s’abattre,
-      Les fleurs légères voient leurs pétales tomber… tomber…
+      Les fleurs légères voient leurs pétales tomber... tomber...
 
       La fumée des foyers glisse vers les champs de riz,
       Quelques astres s’allument dans le ciel azur.
