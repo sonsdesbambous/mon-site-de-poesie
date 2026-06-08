@@ -109,11 +109,11 @@ collections:
         default: ""
         date_format: "YYYY-MM-DD"
         time_format: false
-      - label: "Publié"
+      - label: "Brouillon"
         name: "draft"
         widget: "boolean"
-        default: false
-        hint: "Décochez pour mettre en brouillon"
+        default: true
+        hint: "Décochez pour publier ce poème"
 
   - name: "auteurs"
     label: "Auteurs"
