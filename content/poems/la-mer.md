@@ -70,12 +70,12 @@ traductions:
       Je ne mérite pas d’être la mer
       Mais laisse-moi être l’océan bleu,
       Que je chante auprès des écueils rocheux
-      Un intarissable amour partagé.
+      Notre intarissable amour partagé.
 
       Quand le vent soufflera de toutes parts,
       Soulevant les écumes argentées,
-      Comme mes insatiables baisers,
-      Moi qui t’aime éperdument, belle plage !
+      Je te couvrai de perpétuels baisers,
+      Moi qui t’aime tant et tant, belle plage !
 extrait: Laisse-moi être la vague azurée, | Que je t’embrasse, ô sable lumineux,
   | D’un baiser si tendre, si langoureux
 featured: false
