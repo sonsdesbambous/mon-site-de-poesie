@@ -52,7 +52,7 @@ traductions:
       la pluie fait déborder l’imagination
       chanter sous la pluie, pleurer sous la pluie
       goûter pleinement l’amère douleur
-      dans la pluie
+      sous la pluie
 
       Chaque jour
       tentant de ne pas me mener sur le vieux sentier
