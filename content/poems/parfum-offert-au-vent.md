@@ -53,7 +53,7 @@ traductions:
       Sans jamais rencontrer, hélas, leur âme sœur !
 
       L’homme reçoit volontiers les rêves d’autrui
-      Sans comprendre ni la poésie, ni la rêverie...
+      Sans saisir ni le songe, ni la poésie...
       Les amoureux ne diffèrent point de ces fleurs,
       Qui offrent en vain leur pistil aux voyageurs !
 extrait: L’une et l’autre tombent sur les terrains rocheux, | Que le crépuscule
