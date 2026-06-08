@@ -43,6 +43,6 @@ traductions:
 extrait: Ces lèvres si fines, éclatantes de vie, | Font frémir les miennes de
   douce gourmandise
 featured: false
-date: 2026-06-09
-draft: true
+date: 2026-06-07
+draft: false
 ---
