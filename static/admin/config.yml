@@ -109,7 +109,7 @@ collections:
         default: ""
         date_format: "YYYY-MM-DD"
         time_format: false
-      - label: "Brouillon"
+      - label: "Garder en brouillon"
         name: "draft"
         widget: "boolean"
         default: true
