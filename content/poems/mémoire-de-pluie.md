@@ -73,6 +73,6 @@ traductions:
 extrait: Mais le souvenir, comme la pluie, reste intact sur les yeux | cligner
   des cils, et le voilà
 featured: false
-date: 2026-06-07
-draft: true
+date: 2026-06-08
+draft: false
 ---
