@@ -5,6 +5,9 @@ auteur: Xuân Diệu
 annee: "1962"
 tags:
   - amour
+  - lyrisme
+  - métaphore
+  - romantisme
 texte_vi: |-
   Anh không xứng là biển xanh 
   Nhưng anh muốn em là bờ cát trắng 
@@ -80,5 +83,5 @@ extrait: Laisse-moi être la vague azurée, | Que je t’embrasse, ô sable lumi
   | D’un baiser si tendre, si langoureux
 featured: false
 date: 2026-06-08
-draft: true
+draft: false
 ---
