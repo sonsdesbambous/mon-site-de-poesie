@@ -70,7 +70,7 @@ traductions:
       de nouveau inonder l’après-midi du jardin sans mauvaises herbes
       de causeries et de rires infinis
       de te regarder, t’écouter
-extrait: Mais le souvenir, comme la pluie, reste intact sur les yeux | cligner
+extrait: Mais le souvenir, comme la pluie, | reste intact sur les yeux | cligner
   des cils, et le voilà
 featured: false
 date: 2026-06-08
