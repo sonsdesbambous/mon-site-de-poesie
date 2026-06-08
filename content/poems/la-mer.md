@@ -74,7 +74,7 @@ traductions:
 
       Quand le vent soufflera de toutes parts,
       Soulevant les écumes argentées,
-      Je te couvrai de perpétuels baisers,
+      Je te couvrirai de perpétuels baisers,
       Moi qui t’aime tant et tant, belle plage !
 extrait: Laisse-moi être la vague azurée, | Que je t’embrasse, ô sable lumineux,
   | D’un baiser si tendre, si langoureux
