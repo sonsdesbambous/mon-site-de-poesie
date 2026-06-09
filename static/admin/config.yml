@@ -19,6 +19,10 @@ collections:
     slug: "{{slug}}"
     summary: "{{fields.title_vi}} · {{title}} — {{fields.auteur}}"
     preview_path: "poems/{{slug}}"
+    view_filters:
+      - label: "Brouillons"
+        field: "draft"
+        pattern: true
     fields:
       - label: "Titre vietnamien"
         name: "title_vi"
