@@ -23,6 +23,9 @@ collections:
       - label: "Brouillons"
         field: "draft"
         pattern: true
+      - label: "Publiés"
+        field: "draft"
+        pattern: false
     fields:
       - label: "Titre vietnamien"
         name: "title_vi"
