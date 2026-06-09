@@ -38,8 +38,8 @@ traductions:
       Ici, dans la brume, s’estompe le profil humain,
       Qui percerait l’amour de l’autre, profond ou léger ?
 extrait: À qui est cette barque amarrée au quai de la lune, | Arrivera-t-elle à
-  la ramener à temps ce soir
+  la ramener à temps ce soir ʔ
 featured: false
 date: 2026-06-09
-draft: true
+draft: false
 ---
