@@ -26,7 +26,7 @@ traductions:
       Pourquoi ne pas retourner au hameau des roseaux
       Regarder le soleil levant sur les rangées d’aréquiers ?
       Quel jardin de fraîcheur, d’un vert de jade éclatant
-      Où les bambous dérobent le visage carré.
+      Où les bambous dérobent le visage avenant.
 
       Le vent suit son chemin, et les nuages leur voie,
       Le courant s’attriste, les fleurs de maïs oscillent...
