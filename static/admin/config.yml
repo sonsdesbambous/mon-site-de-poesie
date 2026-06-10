@@ -26,6 +26,9 @@ collections:
       - label: "Publiés"
         field: "draft"
         pattern: false
+    view_groups:
+      - label: "Par auteur"
+        field: auteur
     fields:
       - label: "Titre vietnamien"
         name: "title_vi"
