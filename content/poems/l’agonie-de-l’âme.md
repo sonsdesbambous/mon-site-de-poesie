@@ -37,6 +37,11 @@ traductions:
       Le vent dans les arbres retient sa peine infinie...
       Comment se fait-il que tu n’en saches rien, mon amour ?
       Je te prie de porter mon deuil pour dix mille jours.
+    note_traducteur: Ce poème est extrait du recueil « Douleur ». Atteint de la
+      lèpre à une époque où les malades étaient totalement isolés du monde, Hàn
+      Mặc Tử a écrit ces lignes sur son lit de mort. « L’agonie de l’âme » est
+      le témoignage d’un homme qui voit sa vie et son inspiration s’éteindre en
+      même temps.
 extrait: Adieu, je rends mon âme en cet instant précis, | Le vent dans les
   arbres retient sa peine infinie
 featured: false
