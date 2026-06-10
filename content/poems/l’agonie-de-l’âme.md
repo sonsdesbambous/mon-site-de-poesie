@@ -28,9 +28,9 @@ traductions:
       Désormais, dans le vent, et sous les nuages,
       Les plaintes résonnent en tous recoins du rêve.
 
-      Je garde encore tant d’amour pour mes êtres chers
+      Je garde encore tant d’amour pour mes êtres chers,
       Pour la beauté somptueuse de cet univers,
-      Plein de larmes, plein de chagrin, plein de désespoir,
+      Plein de larmes, plein de chagrin, plein de désespoir.
       Oh ! Voici l’heure de l’agonie, bientôt je pars !
 
       Adieu, je rends mon âme en cet instant précis,
