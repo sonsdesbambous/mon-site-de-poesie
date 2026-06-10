@@ -33,7 +33,7 @@ traductions:
       Plein de larmes, plein de chagrin, plein de désespoir.
       Oh ! Voici l’heure de l’agonie, bientôt je pars !
 
-      Adieu, je rends mon âme en cet instant précis,
+      Je dépose mon âme en cet instant précis,
       Le vent dans les arbres retient sa peine infinie...
       Comment se fait-il que tu n’en saches rien, mon amour ?
       Je te prie de porter mon deuil pour dix mille jours.
@@ -42,8 +42,8 @@ traductions:
       Mặc Tử a écrit ces lignes sur son lit de mort. « L’agonie de l’âme » est
       le témoignage d’un homme qui voit sa vie et son inspiration s’éteindre en
       même temps.
-extrait: Adieu, je rends mon âme en cet instant précis, | Le vent dans les
-  arbres retient sa peine infinie
+extrait: Je dépose mon âme en cet instant précis, | Le vent dans les arbres
+  retient sa peine infinie
 featured: false
 date: 2026-06-10
 draft: true
