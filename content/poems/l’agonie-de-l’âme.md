@@ -26,7 +26,7 @@ traductions:
       Le sang s’est tari, la poésie elle aussi,
       Notre amour est mort si tôt, depuis quand déjà ?
       Désormais, dans le vent, et sous les nuages,
-      Les lamentations résonnent aux confins du rêve.
+      Les plaintes résonnent en tous recoins du rêve.
 
       Je garde encore tant d’amour pour mes êtres chers
       Pour la beauté somptueuse de cet univers,
@@ -36,10 +36,10 @@ traductions:
       Adieu, je rends mon âme en cet instant précis,
       Le vent dans les arbres retient sa peine infinie...
       Comment se fait-il que tu n’en saches rien, mon amour ?
-      Je te prie de porter mon deuil pendant dix mille jours.
+      Je te prie de porter mon deuil pour dix mille jours.
 extrait: Adieu, je rends mon âme en cet instant précis, | Le vent dans les
   arbres retient sa peine infinie
 featured: false
 date: 2026-06-10
-draft: true
+draft: false
 ---
