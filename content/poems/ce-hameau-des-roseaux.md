@@ -29,7 +29,7 @@ traductions:
       Où les bambous dérobent le visage avenant.
 
       Le vent suit son chemin, et les nuages leur voie,
-      Le courant s’attriste, les fleurs de maïs oscillent...
+      Le courant s’attriste, les fleurs de maïs trémulent...
       À qui est cette barque amarrée au quai de la lune,
       Arrivera-t-elle à la ramener à temps ce soir ?
 
