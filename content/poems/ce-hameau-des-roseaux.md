@@ -31,14 +31,14 @@ traductions:
       Le vent suit son chemin, et les nuages leur voie,
       Le courant s’attriste, les fleurs de maïs trémulent...
       À qui est cette barque amarrée au quai de la lune,
-      Arrivera-t-elle à la ramener à temps ce soir ?
+      Arrivera-t-elle à ramener la lune à temps ce soir ?
 
       Le voyageur se perd en rêve, de loin, de loin,
       Ta tunique est si blanche qu’on ne saurait la distinguer...
       Ici, dans la brume, s’estompe le profil humain,
       Qui percerait l’amour de l’autre, profond ou léger ?
-extrait: À qui est cette barque amarrée au quai de la lune, | Arrivera-t-elle à
-  la ramener à temps ce soir ʔ
+extrait: Le vent suit son chemin, et les nuages leur voie, | Le courant
+  s’attriste, les fleurs de maïs trémulent
 featured: false
 date: 2026-06-09
 draft: false
