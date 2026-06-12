@@ -33,7 +33,7 @@ traductions:
   - texte_fr: |-
       Le jour immobile cloue le monde à un cadre de tableau délabré
       Quelle nostalgie des vents, libres de se poursuivre à travers les collines
-      Des vagues d’herbe, éperdues d’onduler et de changer de teintes
+      Des vagues d’herbe, éperdues d’onduler tout en changeant de teintes
 
       Parfois le vent vient des doigts
       Parfois l’excès fait éclater l’ouragan
