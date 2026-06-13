@@ -30,7 +30,7 @@ traductions:
     texte_fr: |-
       Les saules pleureurs se penchent tristement en deuil,
       De leurs cheveux ruissellent des milliers de larmes.
-      Voici l’automne arrivé - le voilà au seuil
+      Voici l’automne arrivé - le voici au seuil
       Dans sa robe abricot tissée des feuilles d’arbre.
 
       Et plus d’une de ces fleurs est déjà tombée,
@@ -49,7 +49,7 @@ traductions:
       Plongent le regard au loin, l’air triste et songeur.
 extrait: Les saules pleureurs se penchent tristement en deuil, | De leurs
   cheveux ruissellent des milliers de larmes. | Voici l’automne arrivé - le
-  voilà au seuil
+  voici au seuil
 featured: false
 date: 2026-05-21
 draft: false
