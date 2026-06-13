@@ -24,8 +24,8 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Le sang s’est tari, la poésie elle aussi,
-      Notre amour est mort jeune, depuis des temps oubliés !
-      Désormais, dans le vent, sous les nuages égarés,
+      Notre amour est mort jeune, en des temps oubliés !
+      Désormais, dans le vent, et sous les nuées,
       Les plaintes résonnent en tous recoins du rêve.
 
       Je garde encore tant d’amour pour mes êtres chers,
