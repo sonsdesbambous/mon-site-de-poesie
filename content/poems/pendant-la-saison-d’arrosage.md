@@ -3,6 +3,9 @@ title_vi: Trong mùa tưới rẫy
 title: Pendant la saison d’arrosage
 auteur: Đinh Thị Như Thúy
 annee: "2008"
+tags:
+  - nature
+  - lyrisme
 texte_vi: |-
   (mấy hôm nữa quanh đây hoa café sẽ nở trắng và thơm đến nhức đầu)
 
