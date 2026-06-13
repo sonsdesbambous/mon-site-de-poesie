@@ -77,7 +77,7 @@ traductions:
       Je fais des louanges avec l’élan du cœur,
       Je soupire auprès des âmes mélancoliques,
       Je fredonne au rythme de la flûte enchantée,
-      Les sons de cloche me donnent sérénité,
+      Je me console au son divin de la cloche,
       Avec la Muse, j’ai ce luth à mille mélodies,
       Avec la Muse, j’ai ce pinceau à mille couleurs,
       Je désire être un artiste magique dont les œuvres 
