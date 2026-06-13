@@ -42,8 +42,7 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       « ...Les femmes sont comme les gouttes de pluie 
-      Les unes tombent dans des pavillons somptueux
-      Et les autres dans des flaques boueuses »
+      Les unes tombent dans des palais, les autres dans la boue »
       Tant d’amertumes s’entassaient dans ta berceuse,
       Dans tes yeux creusés par de longues nuits d’insomnie.
 
