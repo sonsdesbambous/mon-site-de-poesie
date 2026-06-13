@@ -21,11 +21,11 @@ traductions:
   - traducteur: ""
     texte_fr: |-
       Maudit soit notre destin de concubines,
-      Si l’une a la ouate chaude, les autres le lit froid.
+      Si l’une a la ouate, les autres le lit le froid.
       L’homme ne passe que par pur hasard,
       À peine deux nuits par mois, autant dire rien.
-      On encaisse les coups pour un riz qui s’avère rance,
-      Comme un labeur de servante, mais sans la recompense.
+      On encaisse les coups pour un riz qui est rance,
+      Tel un labeur de servante, sans aucun gage.
       Si j’avais su que le chemin était ainsi,
       Mieux aurait valu rester fille dès le début.
 extrait: ""
