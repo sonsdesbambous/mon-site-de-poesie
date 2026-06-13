@@ -82,6 +82,8 @@ traductions:
       Avec la Muse, j’ai ce pinceau à mille couleurs,
       Je désire être un artiste magique dont les œuvres 
       Se créent sur des sons et des couleurs d’ici-bas.
+    note_traducteur: Ly-tao est le premier long poème chinois, écrit par Qu Yuan du
+      royaume de Chu. La belle Ly-tao incarne ici la Muse.
 featured: false
 date: 2026-05-20
 draft: false
