@@ -21,7 +21,7 @@ traductions:
   - traducteur: ""
     texte_fr: |-
       Maudit soit notre destin de concubines,
-      Si l’une a la ouate, les autres le lit le froid.
+      Si l’une a la ouate, les autres le lit froid.
       L’homme ne passe que par pur hasard,
       À peine deux nuits par mois, autant dire rien.
       On encaisse les coups pour un riz qui est rance,
