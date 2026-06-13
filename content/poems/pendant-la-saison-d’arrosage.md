@@ -73,7 +73,7 @@ traductions:
 
       Les fleurs ne s’expriment pas par leurs mots 
 
-      Mais exposent leur blancheur comme une allégresse
+      Mais déploient leur blancheur comme une allégresse
 
       Et le vent, et les abeilles, et les papillons
 
