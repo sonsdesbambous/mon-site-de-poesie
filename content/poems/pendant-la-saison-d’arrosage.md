@@ -74,7 +74,7 @@ traductions:
 
       Et le vent, et les abeilles, et les papillons
 
-      Emportent les fleurs en tous lieux
+      Emportent les fleurs vers mille contrées
 
 
       Et au-dessus des fleurs, la splendeur du soleil
