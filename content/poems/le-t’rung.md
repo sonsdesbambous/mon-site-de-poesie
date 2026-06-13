@@ -67,6 +67,9 @@ traductions:
       Le T’rung exprime le cœur de Xinh Nha,
       Exprime nos sentiments, toi et moi,
       Comme le feu de la pierre triomphe du temps. 
+    note_traducteur: Le T’rung est un xylophone en bambou, dont l’ancêtre est le
+      lithophone de Tây Nguyên, un des instruments de musique les plus anciens
+      du monde.
 extrait: Comme un hamac, le T’rung relie, | Pluie et soleil, les deux bouts d’une vie
 featured: false
 date: 2026-05-20
