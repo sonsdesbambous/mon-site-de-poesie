@@ -23,11 +23,11 @@ traductions:
       Maudit soit notre destin de concubines,
       Si l’une a la ouate chaude, les autres le lit froid.
       L’homme ne passe que par pur hasard,
-      À peine deux nuits par mois, presque rien.
+      À peine deux nuits par mois, autant dire rien.
       On encaisse les coups pour un riz qui s’avère rance,
       Comme un labeur de servante, mais sans la recompense.
       Si j’avais su que le chemin était ainsi,
-      Il aurait mieux valu rester seule dès le début.
+      Mieux aurait valu rester fille dès le début.
 extrait: ""
 date: 2026-05-19
 draft: false
