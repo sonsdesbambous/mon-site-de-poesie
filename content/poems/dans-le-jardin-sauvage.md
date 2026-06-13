@@ -70,7 +70,7 @@ traductions:
       où se débattent les graines avides d’éclater
       soudain mon esprit
       soudain mon corps
-      devenus
+      soudain
       spongieux
                           doux
                                 chauds
