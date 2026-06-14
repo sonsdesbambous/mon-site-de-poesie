@@ -2,6 +2,7 @@
 title_vi: Những ngôi sao hình quang gánh
 title: Les étoiles en forme de palanche
 auteur: Nguyễn Phan Quế Mai
+annee: "2010"
 tags:
   - condition humaine
   - compassion
