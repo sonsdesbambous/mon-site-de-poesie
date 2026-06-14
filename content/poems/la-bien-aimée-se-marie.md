@@ -51,5 +51,5 @@ extrait: La bien-aimée est, pour moi, un poème, | Qui peut être douce, série
   ou coquette
 featured: false
 date: 2026-06-14
-draft: true
+draft: false
 ---
