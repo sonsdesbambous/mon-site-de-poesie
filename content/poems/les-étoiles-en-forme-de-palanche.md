@@ -99,7 +99,7 @@ traductions:
 
       « Dans la misère, la palanche pèse sur l’épaule,
 
-      L’on peine à nourrir sa mère, peu importent les moqueries »
+      L’on peine à nourrir maman, peu importent les moqueries »
 
 
       Mes étoiles à moi
