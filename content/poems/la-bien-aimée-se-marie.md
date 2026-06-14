@@ -3,6 +3,9 @@ title_vi: Em lấy chồng
 title: La bien-aimée se marie
 auteur: Hàn Mặc Tử
 annee: "1936"
+tags:
+  - amour
+  - lyrisme
 texte_vi: |-
   Ngày mai xác thịt của người em,
   Sẽ có bàn tay lạ khác kềm,
@@ -38,7 +41,7 @@ traductions:
       La bien-aimée est, pour moi, un poème,
       Qui peut être douce, sérieuse ou coquette...
       Parfois, elle s’endormait sous l’ombre fraîche,
-      Et moi de la couvrir des yeux, cherchant le titre...
+      Et moi de chercher le titre en la couvant des yeux...
 
       Demain, j’abandonne mon habit de poète,
       Elle se marie, c’est la fin de tous mes rêves...
@@ -47,6 +50,6 @@ traductions:
 extrait: La bien-aimée est, pour moi, un poème, | Qui peut être douce, sérieuse
   ou coquette
 featured: false
-date: 2026-06-11
+date: 2026-06-14
 draft: true
 ---
