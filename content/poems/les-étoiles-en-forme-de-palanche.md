@@ -111,8 +111,8 @@ traductions:
 
       Bien que, parfois, elles déposent dans mes yeux tant de regards courbés en points d’interrogation
     note_traducteur: ""
-extrait: Là où attendent leur enfant, et leur mari, et leur mère, | Là où le
-  rêve | S’obstine dans sa soif
+extrait: Derrière leur palanche, la rizière orpheline perdue dans le vent | Les
+  bras ouverts en suspens | La berceuse gonflée de lait
 featured: false
 date: 2026-06-14
 draft: false
