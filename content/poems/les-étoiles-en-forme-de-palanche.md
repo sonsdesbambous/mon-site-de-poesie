@@ -94,6 +94,7 @@ traductions:
 
       S’obstine dans sa soif
 
+
       J’entends au loin l’écho de leur chant
 
       « Dans la misère, la palanche pèse sur l’épaule,
