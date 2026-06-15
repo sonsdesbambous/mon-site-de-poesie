@@ -3,6 +3,8 @@ title_vi: Nhớ gió
 title: Nostalgie du vent
 auteur: Đinh Thị Như Thúy
 annee: "2009"
+tags:
+  - crise intérieure
 texte_vi: |-
   Ngày bất động ghim chặt thế giới vào khung tranh cũ nát
   Nhớ làm sao những ngọn gió phóng túng rượt đuổi qua những ngọn đồi
@@ -59,6 +61,6 @@ traductions:
 extrait: Sans évitement ni détour ou tromperie | Le vent nous force à nous
   regarder | Dans notre état le plus nu
 featured: false
-date: 2026-06-12
-draft: true
+date: 2026-06-15
+draft: false
 ---
