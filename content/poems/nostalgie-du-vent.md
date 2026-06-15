@@ -61,6 +61,6 @@ traductions:
 extrait: Sans évitement ni détour ou tromperie | Le vent nous force à nous
   regarder | Dans notre état le plus nu
 featured: false
-date: 2026-06-15
+date: 2026-06-14
 draft: false
 ---
