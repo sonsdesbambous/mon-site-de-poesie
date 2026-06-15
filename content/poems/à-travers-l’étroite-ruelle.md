@@ -2,6 +2,9 @@
 title_vi: Len qua ngõ hẹp
 title: À travers l’étroite ruelle
 auteur: Nguyễn Phan Quế Mai
+annee: "2011"
+tags:
+  - amour
 texte_vi: |-
   Đợi mặt trời nuốt chửng ý nghĩ
   Đợi mặt trăng sa vào lòng bàn tay
@@ -40,5 +43,5 @@ extrait: Nos corps s’essaient l’un à l’autre dans l’obscurité, | Nos l
   vent, je m’enroule autour de toi
 featured: false
 date: 2026-06-15
-draft: true
+draft: false
 ---
