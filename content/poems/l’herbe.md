@@ -2,6 +2,10 @@
 title_vi: Cỏ
 title: L’herbe
 auteur: Nguyễn Phan Quế Mai
+annee: "2011"
+tags:
+  - amour
+  - allégorie
 texte_vi: |-
   Những thân cỏ mềm bị phạt ngang
   Mùi hương ứa đầy không khí
@@ -13,7 +17,8 @@ texte_vi: |-
 
   Em tan trong màu anh
   Màu không lời
-  của cỏ
+  của 
+  cỏ
 traductions:
   - texte_fr: |-
       De tendres tiges fauchées en travers
@@ -26,9 +31,10 @@ traductions:
 
       Je me dissous dans ta couleur,
       La couleur muette
-      de l’herbe.
+      de 
+      l’herbe.
 extrait: De tendres tiges fauchées en travers | Une senteur s’épanche dans l’air
 featured: false
 date: 2026-06-15
-draft: true
+draft: false
 ---
