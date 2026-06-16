@@ -28,10 +28,10 @@ traductions:
       Au courant impétueux, au flot passionné
       Qui se ruait en moi après les rapides furieux,
       M’emportait dans ses bras de vagues ondoyantes,
-       
+
       M’alluvionnait de sa douleur scintillante,
       Me soulevait doucement en courbes sinueuses.
-       
+
       Ô rivière
       Je ne savais pas que j’étais un champ craquelé
       Jusqu’au jour où, venue d’un lointain infini,
