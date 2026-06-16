@@ -2,6 +2,7 @@
 title_vi: Men theo mùa hạ
 title: En longeant l’été
 auteur: Phan Huyền Thư
+annee: "2002"
 texte_vi: |-
   Men theo mùa hạ
   Trăng non cong nỗi thượng tuần
