@@ -2,6 +2,10 @@
 title_vi: Ảo ảnh
 title: Illusion
 auteur: Trương Đăng Dung
+tags:
+  - illusion
+  - mémoire
+  - existentialisme
 texte_vi: |-
   Bao năm rồi anh tìm em
   trong những bình minh không có mặt trời
@@ -77,7 +81,9 @@ traductions:
       des cheveux blanchis d’une grand-mère
       qui s’entrapercevront derrière une fenêtre
       inondée de lumière.
+extrait: Cela fait des années que je te cherche | dans les aurores sans soleil,
+  | dans les châteaux qu’occupent seules les roussettes
 featured: false
 date: 2026-06-16
-draft: true
+draft: false
 ---
