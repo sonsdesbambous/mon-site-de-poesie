@@ -5,6 +5,8 @@ auteur: Trương Đăng Dung
 annee: "2008"
 tags:
   - amour
+  - fuite du temps
+  - existentialisme
 texte_vi: |-
   Sợ bóng tối sẽ tràn vào
   khi em mở tung cửa sổ
@@ -56,7 +58,9 @@ traductions:
 
       J’ai besoin de preuves
       face au temps.
+extrait: Je crains que l’obscurité n’envahisse la chambre | quand tu auras
+  ouvert en grand la fenêtre, | nos corps cesseront de rayonner.
 featured: false
 date: 2026-06-16
-draft: true
+draft: false
 ---
