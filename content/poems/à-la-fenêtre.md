@@ -32,42 +32,42 @@ traductions:
   - texte_fr: >-
       Le troupeau de vaches broute à cœur joie chaque rayon du couchant ;
 
-      Le soir se fige auprès du fleuve, le fleuve se tait auprès du champ ;
+      le soir se fige auprès du fleuve, le fleuve se tait auprès du champ ;
 
-      La fille s’est mariée, sur le pont de bambou plus personne ne vient laver ; 
+      la fille s’est mariée, sur le pont de bambou plus personne ne vient laver ; 
 
-      Grandi à la hâte, l’enfant se baigne-t-il encore à ce gué ?!...
+      grandi à la hâte, l’enfant se baigne-t-il encore à ce gué...?!
 
 
       Un adulte est assis à la fenêtre,
 
-      Croyant tendre la main jusqu’à toucher son enfance,
+      croyant tendre la main jusqu’à toucher son enfance,
 
-      Perché sur le dos d’une vache, roulant sur les tapis d’herbe
+      perché sur le dos d’une vache, roulant sur les tapis d’herbe
 
-      Puis sautant pour se fondre dans le miroitement du courant...
+      puis sautant pour se fondre dans le miroitement du courant...
 
 
       Un enfant s’élance hors de l’adulte,
 
-      Ramasse les souvenirs éclos comme fleurs printanières sur le pré,
+      ramasse les souvenirs éclos comme fleurs printanières sur le pré,
 
-      Ramasse les années perdues de l’âge de la lune brisée,
+      ramasse les années perdues de l’âge de la lune brisée,
 
-      Une goutte de rosée en guise de lunette pour regarder le ciel lointain...
+      une goutte de rosée en guise de lunette pour regarder le ciel lointain...
 
 
       Dans la nuit s’efface le troupeau de vaches, à moitié ;
 
-      Les dernières vaches disparaissent complètement dans l’obscurité.
+      les dernières vaches disparaissent complètement dans l’obscurité ;
 
-      L’adulte reste assis, immobile, à la fenêtre,
+      l’adulte reste assis, immobile, à la fenêtre,
 
-      Appelant l’enfant à revenir.
+      appelant l’enfant à revenir ;
 
-      De l’autre côté de la fenêtre
+      de l’autre côté de la fenêtre :
 
-      Le silence...
+      le silence...
 extrait: Un adulte est assis à la fenêtre, | Croyant tendre la main jusqu’à
   toucher son enfance
 featured: false
