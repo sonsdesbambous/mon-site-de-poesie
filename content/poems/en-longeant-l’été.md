@@ -3,6 +3,10 @@ title_vi: Men theo mùa hạ
 title: En longeant l’été
 auteur: Phan Huyền Thư
 annee: "2002"
+tags:
+  - nature
+  - onirisme
+  - métamorphose
 texte_vi: |-
   Men theo mùa hạ
   Trăng non cong nỗi thượng tuần
@@ -45,6 +49,6 @@ traductions:
 extrait: Sur le toit du wagon délaissé, | L’odeur du soleil se perd dans son
   sommeil profond.
 featured: false
-date: 2026-06-16
-draft: true
+date: 2026-06-17
+draft: false
 ---
