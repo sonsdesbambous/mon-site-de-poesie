@@ -31,16 +31,16 @@ traductions:
       En longeant l’été,
       Le croissant de lune courbe l’émoi du premier quartier ;
       Flamboyants et grégaires,
-      Les frangipaniers singent au bord des rails d’une petite gare ;
+      les frangipaniers singent au bord des rails d’une petite gare ;
       Sur le toit du wagon délaissé,
       L’odeur du soleil se perd dans son sommeil profond.
 
       Suivant son idéal d’immortelle mélodie,
-      Le grillon éconduit se prend les pieds dans la rosée ;
+      le grillon éconduit se prend les pieds dans la rosée ;
       Le guerrier gecko claque sa langue, s’abreuve de la nuit,
-      Tombe dans un rêve aussi fin qu’une aile de moustique ;
+      tombe dans un rêve aussi fin qu’une aile de moustique ;
       À force de tendre sa confiance, l’araignée femelle
-      Étreint son sac d’œufs saturé.
+      étreint son sac d’œufs saturé.
 
       S’étant abreuvé par mégarde du rêve,
       Mon gecko en bois a sangloté toute la nuit ;
