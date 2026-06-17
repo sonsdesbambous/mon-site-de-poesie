@@ -3,6 +3,9 @@ title_vi: Bầu trời trắng
 title: Le ciel blanc
 auteur: Nguyễn Phan Quế Mai
 annee: "2011"
+tags:
+  - injustice
+  - impuissance
 texte_vi: |-
   Cầm bút
   Chưa viết
@@ -32,7 +35,9 @@ traductions:
 
       Je m’agenouille sous la pluie,
       Me confessant devant le ciel blanc.
+extrait: Prendre le stylo, | Ne pas encore écrire, | La page est déjà couverte
+  des mots d’autrui
 featured: false
-date: 2026-06-16
-draft: true
+date: 2026-06-17
+draft: false
 ---
