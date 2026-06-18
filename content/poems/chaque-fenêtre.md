@@ -52,11 +52,7 @@ traductions:
       Existe-t-il une fenêtre qui s’ouvre sur le faux et le vrai,
       s’ouvre d’un clic dans le cœur humain,
       éveillant la conscience endormie ?
-extrait: >-
-  Existe-t-il une fenêtre qui s’ouvre sur le faux et le vrai, | s’ouvre d’un
-  clic dans le cœur humain, | 
-
-  éveillant la conscience endormie ʔ
+extrait: Les fenêtres s’ouvrent, | toujours plus loin, | d’une ouverture immense
 featured: false
 date: 2026-06-18
 draft: false
