@@ -54,7 +54,7 @@ traductions:
 
       ramasse les années perdues de l’âge de la lune brisée,
 
-      une goutte de rosée en guise de lunette pour regarder le ciel lointain...
+      ramasse une goutte de rosée en guise de lunette pour regarder le ciel...
 
 
       Dans la nuit s’efface le troupeau de vaches, à moitié ;
