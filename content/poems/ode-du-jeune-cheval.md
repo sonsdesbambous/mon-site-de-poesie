@@ -53,10 +53,12 @@ traductions:
 
       Pour accueillir le soleil à chaque aurore !
 
-      Réveille-toi, ô cheval,
+      Réveille-toi, ô cheval
 
-      Au fond du cœur endormi depuis tant d’années !
+      Endormi au fond du cœur depuis tant d’années !
+extrait: Réveillez-vous, ô jours et mois de solitude extrême, | Réveille-toi, ô
+  jeune cheval au pré de la jeune poitrine
 featured: false
-date: 2026-06-17
-draft: true
+date: 2026-06-18
+draft: false
 ---
