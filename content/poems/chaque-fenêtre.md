@@ -35,7 +35,7 @@ traductions:
       s’ouvre
       sur le savoir,
       jour après jour en évolution,
-      jour après jour renouvelé,
+      jour après jour dans la nouveauté,
       la hauteur défiant la hauteur.
 
       Les fenêtres intelligentes
