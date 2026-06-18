@@ -3,6 +3,10 @@ title_vi: Từng ô cửa
 title: Chaque fenêtre
 auteur: Thái Anh
 annee: "2006"
+tags:
+  - savoir
+  - éveil
+  - conscience
 texte_vi: |-
   Từng ô cửa
   mở ra
@@ -32,7 +36,7 @@ traductions:
       sur le savoir,
       jour après jour en évolution,
       jour après jour renouvelé,
-      hauteur défiant hauteur.
+      la hauteur défiant la hauteur.
 
       Les fenêtres intelligentes
       encodées
@@ -48,7 +52,12 @@ traductions:
       Existe-t-il une fenêtre qui s’ouvre sur le faux et le vrai,
       s’ouvre d’un clic dans le cœur humain,
       éveillant la conscience endormie ?
+extrait: >-
+  Existe-t-il une fenêtre qui s’ouvre sur le faux et le vrai, | s’ouvre d’un
+  clic dans le cœur humain, | 
+
+  éveillant la conscience endormie ʔ
 featured: false
 date: 2026-06-18
-draft: true
+draft: false
 ---
