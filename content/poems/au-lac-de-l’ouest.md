@@ -30,8 +30,8 @@ traductions:
 
       Son lotus est d’un blanc immaculé,
       sa personne fait penser au lotus,
-      sa nuit se pare d’une lune enivrée,
-      sa brume évoque un ferment qui grise...
+      sa nuit se pare d’une lune grisée,
+      sa brume évoque un ferment qui enivre...
 
       À l’automne venu,
       la barque s’arrête au débarcadère,
@@ -39,7 +39,7 @@ traductions:
       sa personne n’est pas venue,
       il manque au cœur,
       le lac ou le lotus ?
-extrait: sa nuit se pare d’une lune enivée, | sa brume évoque un ferment qui grise
+extrait: sa nuit se pare d’une lune grisée, | sa brume évoque un ferment qui enivre
 featured: false
 date: 2026-06-19
 draft: true
