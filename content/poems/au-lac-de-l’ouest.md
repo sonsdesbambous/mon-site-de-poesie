@@ -30,7 +30,7 @@ traductions:
 
       Son lotus est d’un blanc immaculé,
       sa personne fait penser au lotus,
-      sa nuit se pare d’une lune enivée,
+      sa nuit se pare d’une lune enivrée,
       sa brume évoque un ferment qui grise...
 
       À l’automne venu,
