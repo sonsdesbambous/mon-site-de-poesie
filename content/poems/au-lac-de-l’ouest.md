@@ -35,7 +35,7 @@ traductions:
 
       À l’automne venu,
       la barque s’arrête au débarcadère,
-      son lotus s’en est allé,
+      son lotus n’est plus là,
       sa personne n’est pas venue,
       il manque au cœur,
       le lac ou le lotus ?
