@@ -39,8 +39,10 @@ traductions:
       sa personne n’est pas venue,
       il manque au cœur,
       le lac ou le lotus ?
-extrait: sa nuit se pare d’une lune grisée, | sa brume évoque un ferment qui enivre
+    note_traducteur: Le titre original est “Sen Tây Hồ” — “Le lotus du lac de
+      l’Ouest” (Tây Hồ, lac emblématique de Hanoï, réputé pour ses lotus).
+extrait: Sa nuit se pare d’une lune grisée, | Sa brume évoque un ferment qui enivre
 featured: false
-date: 2026-06-19
+date: 2026-06-20
 draft: true
 ---
