@@ -47,8 +47,9 @@ traductions:
       Montre-lui en silence le ciel azuré,
       Et en-dessous de ce ciel, le pré verdoyant !
     note_traducteur: Ce poème de Thanh Tịnh s’inspire librement de « Et s’il
-      revenait un jour » de Maurice Maeterlinck. Les temps verbaux coexistent
-      intentionnellement, comme dans l’original de Maeterlinck.
+      revenait un jour » de Maurice Maeterlinck. Dans la traduction, les temps
+      verbaux coexistent intentionnellement, comme dans l’original de
+      Maeterlinck.
 featured: false
 date: 2026-06-21
 draft: false
