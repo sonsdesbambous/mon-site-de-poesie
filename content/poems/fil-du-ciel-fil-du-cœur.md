@@ -36,7 +36,7 @@ traductions:
       Je cherche dans les champs la trace de la fleur d’hier,
       Mais n’y trouve que des épis de riz tout gonflés.
       Le fil du ciel s’étire, se courbe en flottant,
-      Jusqu’à relier mon destin… au néant !
+      Jusqu’à relier mon destin au… néant !
 featured: false
 date: 2026-06-22
 draft: false
