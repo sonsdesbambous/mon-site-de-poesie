@@ -54,6 +54,8 @@ traductions:
       sortant de ce rêve profond
       tout grisé
       je te cherche à travers la brume du temps...
+extrait: Une feuille jaune flotte dans le vide | la note d’azur s’attarde au
+  clavier | en suspens
 featured: false
 date: 2026-06-26
 draft: false
