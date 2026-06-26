@@ -4,7 +4,8 @@ title: Automne
 auteur: Thái Anh
 annee: "2005"
 tags:
-  - nature
+  - fragilité
+  - silence
   - symbolisme
 texte_vi: |-
   1.
@@ -55,5 +56,5 @@ traductions:
       je te cherche à travers la brume du temps...
 featured: false
 date: 2026-06-26
-draft: true
+draft: false
 ---
