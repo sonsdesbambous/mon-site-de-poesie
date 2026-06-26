@@ -33,7 +33,7 @@ traductions:
   - texte_fr: |-
       1.
       Une feuille jaune flotte dans le vide
-      la note d’azur s’accroche au clavier
+      la note d’azur s’attarde au clavier
       en suspens
       le regard se détourne, hésitant
       un souvenir à mi-chemin
