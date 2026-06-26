@@ -48,7 +48,7 @@ traductions:
 
       3.
       Je tisse une barque de nuages
-      je bâtis une île de fées
+      je bâtis une île enchantée
       et t’enferme dans la magie du néant
       sortant de ce rêve profond
       tout grisé
