@@ -41,7 +41,7 @@ traductions:
 
       2.
       Sans faire vibrer un seul son, le piano enivre
-      qui est venu envelopper tout le jardin de nostalgie ?
+      qui vient envelopper tout le jardin de nostalgie ?
       doucement
       ne touche pas à l’âme
       ne respire pas fort, la tristesse volerait en éclats !
