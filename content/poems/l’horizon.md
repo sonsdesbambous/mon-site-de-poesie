@@ -1,6 +1,6 @@
 ---
 title_vi: Chân trời
-title: L’horizon
+title: Horizon
 auteur: Trương Đăng Dung
 annee: "1994"
 texte_vi: |-
