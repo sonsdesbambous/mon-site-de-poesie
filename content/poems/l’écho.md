@@ -48,5 +48,5 @@ extrait: Le petit moineau est mort, | Mort dans la nuit, quand la tempête écla
   vers l’aurore.
 featured: false
 date: 2026-06-28
-draft: true
+draft: false
 ---
