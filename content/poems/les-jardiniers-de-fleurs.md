@@ -51,5 +51,5 @@ extrait: Comme un rituel, | Un jardinier plante des rosiers | Avec de très beau
   outils de jardinage.
 featured: false
 date: 2026-06-28
-draft: true
+draft: false
 ---
