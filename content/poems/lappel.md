@@ -48,6 +48,7 @@ traductions:
       Je décroche le récepteur,
       Et de l’autre bout du fil, quelque part au loin,
       Me parvient alors ma propre voix.
+extrait: Le téléphone sonne à toute volée | à trois heures du matin
 featured: false
 date: 2026-06-28
 draft: true
