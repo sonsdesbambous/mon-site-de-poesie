@@ -22,7 +22,7 @@ texte_vi: |-
   Mới gặp được người thưa chuyện
 
   Ngẩng mặt một vầng mây đỏ
-  Nỗ vang tiếng sấm của trời
+  Nổ vang tiếng sấm của trời
   Cúi đầu một miền cỏ trắng
   Nở xoè bên cõi sen tươi
 
