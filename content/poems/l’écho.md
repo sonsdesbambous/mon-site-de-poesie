@@ -11,7 +11,6 @@ texte_vi: |-
   Đêm ấy tôi nằm trong chăn nghe cánh chim đập cửa
   Sự ấm áp gối chăn đã giữ chặt tôi
   Và tôi ngủ ngon lành đến lúc bão vơi.
-
   Chiếc tổ cũ trong ống tre đầu nhà chiều gió hú
   Không còn nghe tiếng cánh chim về
   Và tiếng hót mỗi sớm mai trong vắt.
@@ -31,7 +30,6 @@ traductions:
       Cette nuit-là, au lit, j’entendais ses ailes battre la porte ;
       La tiédeur des couvertures me retenait fermement,
       Et je dormis paisiblement jusqu’au déclin de l’orage.
-
       Le vieux nid dans le bambou au pignon, aux soirs de vent, 
       N’entend plus le bruit des ailes de retour,
       Ni le chant limpide à chaque aurore.
