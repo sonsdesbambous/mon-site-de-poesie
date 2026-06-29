@@ -50,6 +50,8 @@ traductions:
       revenait un jour » de Maurice Maeterlinck. Dans la traduction, les temps
       verbaux coexistent intentionnellement, comme dans l’original de
       Maeterlinck.
+extrait: " S’il demande pourquoi, de deux pêchers à l’entrée, | Il ne reste plus
+  qu’un seul tronc incliné ʔ"
 featured: false
 date: 2026-06-21
 draft: false
