@@ -37,9 +37,9 @@ texte_vi: |-
   bỗng chốc thân xác tôi
   bỗng chốc
   xốp
-                    mềm
-                           ấm
-                                  ẩm...
+  　　　mềm
+  　　　　　　ấm
+  　　　　　　　　　ẩm...
 traductions:
   - texte_fr: |-
       Se baigner dans la verdure
@@ -72,9 +72,9 @@ traductions:
       soudain mon corps
       soudain
       spongieux
-                          doux
-                                chauds
-                                       humides...
+      　　　doux
+      　　　　　　chauds
+      　　　　　　　　　humides...
 extrait: La nuit | mon rêve voltige | sous les voûtes de verdure
 featured: false
 date: 2026-06-06
