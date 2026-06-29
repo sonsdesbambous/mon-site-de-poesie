@@ -33,8 +33,8 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Le chemin
-            Le chemin
-                  Le chemin
+      　　  Le chemin
+      　　　    　Le chemin
       Nous ramène vers l’ancien étang.
 
       Flotte à peine une vieille feuille de lotus,
@@ -54,8 +54,8 @@ traductions:
 
       Repartant de l’ancien étang,
       Le chemin
-            Le chemin
-                  Le chemin
+      　　  Le chemin
+      　　　    　Le chemin
 extrait: Ô cueilleur de fleurs d’une vie antérieure, | En cette vie, vous
   êtes-vous transformé en vase ʔ
 featured: false
