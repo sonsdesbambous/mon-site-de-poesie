@@ -47,7 +47,7 @@ traductions:
       Pour chercher une personne
       Tuée dans la grande nuit,
       Le corps enfoui sous un buisson.
-extrait: Comme un rituel, | Un jardinier plante des rosiers | Avec de très beaux
+extrait: Comme un rituel, | Un individu plante des rosiers | Avec de très beaux
   outils de jardinage.
 featured: false
 date: 2026-06-28
