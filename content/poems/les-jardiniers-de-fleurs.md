@@ -29,7 +29,7 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Comme un rituel,
-      Un jardinier plante des rosiers
+      Un individu plante des rosiers
       Avec de très beaux outils de jardinage.
 
       Les rosiers fleurissent,
