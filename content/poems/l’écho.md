@@ -32,7 +32,7 @@ traductions:
       Et je dormis paisiblement jusqu’au déclin de l’orage.
       Le vieux nid dans le bambou au pignon, aux soirs de vent, 
       N’entend plus le bruit des ailes de retour,
-      Ni le chant limpide à chaque aurore.
+      Ni le gazouillis à chaque limpide aurore.
       L’oiseau mourut à ma porte, glacé,
       Qu’un chat du voisinage emporta,
       Laissant dans le nid des œufs,
