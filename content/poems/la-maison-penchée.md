@@ -4,6 +4,10 @@ title: La maison penchée
 auteur: Ly Hoàng Ly
 annee: "2001"
 genre: Poésie visuelle
+tags:
+  - allégorie
+  - surréalisme
+  - déséquilibre
 texte_vi: |-
   Ngôi nhà nằm nghiêng
   Trong ý thức của con người ngôi nhà phải nằm thẳng đứng
