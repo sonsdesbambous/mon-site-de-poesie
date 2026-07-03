@@ -49,7 +49,7 @@ traductions:
       Restent la fille
       Et les quatre murs
       Penchés
-extrait: Dans la conscience de l’homme la maison doit se tenir droite | Mais
+extrait: Dans la conscience de l’homme | la maison doit se tenir droite | Mais
   elle ne cesse de pencher
 featured: false
 date: 2026-07-03
