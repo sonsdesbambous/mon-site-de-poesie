@@ -46,12 +46,12 @@ traductions:
       Quand les corps sont déjà empâtés par les coups de couleur
 
       La spatule à peindre en main
-      Gratter le corps de chaque femme hors du tableau
+      Racler du tableau le corps de chaque femme
       Se voir soi-même se détacher en morceaux
       Sans douleur
 extrait: Les femmes | Vont et viennent dans un tableau carré | Des coups de
   couleur les engluent dans la peinture
 featured: false
 date: 2026-07-03
-draft: true
+draft: false
 ---
