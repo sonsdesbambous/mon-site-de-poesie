@@ -4,7 +4,10 @@ title: Les êtres du tableau
 auteur: Ly Hoàng Ly
 annee: "2001"
 genre: Poésie visuelle
-tags: []
+tags:
+  - enfermement
+  - aliénation
+  - existentialisme
 texte_vi: |-
   Những người đàn bà 
   Đi đi lại trong bức tranh khổ vuông 
