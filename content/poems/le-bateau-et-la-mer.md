@@ -86,7 +86,6 @@ traductions:
       Si un jour loin de moi tu partais,
       Il ne me resterait que l’ouragan.
 extrait: Un jour, dire lequel nul ne saurait, | Le bateau, à l’écoute de la mer,
-  | Se laissait mener de lieu en lieu | Par les albatros et les vagues bleues
 featured: false
 date: 2026-07-05
 draft: false
