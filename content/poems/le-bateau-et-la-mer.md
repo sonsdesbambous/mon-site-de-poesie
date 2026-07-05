@@ -58,7 +58,7 @@ traductions:
       Le bateau est empli d’aspirations,
       Et la mer d’une immense affection.
       Le bateau navigue sans fatigue,
-      La mer s’ouvre encore sur l’infini.
+      La mer s’ouvre encore... sur l’infini.
       	
       Les douces nuits baignées de lune,
       Comme une jeune fille, la mer
