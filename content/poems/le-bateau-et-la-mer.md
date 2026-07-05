@@ -49,7 +49,7 @@ traductions:
   - texte_fr: |-
       Je vais à l’instant te conter
       L’histoire du bateau et de la mer :
-      	
+
       « Un jour, dire lequel nul ne saurait, 
       Le bateau, à l’écoute de la mer,
       Se laissait mener de lieu en lieu
