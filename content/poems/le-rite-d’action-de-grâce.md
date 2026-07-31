@@ -40,7 +40,7 @@ traductions:
       Flotte à peine une vieille feuille de lotus,
       Nous attendant sur l’étendue des eaux paisibles.
       Ô cueilleur de fleurs d’une vie antérieure,
-      En cette vie, vous êtes-vous transformé en vase ?
+      En cette vie, seriez-vous transformé en vase ?
 
       Il faut creuser trois pieds sous terre
       Pour trouver celui avec qui partager l’alcool ;
