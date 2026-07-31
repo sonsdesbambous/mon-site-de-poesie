@@ -56,8 +56,8 @@ traductions:
       Le chemin
       　　  Le chemin
       　　　    　Le chemin
-extrait: Ô cueilleur de fleurs d’une vie antérieure, | En cette vie, vous
-  êtes-vous transformé en vase ʔ
+extrait: Ô cueilleur de fleurs d’une vie antérieure, | En cette vie, seriez-vous
+  transformé en vase ʔ
 featured: false
 date: 2026-06-27
 draft: false
