@@ -27,9 +27,9 @@ texte_vi: |-
   Hiu hiu từng bước phù vân kiếp tình.
 traductions:
   - texte_fr: |-
-      L’automne tombe doucement parmi les feuilles ;
+      L’automne tombe doucement parmi les feuilles,
       Une silhouette s’éloigne dans la mélancolie du soir.
-      On abandonne son âme à la solitude absolue ;
+      On abandonne son âme à la solitude absolue,
       Un souffle frisquet élève le cerf-volant au fil ténu.
 
       L’automne se rassemble dans une feuille maigre,
@@ -47,7 +47,7 @@ traductions:
       L’automne s’en va sans un bruit sous nos pas, 
       Chaque pas nostalgique de notre amour fugace.
 extrait: >
-  L’automne tombe doucement parmi les feuilles ; | Une silhouette s’éloigne dans
+  L’automne tombe doucement parmi les feuilles, | Une silhouette s’éloigne dans
   la mélancolie du soir.
 featured: false
 date: 2026-08-05
