@@ -50,6 +50,6 @@ extrait: >
   L’automne tombe doucement parmi les feuilles, | Une silhouette s’éloigne dans
   la mélancolie du soir.
 featured: false
-date: 2026-08-05
+date: 2026-08-06
 draft: true
 ---
