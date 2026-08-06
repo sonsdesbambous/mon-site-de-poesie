@@ -34,7 +34,7 @@ traductions:
 
       L’automne se rassemble dans une feuille maigre,
       Que l’on niche dans le caraco sans combler le rêve.
-      L’un s’en va, l’autre reste, dans la même langueur ;
+      L’une s’en va, l’autre reste, dans la même langueur ;
       La saison se teinte de désolation au bout des cieux.
 
       Écoutons chaque feuille qui chute en douceur,
