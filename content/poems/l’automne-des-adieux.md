@@ -46,9 +46,8 @@ traductions:
       Là-bas, quelqu’un serait-il auprès de... l’être de jadis ? 
       L’automne glisse doucement sous chacun des pas, 
       Les tristes pas d’un amour au destin de nuages fugaces.
-extrait: >
-  L’automne tombe doucement parmi les feuilles, | Une silhouette s’éloigne dans
-  la mélancolie du soir.
+extrait: L’automne tombe doucement parmi les feuilles, | Une silhouette
+  s’éloigne dans la mélancolie du soir
 featured: false
 date: 2026-08-06
 draft: false
