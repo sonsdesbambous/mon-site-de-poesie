@@ -45,7 +45,7 @@ traductions:
       Les brumes d’automne s’étendent à perte de vue ;
       Là-bas, quelqu’un serait-il auprès de... l’être de jadis ? 
       L’automne glisse doucement sous chacun des pas, 
-      Les tristes pas d’un destin d’amour de nuages fugaces.
+      Les tristes pas d’un amour au destin de nuages fugaces.
 extrait: >
   L’automne tombe doucement parmi les feuilles, | Une silhouette s’éloigne dans
   la mélancolie du soir.
