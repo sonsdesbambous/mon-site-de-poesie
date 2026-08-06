@@ -18,11 +18,11 @@ texte_vi: |-
 
   Lắng nghe từng chiếc lá rơi
   Xin ta đừng nếm vị đời chia ly
-  Trăm năm rồi nữa...thấy gì
+  Trăm năm rồi nữa... thấy gì
   Trăng soi dặm bước người đi muôn trùng
 
   Khói thu mờ ảo mịt mùng
-  Chốn xa biết có ai cùng ... cố nhân
+  Chốn xa biết có ai cùng... cố nhân
   Khẽ khàng thu dưới bàn chân
   Hiu hiu từng bước phù vân kiếp tình.
 traductions:
