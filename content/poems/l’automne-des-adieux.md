@@ -33,7 +33,7 @@ traductions:
       Un souffle frisquet élève le cerf-volant au fil ténu.
 
       L’automne se rassemble dans une feuille maigre,
-      Que l’on serre dans le caraco sans combler le rêve.
+      Que l’on niche dans le caraco sans combler le rêve.
       L’un s’en va, l’autre reste, dans la même langueur ;
       La saison se teinte de désolation au bout des cieux.
 
