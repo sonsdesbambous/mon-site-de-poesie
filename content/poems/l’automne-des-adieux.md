@@ -33,7 +33,7 @@ traductions:
       Un souffle frisquet élève le cerf-volant au fil ténu.
 
       L’automne se rassemble dans une feuille maigre,
-      Que l’on glisse dans le caraco sans combler le rêve.
+      Que l’on serre dans le caraco sans combler le rêve.
       L’un s’en va, l’autre reste, dans la même langueur ;
       La saison se teinte de désolation au bout des cieux.
 
@@ -43,9 +43,9 @@ traductions:
       La lune éclaire les pas de celle qui part pour toujours.
 
       Les brumes d’automne s’étendent à perte de vue ;
-      Là-bas, quelqu’un serait-il auprès de... ma mie ? 
-      L’automne s’en va sans un bruit sous nos pas, 
-      Chaque pas nostalgique de notre amour fugace.
+      Là-bas, quelqu’un serait-il auprès de... l’être de jadis ? 
+      L’automne glisse doucement sous chacun des pas, 
+      Les tristes pas d’un destin d’amour de nuages fugaces.
 extrait: >
   L’automne tombe doucement parmi les feuilles, | Une silhouette s’éloigne dans
   la mélancolie du soir.
