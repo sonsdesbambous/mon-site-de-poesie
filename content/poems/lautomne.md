@@ -44,7 +44,7 @@ traductions:
       Maintenant que l’automne est arrivé, que dire ?
       Et comment contenir colère puis chagrin ?
       Que l’on me cherche des fleurs prêtes à périr,
-      J’en saisirai un brin d'éclat de leur déclin !
+      J’en saisirai un brin d’éclat de leur déclin !
 
       Que l’on me cherche de tendres vers amoureux
       Dans les feuillets jaunis de ces recueils d’antan !
@@ -54,7 +54,7 @@ traductions:
       Ô Ciel ! Le désespoir assiège entièrement 
       Toutes mes pensées en plein royaume du Deuil !
 extrait: Que l’on me cherche des fleurs prêtes à périr, | J’en saisirai un brin
-  d'éclat de leur déclin
+  d’éclat de leur déclin
 featured: false
 date: 2026-08-07
 draft: false
