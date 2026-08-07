@@ -32,7 +32,7 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Ô vraiment ? L’automne est-il déjà de retour ?
-      Le dernier est parti il y a peu de jour !
+      Le dernier est parti il y a peu de jours !
       Naguère encore, les fleurs se craquelaient,
       Le soleil rose enlaçait les grands badamiers.
 
