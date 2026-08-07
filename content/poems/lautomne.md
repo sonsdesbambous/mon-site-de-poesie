@@ -57,5 +57,5 @@ extrait: Que l’on me cherche des fleurs prêtes à périr, | J’en tirerai un
   d'éclat de leur déclin
 featured: false
 date: 2026-08-07
-draft: true
+draft: false
 ---
