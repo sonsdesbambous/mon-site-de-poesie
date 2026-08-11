@@ -40,5 +40,5 @@ extrait: Quel est cet oiseau qui vole en vacillant ? | Mais c’en est fait ! Il
   s’égare dans le Néant
 featured: false
 date: 2026-08-11
-draft: true
+draft: false
 ---
