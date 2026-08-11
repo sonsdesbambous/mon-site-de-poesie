@@ -29,15 +29,15 @@ traductions:
 
       Ô Ciel bleu ! D’un bleu au-delà même des dires,
       Mon âme veut comprendre sans y parvenir.
-      Quel est cet oiseau qui vole en vacillant ?
+      Quel est cet oiseau qui vole tout en vacillant ?
       Mais c’en est fait ! Il s’égare dans le Néant !
 
       Regarde, le soleil fleurit en mille nuances
       Sur les larges feuilles d’une pureté frémissante !
       Regarde, le soleil enlace mille corps et formes,
       Et du joli livre ancien les vers débordent !
-extrait: Quel est cet oiseau qui vole en vacillant ? | Mais c’en est fait ! Il
-  s’égare dans le Néant
+extrait: Quel est cet oiseau qui vole tout en vacillant ? | Mais c’en est fait !
+  Il s’égare dans le Néant
 featured: false
 date: 2026-08-11
 draft: false
