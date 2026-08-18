@@ -1,6 +1,6 @@
 ---
 title_vi: Phục sinh màu lá
-title: La résurrection de la couleur des feuilles
+title: Résurrection couleur de feuille
 auteur: Đinh Thị Như Thúy
 annee: "2022"
 tags:
