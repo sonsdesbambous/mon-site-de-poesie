@@ -58,6 +58,6 @@ traductions:
 extrait: J’ai l’esprit en paix, | J’ai l’esprit agité, | Je suis devenue
   transparente à force de me taire si longtemps.
 featured: false
-date: 2026-08-17
-draft: true
+date: 2026-08-18
+draft: false
 ---
