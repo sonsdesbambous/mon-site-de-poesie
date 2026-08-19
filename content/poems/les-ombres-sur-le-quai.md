@@ -47,7 +47,7 @@ texte_vi: |-
   Những đôi mắt ướt nhìn đôi mắt,
   Buồn ở đâu hơn ở chốn này?
 
-  　 　　   　*
+  　 　　   　　*
   Tôi đã từng chờ những chuyến xe,
   Đã từng đưa đón kẻ đi về.
   Sao nhà ga ấy, sân ga ấy,
@@ -94,7 +94,7 @@ traductions:
       Des yeux mouillés de larmes fixent d’autres yeux,
       Serait-il tristesse plus grande qu’en ce lieu ?
 
-      　 　　   　* 
+      　 　　   　　　　* 
       Il m’arrivait d’attendre des trains, et aussi,
       D’accueillir, de réconduire proches et voyageurs.
       Pourquoi cette gare-là, comment ce quai-ci
