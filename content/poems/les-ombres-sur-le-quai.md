@@ -46,6 +46,7 @@ texte_vi: |-
   Những bàn tay vẫy những bàn tay,
   Những đôi mắt ướt nhìn đôi mắt,
   Buồn ở đâu hơn ở chốn này?
+
   　 　　   　*
   Tôi đã từng chờ những chuyến xe,
   Đã từng đưa đón kẻ đi về.
@@ -92,6 +93,7 @@ traductions:
       Des mains s’agitent au-devant d’autres mains,
       Des yeux mouillés de larmes fixent d’autres yeux,
       Serait-il tristesse plus grande qu’en ce lieu ?
+
       　 　　   　* 
       Il m’arrivait d’attendre des trains, et aussi,
       D’accueillir, de réconduire proches et voyageurs.
