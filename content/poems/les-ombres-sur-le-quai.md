@@ -80,7 +80,7 @@ traductions:
       « Garde-la, ma chérie, rentre entretenir maman ! »
 
       Un jour, j’ai vu une pauvre vieille mère,
-      Semblant mener son fils aux lointaines frontières.
+      Mener son fils soldat aux lointaines frontières.
       Le train déjà bien parti, debout elle restait,
       Son dos voûté jetant une ombre sur le quai.
 
