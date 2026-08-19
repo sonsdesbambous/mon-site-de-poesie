@@ -101,9 +101,8 @@ traductions:
       D’accueillir, de réconduire proches et voyageurs.
       Pourquoi cette gare-là, comment ce quai-ci
       Ne laissent-ils rien d’autre que la marque des adieux ?
-extrait: >
-  Le train déjà bien parti, debout elle restait, | Son dos voûté jetant une
-  ombre sur le quai.
+extrait: Le train déjà bien parti, debout elle restait, | Son dos voûté jetant
+  une ombre sur le quai
 featured: false
 date: 2026-08-19
 draft: false
