@@ -28,7 +28,7 @@ traductions:
       Dehors, les deux familles s’en donnent à cœur joie,
       Elle minaude encore : « Je ne vais nulle part ! »
 
-      Malgré ce « nulle part », on la voit quand même partir.
+      Malgré ce « nulle part », on la voit quand même partir ;
       Au deuxième jour des noces, elle cesse de pleurer.
       À partir de là, mis à part les jours du Têt,
       C’est rarement qu’on la voit par ici revenir.
