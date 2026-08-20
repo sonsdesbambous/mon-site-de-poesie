@@ -26,7 +26,7 @@ texte_vi: |-
   Hương đồng gió nội bay đi ít nhiều.
 traductions:
   - texte_fr: |-
-      Hier, de la ville enfin tu es rentrée ;
+      Hier, de la ville enfin tu es rentrée,
       Sur la digue au seuil du village, je t’attendais.
       Foulard en velours, pantalon satiné, quel éclat !
       Chemisier à boutons, tu m’importunes hélas.
