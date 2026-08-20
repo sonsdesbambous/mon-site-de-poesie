@@ -33,7 +33,7 @@ traductions:
       À partir de là, mis à part les jours du Têt,
       C’est rarement qu’on la voit par ici revenir.
 
-      Au printemps suivant, elle porte un garçon dans ses bras.
+      Au printemps suivant, elle porte un garçon dans ses bras ;
       Par jeu, je lui rappelle cette ancienne histoire :
       « Ainsi, tu ne voulais aller nulle part, n’est-ce pas ? »
       « Maudit sois-tu d’avoir une si bonne mémoire ! »
