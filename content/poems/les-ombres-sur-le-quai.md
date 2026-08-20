@@ -61,7 +61,7 @@ traductions:
 
       Un jour, j’ai vu deux fillettes pleines de charme,
       Joue contre joue, elles pleuraient à chaudes larmes,
-      Deux ombres dos à dos en une seule unies :
+      Deux ombres aux dos accolés en une seule unies :
       « Le chemin de ta maison est bien loin, mon amie ? »
 
       Un jour, j’ai vu deux êtres amoureux,
