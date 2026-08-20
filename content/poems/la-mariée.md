@@ -5,6 +5,7 @@ auteur: Nguyễn Bính
 annee: "1936"
 tags:
   - amusement
+  - mariage
 texte_vi: |-
   Trong buồng một mẹ một cô dâu
   Tôi nhác trông cô mắt đỏ ngầu
@@ -43,5 +44,5 @@ extrait: "Dehors, les deux familles s’en donnent à cœur joie, | Elle minaude
   encore : « Je ne vais nulle part ! »"
 featured: false
 date: 2026-08-20
-draft: true
+draft: false
 ---
