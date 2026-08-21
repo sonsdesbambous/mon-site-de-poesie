@@ -86,7 +86,7 @@ traductions:
 
       Un jour, j’ai vu un homme partir vers l’horizon,
       Sans que l’on sache pourquoi, ni ce qu’il pensait !
-      Des pas indifférents suivant une ombre isolée,
+      Des pas nonchalants suivant une ombre isolée,
       À lui seul, il faisait toute la séparation.
 
       Les mouchoirs colorés volent d’un vif chagrin,
