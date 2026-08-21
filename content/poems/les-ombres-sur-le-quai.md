@@ -90,7 +90,7 @@ traductions:
       À lui seul, il faisait toute la séparation.
 
       Les mouchoirs colorés volent d’un vif chagrin,
-      Des mains s’agitent au-devant d’autres mains,
+      Des mains tremblantes s’agitent au-devant d’autres mains,
       Des yeux mouillés de larmes fixent d’autres yeux,
       Serait-il tristesse plus grande qu’en ce lieu ?
 
