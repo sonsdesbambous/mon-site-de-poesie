@@ -92,7 +92,7 @@ traductions:
       Les mouchoirs colorés volent d’un vif chagrin,
       Des mains tremblantes s’agitent au-devant d’autres mains,
       Des yeux mouillés de larmes fixent d’autres yeux,
-      Serait-il tristesse plus grande qu’en ce lieu ?
+      Y aurait-il tristesse plus grande qu’en ce lieu ?
 
       　 　　   　　　　* 
       Il m’arrivait d’attendre des trains, et aussi,
