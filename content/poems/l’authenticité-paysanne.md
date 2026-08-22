@@ -28,8 +28,8 @@ traductions:
   - texte_fr: |-
       Hier, de la ville enfin tu es rentrée,
       Sur la digue au seuil du village, je t’attendais.
-      Foulard en velours, pantalon satiné, quel éclat !
-      Chemisier à boutons, tu m’importunes hélas.
+      Foulard en velours, pantalon de satin, pleins d'éclat ;
+      Chemisier à boutons, tu m’importunes hélas !
       Où est passée la camisole en filoselle d’autrefois ?
       La ceinture en soie brute teinte au retour du printemps ?
       Où est passée la tunique à quatre pans ?
