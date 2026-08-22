@@ -24,7 +24,7 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Dans la chambre, seules la mère et la mariée,
-      J’aperçois chez elle des yeux tout embués.
+      J’aperçois chez la fille des yeux tout embués.
       Dehors, les deux familles s’en donnent à cœur joie,
       Elle minaude encore : « Je ne vais nulle part ! »
 
