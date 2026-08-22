@@ -52,5 +52,5 @@ traductions:
       vietnamiennes, en offrande aux défunts."
 featured: false
 date: 2026-08-22
-draft: true
+draft: false
 ---
