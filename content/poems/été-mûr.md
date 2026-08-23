@@ -34,6 +34,6 @@ traductions:
 extrait: Tu es le soleil marin, ardent et fiévreux, | Ma voile éprise navigue
   d’îlet en îlet
 featured: false
-date: 2026-08-19
-draft: true
+date: 2026-08-23
+draft: false
 ---
