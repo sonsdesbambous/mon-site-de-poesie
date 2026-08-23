@@ -49,9 +49,9 @@ traductions:
       Le réveil est agité et le sommeil suspendu,
       Notre bonheur semble aussi fragile qu’un fil de pluie.
 
-      Cette mélodie d’hier, cette musique harmonieuse,
-      Notre enfance fut le plus doux des refuges.
-      Bien que la vie promette changements et lassitude,
+      Ce refrain d’autrefois, cette musique harmonieuse,
+      Fit de notre enfance le plus doux des refuges.
+      La vie a beau promettre changements et lassitude,
       Tête contre tête, nous nous donnons aux berceuses.
 
       Sans être de ceux qui oublient, mon cœur redoute
@@ -60,7 +60,7 @@ traductions:
       Et tes yeux ne garderaient plus leur couleur de jadis.
 
       Ma seule inquiétude est qu’il pleuve un jour, 
-      Pauvre jardin aux branches brisées et aux fruits tombés !
+      Pauvre jardin aux rameaux brisés, aux fruits tombés !
       Mes larmes coulent sans fin devant ta robe mouillée,
       Que deviendrons-nous demain, ô mon tendre amour ?
 featured: false
