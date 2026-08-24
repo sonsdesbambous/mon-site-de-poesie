@@ -55,8 +55,8 @@ traductions:
       Tête contre tête, nous nous donnons aux berceuses.
 
       Sans être de ceux qui oublient, mon cœur redoute
-      Qu’avec le vent, la pluie ne devance la saison ;
-      À leur tour, la flore et l’homme changeraient aussi,
+      Qu’avec le vent, la pluie ne détourne la saison ;
+      En écho, la flore et l’homme changeraient aussi,
       Et tes yeux ne garderaient plus leur couleur de jadis.
 
       Ma seule inquiétude est qu’il pleuve un jour, 
