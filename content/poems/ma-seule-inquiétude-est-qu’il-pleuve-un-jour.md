@@ -46,8 +46,8 @@ traductions:
 
       La pluie dérobe soudain la lumière du jour,
       Le chemin s’assombrit dans un écheveau de soucis ;
-      Le réveil est agité et le sommeil suspendu,
-      Notre bonheur semble aussi fragile qu’un fil de pluie.
+      On se réveille agité d'un sommeil suspendu,
+      Le bonheur semble aussi fragile qu’un fil de pluie.
 
       Ce refrain d’autrefois, cette musique harmonieuse,
       Fit de notre enfance le plus doux des refuges.
