@@ -56,7 +56,7 @@ traductions:
 
       Sans être de ceux qui oublient, mon cœur redoute
       Qu’avec le vent, la pluie ne devance la saison ;
-      Alors la flore et l’homme changeraient aussi,
+      À leur tour, la flore et l’homme changeraient aussi,
       Et tes yeux ne garderaient plus leur couleur de jadis.
 
       Ma seule inquiétude est qu’il pleuve un jour, 
