@@ -37,7 +37,7 @@ traductions:
       Ma seule inquiétude est qu’il pleuve un jour,
       Effaçant à jamais tes promesses d’amour ;
       Les nuages couvrent le ciel qui perd son azur,
-      La lumière n’a plus sa limpidité de l’aurore.
+      La lumière n’a plus la limpidité de l’aurore.
 
       Une averse succède à la bruine persistante,
       Effaçant même les traces de tes pas d’antan ;
