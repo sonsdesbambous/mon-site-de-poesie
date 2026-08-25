@@ -49,7 +49,7 @@ traductions:
 
       La pluie dérobe soudain la lumière du jour,
       Le chemin s’assombrit dans un écheveau de soucis ;
-      On se réveille agité d'un sommeil suspendu,
+      On se réveille agité d’un sommeil suspendu,
       Le bonheur semble aussi fragile qu’un fil de pluie.
 
       Ce refrain d’autrefois, cette musique harmonieuse,
