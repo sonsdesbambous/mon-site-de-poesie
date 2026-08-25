@@ -2,6 +2,9 @@
 title_vi: Anh chỉ sợ rồi trời sẽ mưa
 title: Ma seule inquiétude est qu’il pleuve un jour
 auteur: Lưu Quang Vũ
+tags:
+  - amour
+  - fragilité
 texte_vi: |-
   Anh chỉ sợ rồi trời sẽ mưa
   Xoá nhoà hết những điều em hứa
@@ -64,6 +67,6 @@ traductions:
       Mes larmes coulent sans fin devant ta robe mouillée,
       Que deviendrons-nous demain, ô mon tendre amour ?
 featured: false
-date: 2026-08-24
-draft: true
+date: 2026-08-25
+draft: false
 ---
