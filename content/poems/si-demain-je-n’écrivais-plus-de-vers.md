@@ -3,6 +3,9 @@ title_vi: Nếu ngày mai em không làm thơ nữa
 title: Si demain je n’écrivais plus de vers
 auteur: Xuân Quỳnh
 annee: "1967"
+tags:
+  - écriture
+  - réflexion
 texte_vi: |-
   Nếu ngày mai em không làm thơ nữa
   Cuộc sống trở về bình yên
