@@ -9,7 +9,7 @@ bio: Né en 1948 dans la province de Phú Thọ, Lưu Quang Vũ est l’une des 
   les plus marquantes de la littérature vietnamienne de la seconde moitié du XXᵉ
   siècle. Poète, dramaturge et écrivain, il s’est d’abord fait connaître par une
   poésie profondément personnelle, traversée par l’amour, la solitude et le
-  désir d’une vie plus authentique — une sensibilité qu’il partage avec son
+  désir d’une vie plus authentique – une sensibilité qu’il partage avec son
   épouse, la poétesse Xuân Quỳnh, l’une des grandes voix de la poésie
   vietnamienne moderne. À partir des années 1980, son théâtre connaît un immense
   succès et fait de lui l’un des dramaturges les plus influents de son époque,
