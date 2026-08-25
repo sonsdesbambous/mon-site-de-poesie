@@ -80,6 +80,6 @@ traductions:
 extrait: Je tiendrais à rendre à l’infini ce ciel bleu, | Dont la couleur aurait
   disparu du fond de mes yeux
 featured: false
-date: 2026-08-24
-draft: true
+date: 2026-08-25
+draft: false
 ---
