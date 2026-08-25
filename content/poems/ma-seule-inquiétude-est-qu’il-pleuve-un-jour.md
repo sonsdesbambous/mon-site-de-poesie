@@ -66,6 +66,8 @@ traductions:
       Pauvre jardin aux rameaux brisés, aux fruits tombés !
       Mes larmes coulent sans fin devant ta robe mouillée,
       Que deviendrons-nous demain, ô mon tendre amour ?
+extrait: On se réveille agité d'un sommeil suspendu, | Le bonheur semble aussi
+  fragile qu’un fil de pluie
 featured: false
 date: 2026-08-25
 draft: false
