@@ -47,7 +47,7 @@ traductions:
       Le rêve du bouffon :
       Se voir millionnaire,
       Arlequin démuni qu’il est
-      S’allonge derrière le rideau de velours, tout souriant.
+      S’allonge derrière le rideau de velours, le sourire aux lèvres.
 
       Le rêve du chanteur de rue épuisé :
       S’éveiller dans un palais éblouissant ;
@@ -73,7 +73,7 @@ traductions:
 
       Rêver de toi, pure et fraîche
       Comme au jour de tes seize ans ;
-      Rêver d’êtres humains, partout sur la terre,
+      Rêver d’êtres humains, à travers la terre,
       Se donnant la main.
 
       Arlequin miséreux
