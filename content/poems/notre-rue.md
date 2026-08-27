@@ -55,7 +55,7 @@ traductions:
       Notre rue,
       Les pommiers fleurissent,
       C’est l’automne,
-      Les troncs de l’arbre se pèlent,
+      Les troncs des arbres se pèlent,
       Les ruelles pavées
       S’inclinent dans la brume du soir.
 
