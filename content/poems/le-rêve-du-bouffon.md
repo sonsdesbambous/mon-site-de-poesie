@@ -46,8 +46,8 @@ traductions:
   - texte_fr: |-
       Le rêve du bouffon :
       Se voir millionnaire,
-      Arlequin démuni qu’il est
-      S’allonge derrière le rideau de velours, le sourire aux lèvres.
+      Arlequin démuni
+      S’allongerait derrière le rideau de velours, le sourire aux lèvres.
 
       Le rêve du chanteur de rue épuisé :
       S’éveiller dans un palais éblouissant ;
@@ -73,7 +73,7 @@ traductions:
 
       Rêver de toi, pure et fraîche
       Comme au jour de tes seize ans ;
-      Rêver d’êtres humains, à travers la terre,
+      Rêver des êtres humains sur la terre
       Se donnant la main.
 
       Arlequin miséreux
@@ -85,6 +85,6 @@ traductions:
 extrait: La vie est le rivage, | Les rêves sont l’océan, | Il n’y a pas de
   rivage sans le grand large
 featured: false
-date: 2026-08-27
-draft: true
+date: 2026-08-28
+draft: false
 ---
