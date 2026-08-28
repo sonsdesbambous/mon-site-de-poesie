@@ -98,6 +98,6 @@ traductions:
 extrait: Si la vie n’était que laideur, | Pourquoi le pommier fleurirait-il ? |
   Pourquoi le ruisselet serait-il si clair ʔ
 featured: false
-date: 2026-08-25
+date: 2026-08-28
 draft: false
 ---
