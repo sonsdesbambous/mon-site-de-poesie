@@ -62,7 +62,7 @@ traductions:
       Se dresser en sérénité sous le soleil.
 
       Les rêves nocturnes rachètent le jour ;
-      Dans l’illusion, on vit sa part la plus vraie.
+      Dans l’illusion se vit la part la plus vraie.
       L’inaccessible
       Pousse l’humanité
       À tendre vers l’atteignable.
@@ -88,6 +88,6 @@ traductions:
 extrait: La vie est le rivage, | Les rêves sont l’océan, | Il n’y a pas de
   rivage sans le grand large
 featured: false
-date: 2026-08-28
+date: 2026-08-29
 draft: false
 ---
