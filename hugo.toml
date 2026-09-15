@@ -6,7 +6,8 @@ removePathAccents = true
 [pagination]
   pagerSize = 20
 [params]
-  description = "Poésie vietnamienne en résonance française"
+  description = "Poésie vietnamienne traduite en français — traductions personnelles de poèmes vietnamiens classiques et contemporains."
+  keywords = "poésie vietnamienne, poèmes vietnamiens, traduction poésie vietnamienne, thơ Việt Nam en français"
   author = "Sons des Bambous"
 
 [taxonomies]
