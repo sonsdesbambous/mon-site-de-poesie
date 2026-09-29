@@ -5,9 +5,8 @@ auteur: Hàn Mặc Tử
 annee: "1936"
 tags:
   - nature
-  - pudeur
+  - amour
   - symbolisme
-  - rêverie
 texte_vi: |-
   Trăng nằm sóng soải trên cành liễu
   Đợi gió đông về để lả lơi...
