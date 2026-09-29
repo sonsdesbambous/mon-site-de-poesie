@@ -5,7 +5,8 @@ auteur: Phùng Quán
 annee: ""
 genre: ""
 tags:
-  - Humanité
+  - humanité
+  - critique sociale
 texte_vi: |-
   Trong trăm nghìn nỗi đói
   Tôi nếm trải cả rồi
