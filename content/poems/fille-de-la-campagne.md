@@ -6,7 +6,6 @@ annee: "1936"
 tags:
   - amour
   - lyrisme
-  - enfance
 texte_vi: |-
   Xuân trẻ, xuân non, xuân lịch sự
   Tôi đều nhận thấy trên môi em
