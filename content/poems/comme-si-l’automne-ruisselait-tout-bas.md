@@ -4,8 +4,8 @@ title: Comme si l’automne ruisselait tout bas...
 auteur: Thái Anh
 annee: "2006"
 tags:
-  - automne
-  - dalat
+  - nature
+  - rêverie
 texte_vi: |-
   Như có thể cầm mơ lên tay
   trái chín mọng ngập hàm răng thiếu nữ
