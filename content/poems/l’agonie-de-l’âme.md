@@ -4,8 +4,8 @@ title: L’agonie de l’âme
 auteur: Hàn Mặc Tử
 annee: "1937"
 tags:
-  - agonie
-  - lyrisme
+  - amour
+  - mélancolie
 texte_vi: |-
   Máu đã khô rồi thơ cũng khô
   Tình ta chết yểu tự bao giờ!
