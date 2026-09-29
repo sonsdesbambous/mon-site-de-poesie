@@ -6,8 +6,6 @@ annee: "1962"
 tags:
   - amour
   - lyrisme
-  - métaphore
-  - romantisme
 texte_vi: |-
   Anh không xứng là biển xanh 
   Nhưng anh muốn em là bờ cát trắng 
