@@ -4,9 +4,8 @@ title: Chaque fenêtre
 auteur: Thái Anh
 annee: "2006"
 tags:
-  - savoir
-  - éveil
-  - conscience
+  - quête de soi
+  - philosophie
 texte_vi: |-
   Từng ô cửa
   mở ra
