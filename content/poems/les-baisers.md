@@ -4,9 +4,8 @@ title: Les baisers
 auteur: Phùng Quán
 annee: "1956"
 tags:
-  - Amour
-  - Guerre
-  - Dignité
+  - amour
+  - humanité
 texte_vi: |-
   Trời đã sinh ra em 
   Ðể mà xinh mà đẹp 
