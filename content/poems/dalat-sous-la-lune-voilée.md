@@ -6,8 +6,7 @@ annee: "1937"
 tags:
   - nature
   - rêverie
-  - symbolisme
-  - cosmique
+  - spiritualité
 texte_vi: |-
   Đây phút thiêng liêng đã khởi đầu:
   Trời mơ trong cảnh thực huyền mơ!
