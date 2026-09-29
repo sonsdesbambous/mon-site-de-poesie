@@ -5,7 +5,7 @@ auteur: Lưu Quang Vũ
 annee: "1970"
 tags:
   - espoir
-  - vie quotidienne
+  - nostalgie
 texte_vi: |-
   Phố của ta
   Những cây táo nở hoa
