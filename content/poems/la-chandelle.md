@@ -5,7 +5,7 @@ auteur: Vũ Đình Hạnh
 annee: "1993"
 tags:
   - philosophie
-  - quête de soi
+  - allégorie
 texte_vi: |-
   Biết chắt hương từ mưa
   Biết lọc màu từ nắng
