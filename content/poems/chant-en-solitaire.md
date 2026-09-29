@@ -5,6 +5,7 @@ auteur: Xuân Quỳnh
 tags:
   - amour
   - lyrisme
+  - solitude
 texte_vi: |-
   Chả dại gì em ước nó bằng vàng,
   Trái tim em anh đã từng biết đấy.
