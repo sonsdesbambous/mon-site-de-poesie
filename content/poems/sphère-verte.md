@@ -6,6 +6,7 @@ annee: "2011"
 genre: ""
 tags:
   - amour
+  - lyrisme
 texte_vi: |-
   Em không biết có một dòng sông
   Dòng sông chảy xiết, dòng sông cuồng nhiệt
