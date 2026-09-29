@@ -4,6 +4,7 @@ title: Nostalgie du vent
 auteur: Đinh Thị Như Thúy
 annee: "2009"
 tags:
+  - nostalgie
   - crise intérieure
 texte_vi: |-
   Ngày bất động ghim chặt thế giới vào khung tranh cũ nát
