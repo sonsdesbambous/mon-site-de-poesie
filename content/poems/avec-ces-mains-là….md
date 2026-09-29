@@ -5,8 +5,7 @@ auteur: Xuân Diệu
 annee: "1938"
 tags:
   - amour
-  - mélancolie
-  - souvenir
+  - mémoire
 texte_vi: |-
   Với bàn tay ấy ở trong tay,
   Tôi đã nguôi quên hận tháng ngày,
