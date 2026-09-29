@@ -5,6 +5,7 @@ auteur: Xuân Diệu
 annee: "1938"
 tags:
   - fuite du temps
+  - nature
 texte_vi: |-
   Khi mai dậy sớm, trời êm ái,
   Cửa sổ thênh thang mở gió hồ:
