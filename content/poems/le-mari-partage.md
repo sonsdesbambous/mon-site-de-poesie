@@ -5,9 +5,8 @@ auteur: Hồ Xuân Hương
 annee: ""
 genre: Poème classique
 tags:
-  - réalisme
-  - souffrance
   - condition féminine
+  - critique sociale
 texte_vi: |-
   Chém cha cái kiếp lấy chồng chung
   Kẻ đắp chăn bông kẻ lạnh lùng 
