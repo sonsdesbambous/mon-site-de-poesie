@@ -4,8 +4,8 @@ title: Les ananas sauvages
 auteur: Xuân Quỳnh
 annee: "1963"
 tags:
-  - Philosophie
-  - Nature
+  - nature
+  - philosophie
 texte_vi: |-
   Ở đảo này cũng như những đảo xa
   Dứa dại mọc men theo bờ cát
