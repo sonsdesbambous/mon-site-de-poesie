@@ -5,9 +5,8 @@ auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poésie contemporaine
 tags:
-  - Amour
-  - Musique
-  - Hanoï
+  - amour
+  - art
 texte_vi: |-
   Thế rồi ngọn nến cháy
   Thế rồi đôi môi run
