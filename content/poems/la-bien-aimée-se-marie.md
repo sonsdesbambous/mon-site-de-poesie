@@ -47,7 +47,7 @@ traductions:
       Elle se marie, c’est la fin de tous mes rêves...
       Je partirai trouver un rocher blanc,
       M’y asseoir, et lâcher mon âme poétique...
-extrait: La bien-aimée est, pour moi, un poème, | Qui peut être douce, sérieuse
+extrait: La bien-aimée est, pour moi, un poème, | Tantôt douce, tantôt sérieuse
   ou coquette
 featured: false
 date: 2026-06-14
