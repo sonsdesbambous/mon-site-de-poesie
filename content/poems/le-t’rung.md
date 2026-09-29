@@ -4,8 +4,8 @@ title: Le T’rung
 auteur: Huy Cận
 annee: ""
 tags:
-  - musique
-  - patrie
+  - art
+  - tradition
 texte_vi: |-
   Nứa anh đem phơi nắng 
   Chính ửng mặt trời hồng 
