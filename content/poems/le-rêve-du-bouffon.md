@@ -3,8 +3,8 @@ title_vi: Giấc mơ của anh hề
 title: Le rêve du bouffon
 auteur: Lưu Quang Vũ
 tags:
-  - rêverie
   - espoir
+  - rêverie
 texte_vi: |-
   Giấc mơ của anh hề
   Thấy mình thành triệu phú
