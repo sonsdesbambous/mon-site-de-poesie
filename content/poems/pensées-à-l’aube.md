@@ -5,9 +5,8 @@ auteur: Đinh Thị Như Thúy
 annee: "2005"
 genre: Poème contemporain
 tags:
-  - méditation
-  - lyrisme
   - nature
+  - quête de soi
 texte_vi: |-
   Ban mai thuộc về tôi
   Con chim sẻ xù lông trên gờ tường rêu ướt
