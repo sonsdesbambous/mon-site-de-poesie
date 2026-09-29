@@ -2,6 +2,9 @@
 title_vi: Ánh sáng này...
 title: Cette lumière...
 auteur: Trương Đăng Dung
+tags:
+  - amour
+  - lyrisme
 texte_vi: |-
   Ánh sáng này từ mắt em
   ánh sáng này từ môi em
