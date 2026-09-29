@@ -4,7 +4,8 @@ title: Si un jour
 auteur: Thanh Tịnh
 annee: "1936"
 tags:
-  - Famille
+  - famille
+  - mélancolie
 texte_vi: |-
   Rồi một hôm, nếu về, cha hỏi:
   Mẹ ở đâu? con biết nói sao?
