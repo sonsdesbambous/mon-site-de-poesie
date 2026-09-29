@@ -3,8 +3,8 @@ title_vi: Đây mùa thu tới
 title: Voici l’automne arrivé
 auteur: Xuân Diệu
 tags:
-  - Nature
-  - Mélancolie
+  - nature
+  - mélancolie
 texte_vi: |-
   Rặng liễu đìu hiu đứng chịu tang,
   Tóc buồn buông xuống lệ ngàn hàng;
