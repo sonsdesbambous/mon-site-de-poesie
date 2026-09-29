@@ -4,7 +4,7 @@ title: Dans le jardin sauvage
 auteur: Đinh Thị Như Thúy
 annee: "2018"
 tags:
-  - introspection
+  - quête de soi
   - symbolisme
 texte_vi: |-
   Tắm gội bằng màu xanh cỏ cây
