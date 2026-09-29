@@ -4,8 +4,8 @@ title: Automne
 auteur: Thái Anh
 annee: "2005"
 tags:
-  - fragilité
-  - silence
+  - nature
+  - mélancolie
   - symbolisme
 texte_vi: |-
   1.
