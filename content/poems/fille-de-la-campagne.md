@@ -4,8 +4,9 @@ title: Fille de la campagne
 auteur: Hàn Mặc Tử
 annee: "1936"
 tags:
-  - jeunesse
+  - amour
   - lyrisme
+  - enfance
 texte_vi: |-
   Xuân trẻ, xuân non, xuân lịch sự
   Tôi đều nhận thấy trên môi em
