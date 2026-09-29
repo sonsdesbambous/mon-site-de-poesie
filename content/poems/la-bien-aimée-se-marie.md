@@ -5,7 +5,7 @@ auteur: Hàn Mặc Tử
 annee: "1936"
 tags:
   - amour
-  - lyrisme
+  - mélancolie
 texte_vi: |-
   Ngày mai xác thịt của người em,
   Sẽ có bàn tay lạ khác kềm,
