@@ -4,8 +4,7 @@ title: Ode du jeune cheval
 auteur: Trần Lê Sơn Ý
 annee: "2006"
 tags:
-  - éveil
-  - liberté
+  - humanité
   - quête de soi
 texte_vi: |-
   Nào thức dậy đi, hỡi những tháng ngày cô quạnh nhất
