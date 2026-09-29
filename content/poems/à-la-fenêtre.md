@@ -4,8 +4,8 @@ title: À la fenêtre
 auteur: Nguyễn Minh Hùng
 annee: "2006"
 tags:
-  - enfance
   - nostalgie
+  - philosophie
 texte_vi: |-
   Đàn bò ăn ngon lành từng vạt nắng chiều
   chiều im bên sông, sông lặng bên đồng
