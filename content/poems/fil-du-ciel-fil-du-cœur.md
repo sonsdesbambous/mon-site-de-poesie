@@ -4,7 +4,7 @@ title: Fil du ciel, fil du cœur
 auteur: Thanh Tịnh
 annee: "1936"
 tags:
-  - destin
+  - amour
   - nostalgie
 texte_vi: |-
   Còn nhớ hôm xưa độ tháng này
