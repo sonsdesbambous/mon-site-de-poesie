@@ -3,6 +3,9 @@ title_vi: Chân trời
 title: Horizon
 auteur: Trương Đăng Dung
 annee: "1994"
+tags:
+  - philosophie
+  - rêverie
 texte_vi: |-
   Thấy không em đường chân trời trước mặt?
   anh đã từng đến đó trong mơ.
