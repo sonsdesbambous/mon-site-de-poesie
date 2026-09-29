@@ -4,6 +4,7 @@ title: Été mûr
 auteur: Huy Cận
 tags:
   - amour
+  - nature
 texte_vi: |-
   Thân hình em là một mùa hạ chín
   Anh như cây ngàn phủ bóng lên em
