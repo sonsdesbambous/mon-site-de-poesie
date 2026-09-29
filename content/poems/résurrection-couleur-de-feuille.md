@@ -4,8 +4,8 @@ title: Résurrection couleur de feuille
 auteur: Đinh Thị Như Thúy
 annee: "2022"
 tags:
-  - allégorie
-  - résurrection
+  - spiritualité
+  - symbolisme
 texte_vi: |-
   Tôi là mưa một buổi sáng cuối mùa
   Trong căn phòng khép kín cửa
