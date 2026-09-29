@@ -4,7 +4,7 @@ title: Le rite d’action de grâce
 auteur: Nguyễn Quang Thiều
 tags:
   - spiritualité
-  - transcendance
+  - symbolisme
 texte_vi: |-
   Con đường
   　  　Con đường
