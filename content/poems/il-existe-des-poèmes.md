@@ -4,7 +4,7 @@ title: Il existe des poèmes
 auteur: Xuân Diệu
 annee: "1938"
 tags:
-  - poésie
+  - art
   - symbolisme
 texte_vi: |-
   Hãy ngó sâu vào tận mắt anh,
