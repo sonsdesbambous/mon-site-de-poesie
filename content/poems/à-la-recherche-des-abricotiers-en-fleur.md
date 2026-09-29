@@ -4,8 +4,8 @@ title: À la recherche des abricotiers en fleur
 auteur: Thái Anh
 annee: "2006"
 tags:
-  - printemps
-  - contemplation
+  - nature
+  - quête de soi
 texte_vi: |-
   Mùa xuân lên núi tìm mai
   Núi ừ chót vót – chân trai đá mòn
