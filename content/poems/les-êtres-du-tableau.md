@@ -5,7 +5,7 @@ auteur: Ly Hoàng Ly
 annee: "2001"
 genre: Poésie visuelle
 tags:
-  - solitude
+  - condition féminine
   - existentialisme
 texte_vi: |-
   Những người đàn bà 
