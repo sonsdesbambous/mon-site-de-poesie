@@ -5,7 +5,7 @@ auteur: Hàn Mặc Tử
 annee: "1937"
 tags:
   - amour
-  - mélancolie
+  - souffrance
 texte_vi: |-
   Máu đã khô rồi thơ cũng khô
   Tình ta chết yểu tự bao giờ!
