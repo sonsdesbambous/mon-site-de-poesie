@@ -4,7 +4,7 @@ title: L'appel
 auteur: Nguyễn Quang Thiều
 tags:
   - solitude
-  - surréalisme
+  - rêverie
 texte_vi: |-
   Chuông điện thoại réo vang
   lúc ba giờ sáng
