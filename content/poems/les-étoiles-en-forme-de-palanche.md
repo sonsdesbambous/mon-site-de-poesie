@@ -4,8 +4,8 @@ title: Les étoiles en forme de palanche
 auteur: Nguyễn Phan Quế Mai
 annee: "2010"
 tags:
-  - condition humaine
-  - compassion
+  - humanité
+  - condition féminine
 texte_vi: >-
   Họ gánh về cho tôi mùa ổi mùa xoài mùa mận
 
