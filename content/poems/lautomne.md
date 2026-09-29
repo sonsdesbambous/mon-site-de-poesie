@@ -4,7 +4,7 @@ title: L'automne
 auteur: Chế Lan Viên
 annee: "1937"
 tags:
-  - automne
+  - nature
   - fuite du temps
 texte_vi: |-
   Chao ôi! Thu đã tới rồi sao?
