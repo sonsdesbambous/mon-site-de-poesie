@@ -4,7 +4,8 @@ title: Lecture dans la bananeraie
 auteur: Chế Lan Viên
 annee: "1937"
 tags:
-  - lecture
+  - art
+  - nature
 texte_vi: |-
   Ta nằm đọc sách trong vườn chuối
   Chim khách trên nhành hót líu lo
