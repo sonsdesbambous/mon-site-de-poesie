@@ -5,6 +5,7 @@ auteur: Nguyễn Bính
 annee: "1938"
 tags:
   - amour
+  - rêverie
 texte_vi: |-
   Năm xưa chở chiếc thuyền này,
   Cho cô sang bãi tước đay chiều chiều.
