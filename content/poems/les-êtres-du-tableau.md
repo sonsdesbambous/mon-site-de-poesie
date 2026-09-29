@@ -5,8 +5,7 @@ auteur: Ly Hoàng Ly
 annee: "2001"
 genre: Poésie visuelle
 tags:
-  - enfermement
-  - aliénation
+  - solitude
   - existentialisme
 texte_vi: |-
   Những người đàn bà 
