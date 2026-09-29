@@ -3,9 +3,8 @@ title_vi: Ghen
 title: La jalousie
 auteur: Nguyễn Bính
 tags:
-  - lyrisme
   - amour
-  - jalousie
+  - lyrisme
 texte_vi: |-
   Cô nhân tình bé của tôi ơi
   Tôi muốn môi cô chỉ mỉm cười
