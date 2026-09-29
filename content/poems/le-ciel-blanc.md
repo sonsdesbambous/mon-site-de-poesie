@@ -4,8 +4,8 @@ title: Le ciel blanc
 auteur: Nguyễn Phan Quế Mai
 annee: "2011"
 tags:
-  - injustice
-  - impuissance
+  - humanité
+  - critique sociale
 texte_vi: |-
   Cầm bút
   Chưa viết
