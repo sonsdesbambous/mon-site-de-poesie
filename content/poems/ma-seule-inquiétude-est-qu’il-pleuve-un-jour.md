@@ -4,7 +4,7 @@ title: Ma seule inquiétude est qu’il pleuve un jour
 auteur: Lưu Quang Vũ
 tags:
   - amour
-  - fragilité
+  - mélancolie
 texte_vi: |-
   Anh chỉ sợ rồi trời sẽ mưa
   Xoá nhoà hết những điều em hứa
