@@ -5,7 +5,7 @@ auteur: Nguyễn Quang Thiều
 annee: "2015"
 tags:
   - philosophie
-  - métaphysique
+  - allégorie
 texte_vi: |-
   Như một nghi lễ 
   Một kẻ trồng những khóm hồng 
