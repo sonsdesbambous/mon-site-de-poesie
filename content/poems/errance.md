@@ -3,8 +3,9 @@ title_vi: Đi dạo
 title: Errance
 auteur: Xuân Diệu
 tags:
-  - Romantisme
-  - Nature
+  - amour
+  - nature
+  - lyrisme
 texte_vi: |-
   Tôi là một kẻ làm thơ... thẩn,
   Đi hỏi tình yêu giữa cảnh trời.
