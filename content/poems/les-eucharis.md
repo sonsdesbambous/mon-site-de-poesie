@@ -3,7 +3,8 @@ title_vi: Hoa ngọc trâm
 title: Les eucharis
 auteur: Xuân Diệu
 tags:
-  - Amour
+  - amour
+  - lyrisme
 texte_vi: |-
   Anh tặng cho em hoa ngọc trâm
   Hoa như ánh sáng ngọc như mầm
