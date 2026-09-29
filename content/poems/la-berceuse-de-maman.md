@@ -4,8 +4,8 @@ title: La berceuse de maman
 auteur: Xuân Quỳnh
 annee: "1960"
 tags:
-  - amour
   - famille
+  - condition féminine
 texte_vi: |-
   “...Thân gái như hạt mưa sa
   Hạt vào gác tía, hạt ra vũng lầy” 
