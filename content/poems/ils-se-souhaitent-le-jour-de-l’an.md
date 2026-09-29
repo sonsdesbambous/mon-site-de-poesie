@@ -5,7 +5,8 @@ auteur: Tú Xương
 annee: ""
 genre: Poème classique
 tags:
-  - satire
+  - critique sociale
+  - tradition
 texte_vi: |-
   Lẳng lặng mà nghe nó chúc nhau:
   Chúc nhau trăm tuổi bạc đầu râu
