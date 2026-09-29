@@ -5,7 +5,6 @@ auteur: Lưu Trọng Lư
 annee: "1939"
 tags:
   - nature
-  - lyrisme
   - mélancolie
   - symbolisme
 texte_vi: |-
