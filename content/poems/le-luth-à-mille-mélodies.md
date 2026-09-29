@@ -4,7 +4,7 @@ title: Le luth à mille mélodies
 auteur: Thế Lữ
 tags:
   - art
-  - muse
+  - lyrisme
 texte_vi: |-
   Tôi là người bộ hành phiêu lãng
   Đường trần gian xuôi ngược để vui chơi:
