@@ -4,7 +4,8 @@ title: Ton cœur et le mien
 auteur: Nguyễn Bính
 genre: Poème classique
 tags:
-  - Amour
+  - amour
+  - allégorie
 texte_vi: |-
   Lòng em như quán bán hàng 
   Dừng chân cho khách qua đường mà thôi 
