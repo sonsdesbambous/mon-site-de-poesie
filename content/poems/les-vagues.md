@@ -5,8 +5,7 @@ auteur: Xuân Quỳnh
 annee: "1967"
 tags:
   - amour
-  - océan
-  - lyrisme
+  - nature
 texte_vi: |-
   Dữ dội và dịu êm
   Ồn ào và lặng lẽ
