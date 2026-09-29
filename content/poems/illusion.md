@@ -3,7 +3,6 @@ title_vi: Ảo ảnh
 title: Illusion
 auteur: Trương Đăng Dung
 tags:
-  - illusion
   - mémoire
   - existentialisme
 texte_vi: |-
