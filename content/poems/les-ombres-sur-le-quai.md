@@ -4,8 +4,8 @@ title: Les ombres sur le quai
 auteur: Nguyễn Bính
 annee: "1937"
 tags:
-  - séparation
-  - lyrisme
+  - mélancolie
+  - solitude
 texte_vi: |-
   Những cuộc chia lìa khởi tự đây,
   Cây đàn sum họp đứt từng dây.
