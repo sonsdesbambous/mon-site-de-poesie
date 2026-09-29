@@ -6,7 +6,7 @@ annee: "2001"
 genre: Poésie visuelle
 tags:
   - allégorie
-  - rêverie
+  - condition féminine
 texte_vi: |-
   Ngôi nhà nằm nghiêng
   Trong ý thức của con người ngôi nhà phải nằm thẳng đứng
