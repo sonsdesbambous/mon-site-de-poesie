@@ -2,6 +2,9 @@
 title_vi: Tự hát
 title: Chant en solitaire
 auteur: Xuân Quỳnh
+tags:
+  - amour
+  - lyrisme
 texte_vi: |-
   Chả dại gì em ước nó bằng vàng,
   Trái tim em anh đã từng biết đấy.
