@@ -6,7 +6,6 @@ annee: "1938"
 tags:
   - allégorie
   - humanité
-  - souffrance
 texte_vi: |-
   Có nhiều lúc gió kêu thê thiết quá;
   Như gió đau một nỗi khổ vô hình,
