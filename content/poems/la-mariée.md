@@ -4,8 +4,8 @@ title: La mariée
 auteur: Nguyễn Bính
 annee: "1936"
 tags:
-  - amusement
-  - mariage
+  - famille
+  - tradition
 texte_vi: |-
   Trong buồng một mẹ một cô dâu
   Tôi nhác trông cô mắt đỏ ngầu
