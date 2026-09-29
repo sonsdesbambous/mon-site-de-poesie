@@ -4,7 +4,8 @@ title: L’automne des adieux
 auteur: Nguyễn Lâm Cẩn
 annee: "2024"
 tags:
-  - amour
+  - mélancolie
+  - solitude
 texte_vi: |-
   Thu rơi trong lá khẽ khàng
   Người về xứ mộng chiều mang mang chiều
