@@ -5,8 +5,7 @@ auteur: Phan Huyền Thư
 annee: "2002"
 tags:
   - nature
-  - onirisme
-  - métamorphose
+  - rêverie
 texte_vi: |-
   Men theo mùa hạ
   Trăng non cong nỗi thượng tuần
