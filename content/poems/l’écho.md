@@ -3,8 +3,8 @@ title_vi: Tiếng vọng
 title: L’écho
 auteur: Nguyễn Quang Thiều
 tags:
-  - morale
-  - culpabilité
+  - philosophie
+  - mélancolie
 texte_vi: |-
   Con chim sẻ nhỏ chết rồi
   Chết trong đêm cơn bão về gần sáng
