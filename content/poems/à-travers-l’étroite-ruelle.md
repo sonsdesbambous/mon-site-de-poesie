@@ -5,6 +5,7 @@ auteur: Nguyễn Phan Quế Mai
 annee: "2011"
 tags:
   - amour
+  - lyrisme
 texte_vi: |-
   Đợi mặt trời nuốt chửng ý nghĩ
   Đợi mặt trăng sa vào lòng bàn tay
