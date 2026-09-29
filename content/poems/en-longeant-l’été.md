@@ -5,7 +5,7 @@ auteur: Phan Huyền Thư
 annee: "2002"
 tags:
   - nature
-  - rêverie
+  - quête de soi
 texte_vi: |-
   Men theo mùa hạ
   Trăng non cong nỗi thượng tuần
