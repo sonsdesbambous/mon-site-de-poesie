@@ -5,6 +5,7 @@ auteur: Đinh Thị Như Thúy
 annee: "2005"
 tags:
   - amour
+  - mémoire
 texte_vi: |-
   Mỗi ngày
   cố bước càng xa ánh mắt anh
