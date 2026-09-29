@@ -4,8 +4,8 @@ title: Aux concours impériaux
 auteur: Tú Xương
 genre: Poème classique
 tags:
-  - satire
-  - ironie
+  - tradition
+  - critique sociale
 texte_vi: |-
   Tấp tểnh người đi tớ cũng đi,
   Cũng lều cũng chõng cũng đi thi.
