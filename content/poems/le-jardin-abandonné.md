@@ -4,8 +4,8 @@ title: Le jardin abandonné
 auteur: Nguyễn Bính
 annee: "1940"
 tags:
-  - abandon
   - solitude
+  - mélancolie
 texte_vi: |-
   Lòng tôi là cả một vườn hoang,
   Vắng cả chim xanh, cả bướm vàng.
