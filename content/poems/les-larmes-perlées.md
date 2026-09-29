@@ -5,8 +5,7 @@ auteur: Hàn Mặc Tử
 annee: "1937"
 tags:
   - amour
-  - lyrisme
-  - Crise intérieure
+  - souffrance
 texte_vi: |-
   Trời hỡi, bao giờ tôi chết đi?
   Bao giờ tôi hết được yêu vì,
