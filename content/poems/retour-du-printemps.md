@@ -3,7 +3,9 @@ title_vi: Xuân về
 title: Retour du printemps
 auteur: Nguyễn Bính
 annee: "1937"
-tags: []
+tags:
+  - nature
+  - amour
 texte_vi: |-
   Đã thấy xuân về với gió đông,
   Với trên màu má gái chưa chồng.
