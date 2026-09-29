@@ -5,7 +5,7 @@ auteur: Xuân Diệu
 annee: "1938"
 tags:
   - amour
-  - amitié
+  - lyrisme
 texte_vi: |-
   Tôi nhớ Rimbaud với Verlaine,
   Hai chàng thi sĩ choáng hơi men,
