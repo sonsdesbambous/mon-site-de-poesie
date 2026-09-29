@@ -6,7 +6,6 @@ annee: "2007"
 tags:
   - philosophie
   - existentialisme
-  - mélancolie
 texte_vi: |-
   Có những bức tường ta xây
   và ta phá,
