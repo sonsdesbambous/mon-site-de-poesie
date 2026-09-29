@@ -5,7 +5,7 @@ auteur: Nguyễn Bính
 annee: "1936"
 tags:
   - tradition
-  - authenticité
+  - nostalgie
 texte_vi: |-
   Hôm qua em đi tỉnh về,
   Đợi em ở mãi con đê đầu làng.
