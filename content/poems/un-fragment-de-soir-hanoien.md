@@ -4,8 +4,8 @@ title: Un fragment de soir hanoien
 auteur: Nguyễn Duy
 annee: "1986"
 tags:
+  - nostalgie
   - mélancolie
-  - hanoï
 texte_vi: |-
   Hồ gươm xanh màu xanh cổ tích
   con rùa vàng gửi bóng ở trên mây
