@@ -5,7 +5,6 @@ auteur: Trương Đăng Dung
 annee: "2008"
 tags:
   - amour
-  - fuite du temps
   - existentialisme
 texte_vi: |-
   Sợ bóng tối sẽ tràn vào
