@@ -3,6 +3,7 @@ title_vi: Giấc mơ của anh hề
 title: Le rêve du bouffon
 auteur: Lưu Quang Vũ
 tags:
+  - art
   - espoir
   - rêverie
 texte_vi: |-
@@ -58,7 +59,7 @@ traductions:
       Pour le prisonnier sur le sol de pierre glacée,
       Entrevoir une volée d’oiseaux aux ailes blanches ;
       Pour l’âme assombrie aux yeux baissés,
-      Se dresser en sérénité sous le soleil.
+      Se dresser en sérénité sous le soleil éclatant.
 
       Les rêves nocturnes rachètent le jour ;
       Dans l’illusion se vit la part la plus vraie.
