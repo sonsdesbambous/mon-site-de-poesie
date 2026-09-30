@@ -4,6 +4,7 @@ title: Notre rue
 auteur: Lưu Quang Vũ
 annee: "1970"
 tags:
+  - amour
   - espoir
   - philosophie
 texte_vi: |-
