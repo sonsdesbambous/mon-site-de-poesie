@@ -54,7 +54,7 @@ traductions:
 
       Ce refrain d’autrefois, cette musique harmonieuse,
       Fit de notre enfance le plus doux des refuges.
-      La vie a beau promettre changements et lassitude,
+      La vie a beau réserver changements et lassitude,
       Tête contre tête, nous nous donnons aux berceuses.
 
       Sans être de ceux qui oublient, mon cœur redoute
