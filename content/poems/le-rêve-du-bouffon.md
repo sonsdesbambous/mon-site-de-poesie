@@ -80,7 +80,7 @@ traductions:
       Se donnant la main.
 
       Arlequin miséreux
-      Joue de la flûte sous le lambrequin de velours empourpré ;
+      Joue de la flûte sous le lambrequin de velours cramoisi ;
       Don Quichotte, en haillons,
       S’en va combattre pour le monde.
       Tels des navires qui relient rivage et océan,
