@@ -53,7 +53,7 @@ texte_vi: |-
 traductions:
   - texte_fr: |-
       Notre rue,
-      Les pommiers fleurissent,
+      Les jujubiers fleurissent,
       C’est l’automne,
       Les troncs des arbres se pèlent,
       Les ruelles pavées
@@ -91,11 +91,11 @@ traductions:
       Ne sois plus triste, je t’en prie,
       Le vieux menuisier se trompait !
       Si la vie n’était que laideur,
-      Pourquoi le pommier fleurirait-il ?
+      Pourquoi le jujubier fleurirait-il ?
       Pourquoi le ruisselet serait-il si clair ?
       Ô ma moinelette aux cheveux ébouriffés,
       Le vieux menuisier se trompait !
-extrait: Si la vie n’était que laideur, | Pourquoi le pommier fleurirait-il ? |
+extrait: Si la vie n’était que laideur, | Pourquoi le jujubier fleurirait-il ? |
   Pourquoi le ruisselet serait-il si clair ʔ
 featured: false
 date: 2026-08-28
