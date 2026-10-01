@@ -44,9 +44,9 @@ traductions:
       Elle se résigne à rompre le serment d’autrefois.
 
       Délaissant la barque, le quai et l’eau qui court,
-      La jeune fille s’en va suivre son mari.
+      La passeuse s’en va ainsi se marier.
       Sa silhouette n’apparaît plus depuis ce jour,
-      Plongeant les passagers dans la mélancolie...
+      Plongeant dans la mélancolie les passagers...
 featured: false
 date: 2026-08-18
 draft: false
