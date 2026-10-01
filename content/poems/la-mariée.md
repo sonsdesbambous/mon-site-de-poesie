@@ -36,7 +36,7 @@ traductions:
       Le printemps suivant, elle porte un garçon dans ses bras ;
       Par jeu, je lui rappelle cette ancienne histoire :
       « Ainsi, tu ne voulais aller nulle part, n’est-ce pas ? »
-      « Maudit sois-tu d’avoir une si bonne mémoire ! »
+      « Ah, sacré farceur, quelle tenace mémoire ! »
     note_traducteur: Le « nhị hỷ » désigne le deuxième jour des noces dans la
       tradition vietnamienne, où la mariée revient rendre visite à sa famille
       avec son époux.
