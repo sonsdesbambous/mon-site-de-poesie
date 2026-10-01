@@ -80,7 +80,7 @@ traductions:
       « Garde-la, ma chérie, rentre entretenir maman ! »
 
       Un jour, j’ai vu une pauvre vieille mère,
-      Mener son fils soldat aux lointaines frontières.
+      Reconduire son fils soldat aux lointaines frontières.
       Le train déjà bien parti, debout elle restait,
       Son dos voûté jetant une ombre sur le quai.
 
@@ -96,7 +96,7 @@ traductions:
 
       　 　　   　　　　* 
       Il m’arrivait d’attendre des trains, et aussi,
-      D’accueillir, de réconduire proches et voyageurs.
+      D’accueillir, de prendre congé de proches et voyageurs.
       Pourquoi cette gare-là, comment ce quai-ci
       Ne laissent-ils rien d’autre que la marque des adieux ?
 extrait: Le train déjà bien parti, debout elle restait, | Son dos voûté jetant
