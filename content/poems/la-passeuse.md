@@ -31,9 +31,9 @@ traductions:
       Le printemps a ramené la douce nostalgie
       Au cœur de la passeuse sur le débarcadère.
       Sa pensée est retournée trois printemps en arrière,
-      Au serment échangé avec un être cher.
+      Au serment échangé avec quelqu’un de chéri.
 
-      Mais l’être tant aimé partit ce printemps-là, 
+      Mais ce voyageur galant partit ce printemps-là, 
       Un adieu sans nul retour auprès... du vieux quai.
       L’un après l’autre, les printemps s’étaient écoulés,
       La fille se morfondait en vain à guetter ses pas.
@@ -44,10 +44,10 @@ traductions:
       Elle se résigne à rompre le serment d’autrefois.
 
       Délaissant la barque, le quai et l’eau qui court,
-      La passeuse s’en va ainsi se marier.
+      La passeuse s’en va se marier ainsi.
       Sa silhouette n’apparaît plus depuis ce jour,
-      Plongeant dans la mélancolie les passagers...
+      Plongeant les voyageurs dans la mélancolie...
 featured: false
 date: 2026-08-18
-draft: false
+draft: true
 ---
