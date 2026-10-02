@@ -44,10 +44,10 @@ traductions:
       Elle se résigne à rompre le serment d’autrefois.
 
       Délaissant la barque, le quai et l’eau qui court,
-      La passeuse s’en va se marier ainsi.
+      La passeuse s’en va enfin prendre un mari.
       Sa silhouette n’apparaît plus depuis ce jour,
       Plongeant les voyageurs dans la mélancolie...
 featured: false
 date: 2026-08-18
-draft: true
+draft: false
 ---
