@@ -65,8 +65,8 @@ traductions:
       « Le chemin de ta maison est bien loin, mon amie ? »
 
       Un jour, j’ai vu deux êtres amoureux,
-      L’un raccompagnant l’autre un soir silencieux,
-      Dans une gare si lointaine et désertée,
+      L’un raccompagnant l’autre, par un soir silencieux,
+      Dans une gare si perdue et désertée,
       Main dans la main, leurs ombres chancelaient.
 
       Et j’ai vu deux jeunes hommes se dire adieu,
