@@ -37,7 +37,7 @@ traductions:
       Je tombe éperdument au rythme du tonnerre,
       Je coule généreusement le long des artères.
 
-      Je porte en moi les corps des flamboyants empourprés,
+      Je porte en moi les corps des flamboyants meurtris,
       Les dépouilles des cigales affligées,
       Les feuilles mortes et les détritus de la cité.
 
