@@ -33,7 +33,7 @@ traductions:
       Sa pensée est retournée trois printemps en arrière,
       Au serment échangé avec quelqu’un de chéri.
 
-      Mais ce voyageur galant partit ce printemps-là, 
+      Mais le voyageur galant partit ce printemps-là, 
       Un adieu sans nul retour auprès... du vieux quai.
       L’un après l’autre, les printemps s’étaient écoulés,
       La fille se morfondait en vain à guetter ses pas.
