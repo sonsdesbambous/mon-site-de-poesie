@@ -51,7 +51,7 @@ traductions:
       Qui oserait quêter les lèvres d’une veuve,
       Où se fanent presque les couleurs du printemps ?
 
-      Ô Ciel ! La lassitude assiège entièrement 
+      Ô Ciel ! Le désespoir assiège entièrement 
       Toutes mes pensées en plein royaume du Deuil !
 extrait: Que l’on me cherche des fleurs prêtes à périr, | J’en saisirai un brin
   d’éclat de leur déclin
