@@ -37,6 +37,9 @@ traductions:
       Ta tunique est si blanche qu’on ne saurait la distinguer...
       Ici, dans la brume, s’estompe le profil humain,
       Qui percerait l’amour de l’autre, profond ou léger ?
+    note_traducteur: Vĩ Dạ est à l’origine « Vĩ Dã » (葦野), signifiant littéralement
+      « roselière ». Au fil du temps, la prononciation s’est altérée pour
+      devenir « Vĩ Dạ », nom sous lequel le hameau est aujourd’hui connu.
 extrait: Le vent suit son chemin, et les nuages leur voie, | Le courant
   s’attriste, les fleurs de maïs trémulent
 featured: false
